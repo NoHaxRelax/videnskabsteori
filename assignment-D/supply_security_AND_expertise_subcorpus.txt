@@ -1,0 +1,812 @@
+Matches: 61
+
+[1] id=115 | Actor=Chris Peeters | Year=2021 | Source=None (None)
+The establishment of a Belgian-Danish cable is an important next step in making our electricity system more
+sustainable. This project will enhance supply security and allow us to continue pioneering innovative
+technologies, giving our businesses a competitive edge on the international stage. The collaboration with
+Energinet is vital to achieving these goals and ensuring the success of the energy island initiative.
+--------------------------------------------------------------------------------------------------------------
+[2] id=3645 | Actor=Energinet | Year=2021 | Source=None (None)
+Energinet emphasizes that energy islands will optimize the integration of renewable energy into the grid,
+reducing dependency on fossil fuels and enhancing energy security for Denmark and neighboring countries.
+--------------------------------------------------------------------------------------------------------------
+[3] id=3457 | Actor=Reddit user | Year=2022 | Source=None (None)
+Italy's "110%" initiative is a smart approach to boosting energy efficiency. Homeowners who upgrade their
+property to at least 3 energy classes higher receive substantial tax bonuses over the next 20-30 years. Banks
+can purchase these tax credits, providing homeowners with immediate cash for the upgrades.    This benefits
+everyone: citizens save on energy costs and increase property value; banks earn from the sale of tax credits
+and interest on loans; the government reduces infrastructure costs and increases energy independence.
+Contractors and engineers have plenty of work, and politicians enjoy higher GDP and long-term electoral
+benefits.    The model encourages reduced consumption while increasing production of energy-efficient homes.
+--------------------------------------------------------------------------------------------------------------
+[4] id=4832 | Actor=Energinet | Year=2022 | Source=None (None)
+I am pleased to announce that we at Energinet are now beginning to explore the possibility of allowing the
+people of Bornholm to benefit from the electricity produced by the upcoming energy island in the Baltic Sea.
+The preliminary conclusion comes after an initial analysis, which shows that connecting Bornholm’s electricity
+grid to the energy island's future power connections would lead to socio-economic savings. The analysis also
+confirms that this can be done without compromising the stability or security of supply in Bornholm’s
+electricity grid and without delaying the project timeline.  We have had a good and close dialogue with
+Bornholm’s Regional Municipality. I fully understand the desire of the people of Bornholm to reap the benefits
+of a connection – both in terms of consumption and production of green electricity on the island. That is why
+I am incredibly pleased that we can now work towards connecting Bornholm’s electricity grid to the energy
+island’s power connections.
+--------------------------------------------------------------------------------------------------------------
+[5] id=6343 | Actor=Energinet | Year=2022 | Source=None (None)
+Bornholm currently relies on a submarine cable to Sweden for power, which was due for renovation. To ensure
+supply security, Energinet funds a Bornholm power plant to provide backup power in case the cable fails. This
+cost could be eliminated if the Bornholm power grid is connected to the energy island's cables.
+--------------------------------------------------------------------------------------------------------------
+[6] id=3136 | Actor=Vincent Van Quickenborne | Year=2023 | Source=None (None)
+The North Sea is becoming a driving force behind our energy independence. However, in light of the recent acts
+of sabotage on the Nord Stream gas pipelines, protecting this critical infrastructure from sabotage and
+attacks has become more important than ever. We are committed to securing both the cables that deliver
+electricity to the mainland and the energy island against such events.  Recently, we passed a law that
+significantly strengthens these protective measures. We are now ensuring video surveillance at sea, using
+drones, monitoring foreign vessels in our waters, and commissioning competent authorities to conduct regular
+security assessments.
+--------------------------------------------------------------------------------------------------------------
+[7] id=3320 | Actor=50Hertz Transmission GmbH | Year=2023 | Source=None (None)
+What an exciting hashtag - Offshore Week! Only the hashtag - NorthSeaSummit23 in Ostend, now the annual
+conference of hashtag - WindEurope in Copenhagen. We are present there until tomorrow with and with our joint
+stand. Today, Crown Prince Frederik of Denmark saw an idea of how our three energy islands Princess Elisabeth
+Island (Elia Group), Bornholm Energy Island (Hashtag - #50HertzEnerginet) and North Sea Energy Island
+(Energinet) will contribute to taping the hashtag – offshore potential in the North and Baltic Sea – and thus
+represent another innovative step to ensuring hashtag – supply security and Europe. Together with Energinet ,
+we want to build a stream slit cross from on the island of Bornholm. There, alternating current is to be
+converted into high-voltage direct current (HVDC) and distributed as required. More than 525 kV sea and land
+cable systems are transported to substations on the Danish island of Zealand and Mecklenburg-Vorpommern. In
+this way Hashtag#CombinedGridSolution , we are launching another innovative project with our Danish
+transmission grid partner in order to integrate efficiently and into energy systems, which is generated by
+wind power from the sea efficiently and across countries – and thus further networking Europe's electricity
+system. Hashtag > EuropeanOffshoreGrids On our new project website you can find more information on this:
+https://lnkd.in/egYFG-et  Our joint stand at the hashtag Ã WindEurope can be found in Hall E - F70. Come and
+exchange ideas with our experts! Helen Burgess (she/her/hers) Marleen Vanhecke Bobby Xiong Moritz Wienhold
+Marie-Laure Vanwanseele Johan Maricq Chris Peeters Stefan Kapferer Bernard De Clercq Jelle Reynaert Nicolas
+Beck Mélanie Laroche Geert Moerkerke Pierre-Yves Guillermin
+--------------------------------------------------------------------------------------------------------------
+[8] id=3844 | Actor=Vincent Van Quickenborne | Year=2023 | Source=None (None)
+The North Sea will become the engine of our energy independence. The Princess Elisabeth Island will be an
+essential link in this. Our country has long been a pioneer in the field of offshore wind power with companies
+such as DEME and Jan De Nul, which are world leaders. They are proving it once again with these plans for the
+world’s first energy island. It is thanks to their expertise and their role as global pioneers that we can
+accelerate the energy transition together.
+--------------------------------------------------------------------------------------------------------------
+[9] id=4920 | Actor=Vincent Van Quickenborne | Year=2023 | Source=None (None)
+I think the North Sea will be the powerhouse of our energy independence. The Princess Elisabeth Island will be
+a crucial link. Our country has been a pioneer in the field of offshore wind for some time with companies such
+as DEME and Jan De Nul that are world top. They prove this again with these plans for the world's first energy
+island. It is thanks to their expertise and global pioneering role that together we can accelerate the energy
+transition."
+--------------------------------------------------------------------------------------------------------------
+[10] id=5271 | Actor=Thomas Egebo | Year=2023 | Source=None (None)
+The agreement signed by Danish Climate Minister Lars Aagaard and German Economy Minister Robert Habeck in
+Luxembourg represents a crucial step for Denmark and Energinet. The development of very large offshore wind
+farms and international connections is vital for Denmark's political ambitions to export both green
+electricity and green hydrogen through future hydrogen pipelines in Denmark. These initiatives will support
+the decarbonization of Germany's industrial sector.  The joint project in the Baltic Sea, together with
+Energinet's North Sea projects, will significantly impact Europe's green transition. The cooperation with
+German transmission operator 50Hertz on Energy Island Bornholm marks a shift away from point-to-point
+connections between individual countries. In the future, offshore wind power will flow to where demand is
+highest through offshore high-voltage direct current networks.  Energy Island Bornholm will create another
+trading connection between the German and Danish electricity markets. This is economically feasible and will
+increase both countries' security of supply under new geopolitical circumstances. The expansion of large
+offshore wind farms and international connections aligns with political ambitions and plans to export green
+energy, supporting the broader European green transition.
+--------------------------------------------------------------------------------------------------------------
+[11] id=5577 | Actor=Danish Council on Climate Change | Year=2023 | Source=None (None)
+Denmark can maintain high electricity supply security even under extreme weather conditions, despite the
+European electricity system increasingly relying on solar and wind energy. This security can be ensured
+through straightforward measures without significantly raising overall electricity supply costs. These
+measures include making electricity consumption more flexible, storing energy, and investing in reserve
+capacity for critical situations.   However, the transformation of the energy system will place greater
+pressure on electricity supply security due to a significant increase in electricity consumption and the
+growing reliance on solar and wind energy, which cannot be regulated as easily as traditional power plants. By
+2040, nearly all Danish electricity production will come from renewable sources, and electricity consumption
+will rise substantially, driven by national and EU policies to expand offshore wind and solar power while
+electrifying a significant portion of energy use.   The challenges to electricity supply security are
+manageable, but implementing the necessary solutions—such as flexible consumption, energy storage, and reserve
+capacity—will take many years. Authorities must act promptly to address these challenges to avoid potential
+electricity shortages during peak demand periods when renewable sources cannot meet inflexible consumption.
+Ensuring supply security requires robust planning, including addressing reliance on varying energy sources,
+diminished dispatchable power plant capacity, and uncertain availability of electricity imports during
+stressed conditions.
+--------------------------------------------------------------------------------------------------------------
+[12] id=729 | Actor=Mogens Hagelskær | Year=2023 | Source=None (None)
+The energy island will supply millions of households with green electricity and strengthen European energy
+security. The collaboration with baltic offshore wind development specialists will further accelerate the
+green transition in the Baltic Sea region.
+--------------------------------------------------------------------------------------------------------------
+[13] id=962 | Actor=Ministry of Energy, Utilities and Climate, Ministry for Economic Afairs and Climate Action | Year=2023 | Source=None (None)
+We acknowledge the critical importance of energy security and combating climate change for the future of the
+European Union. We recognize that recent geopolitical events have highlighted the urgent need to replace
+fossil fuels, especially Russian oil, coal, and gas, with European renewable energy from the North Sea,
+including offshore wind electricity and green hydrogen, to support both EU climate neutrality and energy
+security.   We further acknowledge the cooperation established between Denmark, Germany, Belgium, and the
+Netherlands in the “Esbjerg Declaration” of May 18th, 2022, which envisions the North Sea as a Green Power
+Plant of Europe. In our view, offshore renewable energy hubs and a meshed offshore grid are essential for
+generating, connecting, converting, and transporting offshore wind energy in the North Sea.   We note
+Germany’s plans to establish offshore renewable energy clusters with a 10 GW capacity in the North Sea by the
+mid-2030s and Denmark’s plans to create a Danish Energy Island with up to 10 GW capacity by 2040.
+Additionally, we recall the EU Marine Strategy Directive and our joint commitment to achieving good
+environmental status for all European seas, including the North Sea.  We have agreed on the necessity of this
+Joint Declaration of Intent (JDoI) to focus on cooperation for connecting Germany’s planned offshore renewable
+energy hubs with Denmark’s Energy Island. Our primary objective is to facilitate mutual benefits by improving
+energy security, increasing socio-economic welfare, diversifying energy sources, meeting EU and national
+renewable energy targets, and integrating wind power with hydrogen and Power-to-X technologies.  To achieve
+this, we propose the establishment of a Joint Working Group led by energy ministries, supported by energy
+authorities and Transmission System Operators (TSOs). This group will develop a pre-feasibility study
+analyzing technical, environmental, and economic aspects and deliver a joint recommendation by the first half
+of 2024. This recommendation will guide the next steps toward realizing the project, aiming for implementation
+by the mid-2030s.  We emphasize that this JDoI creates no binding obligations under international law and
+imposes no financial commitments unless mutually agreed. Cooperation costs are borne by the respective
+Participant. Any amendments to this JDoI require joint written consent, and any misunderstandings will be
+resolved collaboratively in good faith and mutual trust.   This JDoI takes effect upon signature and may be
+terminated with three months' written notice. Termination does not affect ongoing activities unless otherwise
+decided.  Signed on April 24th, 2023, in Ostende.
+--------------------------------------------------------------------------------------------------------------
+[14] id=1084 | Actor=Energinet | Year=2024 | Source=None (None)
+Energinet estimates that approximately 1 billion Danish kroner can be saved through this solution. This is
+because, according to Energinet, expenses for power supply via the seabed cable can be eliminated if the
+Bornholm electricity grid is connected to the Energy Island's cables.  Bornholm residents can also expect
+"relatively stable electricity prices" by connecting to the Energy Island's electricity production.
+--------------------------------------------------------------------------------------------------------------
+[15] id=1183 | Actor=Esben Baltzer Nielsen | Year=2024 | Source=None (None)
+As a representative of Vattenfall, I can confirm that offshore wind farms like Kriegers Flak offer significant
+advantages. Located approximately 40 kilometers from the Danish coast, Kriegers Flak is Denmark's largest
+offshore wind park. The wind speeds this far out at sea are both high and consistent, resulting in very stable
+energy production throughout the year.  Since September, our 72 turbines have been operational, capable of
+generating 600 megawatts of electricity - enough to power 600,000 Danish households. While building such an
+offshore wind park is significantly more complex than onshore installations, we've successfully collaborated
+with Luxembourg-based companies like Jan De Nul from Capellen, who have been crucial partners in this 1.3
+billion euro project.  This expertise will be valuable for Denmark's planned energy island project, which aims
+to install wind turbines capable of producing 10,000 megawatts - equivalent to 2.5 times the output of the
+Cattenom nuclear power plant. We continue to expand our offshore wind operations, having just signed another
+project with Jan De Nul to install 50 additional wind turbines in the Baltic Sea.
+--------------------------------------------------------------------------------------------------------------
+[16] id=1251 | Actor=Marie-Louise Rafn | Year=2024 | Source=None (None)
+It is technically possible and also a socio-economically good idea to connect the Bornholm electricity grid to
+the offshore wind turbine project Energiø Bornholm. This is stated in a response from Energinet, which has
+been published in Bornholms Tidende. Here, Energinet points out that the people of Bornholm will be able to
+get better security of supply and relatively stable electricity prices. According to the plan, Bornholm Energy
+Island will supply green power from offshore wind turbines to up to three million households in Germany and
+Zealand. Energinet now concludes that the people of Bornholm can also take part in the green electricity.
+However, the connection will have costs that Energinet is still calculating. In the end, it is the Minister of
+Climate, Energy and Utilities who must approve Bornholm's connection to the Energy Island.
+--------------------------------------------------------------------------------------------------------------
+[17] id=1365 | Actor=Søren Møller Christensen | Year=2024 | Source=None (None)
+It is misleading that you are creating a narrative that the Bornholm Energy Island will cost Danish taxpayers
+DKK 31.5 billion. The Bornholm Energy Island encompasses both offshore wind and infrastructure and should be
+assessed based on its socio-economic impact. - The Danish Energy Agency has omitted several factors in their
+calculation of the socio-economic impact. Our point is that we also need to include expected EU support,
+positive socio-economic impact from the connection to Bornholm, security of supply in DK2, technological
+advantages for Danish businesses, and in the long term, the opportunities to develop Bornholm into a dedicated
+hub with connections to especially Poland, but also Sweden. To emphasize my points, I believe it is crucial
+that we accurately represent the Economic Council of Advisors. They have not, as you write, recommended
+abandoning the Bornholm Energy Island. They have recommended that updated socio-economic analyses be prepared,
+incorporating more factors to provide a better basis for decision-making.
+--------------------------------------------------------------------------------------------------------------
+[18] id=1741 | Actor=50Hertz Transmission GmbH | Year=2024 | Source=None (None)
+50Hertz Transmission GmbH views the Danish "Energy Island" projects as critical for advancing European energy
+sovereignty and achieving climate neutrality. At the Baltic Offshore Wind Forum, 50Hertz signed two Letters of
+Intent to strengthen international cooperation in offshore wind energy and grid interconnection. The first
+agreement, with transmission system operators in Estonia, Latvia, and Lithuania, focuses on developing
+offshore wind energy projects and meshed offshore grids in the Baltic Sea. The second agreement, with
+Estonia’s Elering, outlines the Baltic WindConnector, a 750-kilometer hybrid submarine cable that will
+transmit large amounts of offshore wind energy from Estonia to Germany, enhancing energy security and climate
+goals for both nations.  50Hertz emphasizes its ongoing collaboration with Denmark’s Energinet, including the
+Combined Grid Solution at Kriegers Flak and plans for the Bornholm Energy Island. These projects will act as
+energy hubs, enabling the flexible transmission of wind power between Denmark and Germany. 50Hertz highlights
+the strategic potential for Baltic states to become exporters of green electricity, benefiting Central Europe
+by increasing energy security, diversifying renewable energy sources, and supporting Germany’s efforts to
+achieve climate neutrality and industrial decarbonization by 2045.
+--------------------------------------------------------------------------------------------------------------
+[19] id=18 | Actor=Søren Moller Christensen, Troels Ranis | Year=2024 | Source=None (None)
+The debate about Energy Island Bornholm lacks perspective. This project is not just about Bornholm.    Energy
+Island Bornholm represents a transformative initiative with three key pillars: climate impact, industrial
+leadership, and geopolitical security. It is critical for Denmark and Europe to maintain a visionary approach
+to transition away from fossil fuels, ensuring a greener and more secure future.    Firstly, Energy Island
+Bornholm serves as a catalyst for the green transition, not only by delivering green electricity to 3-4
+million households and reducing CO₂ emissions by over 3 million tons annually but also by spearheading
+innovations for future energy islands. In particular, its role supports Europe's ambitious goal of 300 GW
+offshore wind by 2050, making such targets achievable cost-effectively.    Secondly, this project secures
+Denmark’s technological and industrial leadership in green energy, especially wind technology. By acting as a
+test and innovation platform, it ensures Danish companies remain at the forefront of energy island
+development, safeguarding their competitive edge in global markets.    Thirdly, from a security perspective,
+Energy Island Bornholm reduces Europe's dependency on Russian oil and gas by enhancing energy self-reliance.
+It is a vital infrastructure for connecting Baltic and European electricity markets and scaling offshore wind
+energy in the North Sea.    Criticisms of Energy Island Bornholm’s economic viability often fail to consider
+the broader societal and strategic benefits. While the Energy Agency’s 2023 calculations show a potential
+deficit of 4 billion DKK, this does not account for key value drivers, including Denmark’s leadership in wind
+technology, potential revenue from international energy connections (e.g., a cable to Poland estimated to
+improve economics by 15-20 billion DKK), and expected EU funding.    Additional benefits like energy security,
+job creation, Power-to-X production, and Bornholm's economic integration further underscore the project’s
+importance. Energy Island Bornholm is a long-term investment in critical infrastructure, with the potential to
+generate economic growth, strengthen Denmark’s position as a wind energy leader, and support Europe’s green
+and security agendas.
+--------------------------------------------------------------------------------------------------------------
+[20] id=2136 | Actor=The Danish Energy Agency | Year=2024 | Source=None (None)
+The Danish Energy Agency (Energistyrelsen) has assessed the socio-economic consequences of various
+configurations of the Bornholm Energy Island project, which includes wind farms, a transformer station on
+Bornholm, and grid connections to Denmark and Germany. The central estimates for the socio-economic impact
+across all scenarios are negative, with potential losses ranging from 4 billion DKK to 17 billion DKK.
+Additionally, the project is expected to require public subsidies amounting to 31.5 billion DKK over the first
+approximately 20 years of operation. Of this amount, 17.6 billion DKK has already been politically approved as
+of May 2023. The approved funding will be sourced from anticipated revenues from the 6 GW offshore wind tender
+(8.7 billion DKK), the Green Fund (4.9 billion DKK), and future fiscal space (4.0 billion DKK). However, an
+additional subsidy of approximately 14 billion DKK is needed because the wind farms associated with the energy
+island are not expected to be profitable, and no specific financing has been identified for this amount. Given
+the negative socio-economic outlook, the project should be reconsidered. The current socio-economic assessment
+does not account for several effects that are difficult to quantify, such as energy supply security and
+potential Power-to-X production. Therefore, it is recommended that a new socio-economic analysis be conducted,
+incorporating as many relevant effects as possible. If it cannot be demonstrated that the project will
+generate a socio-economic surplus, it should be abandoned.
+--------------------------------------------------------------------------------------------------------------
+[21] id=2213 | Actor=LinkedIn user | Year=2024 | Source=None (None)
+Energy Island Bornholm  The text below is the introduction to my note on Energy Island Bornholm. You can no
+longer attach a file or a link to posts on LinkedIn, but I am happy to send the entire note to those
+interested.  Energy Island Bornholm is intended to pave the way for Denmark to maintain its leading position
+as a green pioneer country. The Economic Council has warned about the project's poor economic viability. An
+article in Jyllands-Posten on December 25, 2024, highlights the benefits that are not included in the economic
+analyses, including Denmark's technological leadership, the path to new international electricity connections,
+supply security, and job creation on Bornholm. These are airy and well-known arguments. When trying to gain a
+more concrete understanding of the project, it turns out to be wrapped in many words but with few useful
+details. This is especially true for the project's technical design. My conclusions about Energy Island
+Bornholm:  It is a serious democratic problem that parts of the documentation for such a large public
+investment are kept secret. There is almost no publicly available information about the chosen technical
+solutions. This prevents technically interested parties from assessing the project's technical risks. Since
+Energinet's "Business case" from 2022, the expectation of the project's economic viability has significantly
+deteriorated. Therefore, it must be decided whether the project should be changed or abandoned. The choice of
+an energy island over a platform solution results in the concentration of large energy transactions in a few
+points, thereby increasing the vulnerability of the electricity supply in Denmark and the rest of Europe. In
+light of increased international tensions, this choice should be reconsidered. The technical interconnection
+on the energy island is described in Energinet's risk assessment as "immature." This is an understatement, as
+the interconnection is challenging and has so far only been attempted on a full scale in very few places in
+the world. No Danish companies develop or produce HVDC equipment, so it serves no Danish interest to rely on
+untested solutions. Multiterminal offshore HVDC solutions should not be included in the project in any form
+until the necessary new technologies are fully tested elsewhere. Analyses of alternative solutions have been
+neglected. Due to poor economics and technological uncertainty, the project should be put on hold until all
+relevant solutions are properly investigated and evaluated.
+--------------------------------------------------------------------------------------------------------------
+[22] id=2224 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+I want to stress that the economic foundation for Energiø Bornholm is highly challenged. The state's estimated
+cost is 31.5 billion DKK, according to civil servants in the Danish Energy Agency, while the agreement parties
+estimate it at only 17.6 billion DKK, as politicians have set a cap on how expensive the project can be for
+Danes.  Due to the poor economy, advocates have shifted to non-economic arguments such as energy security and
+large PtX potentials, but these do not hold up either. Wind turbines at Bornholm contribute only limitedly to
+Danish energy security. The Danish Energy Agency has pointed out that additional wind turbines in the Baltic
+Sea do not significantly increase electricity production during periods of low production. Moreover, the
+international connection to Germany, which actually contributes to energy security, could likely be obtained
+more cheaply.  There are many good reasons to increase electricity market integration between Northern and
+Southern Europe, but it should be done properly and not just used as an excuse to continue with an
+economically disastrous project where the part of the project that can be justified could be obtained more
+cheaply.  Furthermore, Bornholm is not suitable for producing hydrogen and other PtX products due to high
+costs. A report from DTU, which compares production costs on Bornholm with those in Western Europe, the USA,
+and China, shows that it would be most expensive to produce hydrogen and further process it into ammonia on
+Bornholm. This means that PtX production on Bornholm is unlikely to be competitive in terms of price.  We
+still have not heard a single good argument for establishing the billion-dollar Energiø Bornholm.
+--------------------------------------------------------------------------------------------------------------
+[23] id=2225 | Actor=Kraka Economics | Year=2024 | Source=None (None)
+"If it cannot be documented that the project provides a socio-economic surplus, it should be dropped."  This
+is what the Economic Council wrote about Energy Island Bornholm in their autumn report 2024. At the same time,
+they recommended including more effects in the socio-economic assessment, such as supply security.  We have
+therefore tried to determine whether the benefits of increased supply security are enough to justify the
+project's struggling economy. The answer is no.  This is fundamentally due to:  ◾ The project has a socio-
+economic deficit of 7 billion DKK, while a cautious estimate of the project's improvement in supply security
+is valued at approximately 3 billion DKK.  ◾ An analysis from Energinet shows fewer problems with capacity
+adequacy (whether there is enough power) going forward than previously assumed.  ◾ It is primarily the foreign
+cable to Germany that contributes to supply security. However, it is hard to imagine that this could not be
+obtained cheaper than via a detour over Bornholm.  ◾ The Climate Council has previously pointed out that
+foreign connections are not the most effective way to increase supply security, as the sun shines and the wind
+blows at roughly the same time in our neighboring countries. Therefore, there is a high probability that they
+will lack power at the same times.  Even if new socio-economic calculations unexpectedly show a positive
+socio-economic outcome, alternatives that solve the same task should always be compared. Here, it is not our
+assessment that Energy Island Bornholm is the project that solves the task best.  We therefore assess that
+increased supply security is unlikely to be sufficient to justify the energy island. That said, it is a good
+idea to have the topic thoroughly analyzed by the Danish Energy Agency. However, there is not much time before
+Energinet has to sign contracts on infrastructure, such as the power cable between Zealand and Bornholm, and
+therefore it is important to put the entire project on hold until the analyses are completed. It will be
+significantly more expensive to drop the project if contracts on expensive infrastructure have already been
+signed.
+--------------------------------------------------------------------------------------------------------------
+[24] id=2234 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+The supporters of the Energy Island Bornholm project are changing the premise of the discussion instead of
+doing the only responsible thing, which is to cancel the project. Politicians are avoiding making the right
+but politically uncomfortable decisions. The original arguments for the project have proven unsustainable, and
+new, unconvincing arguments are being invented. The project is now justified as a benefit for Germany and
+Europe and as an expensive employment project for Bornholm. Economic experts, including Kraka Economics,
+recommend canceling the project unless societal economic analyses show it benefits Danes. Political support is
+wavering due to poor economic prospects, with significant state subsidies required. The remaining arguments
+for the project, such as improved Danish supply security, lower electricity prices, and regional development
+on Bornholm, are weak and do not justify the high costs involved.
+--------------------------------------------------------------------------------------------------------------
+[25] id=2442 | Actor=Jyllands posten | Year=2024 | Source=None (None)
+The Danish Energy Agency's 2023 calculations indicate a deficit of DKK 4 billion for the Energiø Bornholm
+project if Europe meets its climate goals. However, these calculations overlook several significant values
+generated by Energiø Bornholm's visionary and innovative nature.    First, the Energy Island reinforces
+Denmark's technological leadership by providing Danish companies with a platform to develop and export next-
+generation wind technology. Second, international connections, such as a potential future cable to Poland as
+suggested by Ørsted, could improve the project's economics by DKK 15–20 billion. Third, as a European Project
+of Common Interest, Energiø Bornholm is well-positioned to secure significant EU funding, potentially up to
+DKK 5 billion from the next allocation.    Moreover, the calculations do not account for additional benefits
+such as improved energy security, overplanting capacity, Power-to-X (PtX) production, the connection to
+Bornholm, and job creation on Bornholm. Energiø Bornholm represents a critical infrastructure investment with
+far-reaching societal benefits, including economic growth, enhanced supply security, and bolstered Denmark's
+strategic position as a global leader in wind energy.
+--------------------------------------------------------------------------------------------------------------
+[26] id=2523 | Actor=Jacob Trøst | Year=2024 | Source=None (None)
+I am pleased that Bornholm can be connected to the Energy Island. This sends a clear signal that both
+Energinet and Christiansborg consider the Bornholm community a vital player in the major decision surrounding
+Energy Island Bornholm. As a society, we should benefit from hosting the Energy Island.   Being part of a
+larger facility and energy grid ensures supply security. We will experience fewer power outages in the future,
+which is a great advantage. It also creates better opportunities for local projects and businesses to connect
+to our network. This is a fantastic opportunity.   Additionally, it reinforces the narrative that Bornholm
+thrives on sustainable energy.
+--------------------------------------------------------------------------------------------------------------
+[27] id=2659 | Actor=Troels Lund Poulsen | Year=2024 | Source=None (None)
+The Danish Defence Ministry, under my leadership, acknowledges the concerns expressed by Borgerforeningen
+Energiø Bornholm about the security, supply security, and socio-economic implications of the Energy Island
+projects on Bornholm. The Defence Intelligence Service currently assesses that there is no immediate military
+threat to Denmark. However, the broader threat environment has grown more complex, necessitating increased
+efforts in preparedness, monitoring, and safeguarding Denmark's critical infrastructure. This work will
+involve collaboration with infrastructure owners, private sector actors, and relevant authorities.  The
+government is also focused on ensuring that crisis communication to the public is clear and rooted in
+professional expertise. It is essential to avoid causing unnecessary fear while ensuring that citizens receive
+relevant guidance when needed. Work on improving this type of communication is ongoing and will form part of
+upcoming political discussions about enhancing Denmark's emergency preparedness framework.
+--------------------------------------------------------------------------------------------------------------
+[28] id=3040 | Actor=Lars Aagaard | Year=2024 | Source=None (None)
+In 2020, when the previous government made the initial agreement on the energy islands, it was assumed that
+the offshore wind turbines would not only be self-financing but also cover the cost of the necessary
+electricity infrastructure. However, in our assessment last year, we found that offshore wind alone couldn't
+cover these costs. Consequently, it was politically agreed that there would be investment willingness in the
+project corresponding to the infrastructure costs of 17.6 billion. At the same time, it was still assumed that
+the offshore wind turbines should be able to sustain themselves. But whether this assumption holds true will
+only be known once the tender process is complete.  The agreed state support – and thus the taxpayer cost – of
+17.6 billion must be weighed against the benefits for electricity consumers, including lower electricity
+prices and increased supply security, due to the large amounts of new wind power entering the grid.  As for
+the gap between the estimated support need of 31.5 billion and the politically approved support of 17.6
+billion, the truth will only be revealed once the large tender process is concluded. There is a possibility
+that market actors may state that they cannot build the offshore wind turbines without support, which could
+result in no bids. However, there are also price scenarios that suggest it could be attractive. We will test
+this in the market, and the outcome of the tender will determine this discussion.  If no bids come in because
+the terms, including the support framework, are unattractive to companies, I would then discuss the situation
+with the political coalition. I cannot speculate further until we have new input from the tender process or
+Energinet’s preparatory work.  Regarding the timeline for the tender, I am committed to it happening as
+quickly as possible, but I do not have any updates on the schedule.  If, back in 2020, we had known that the
+energy islands would not be profitable and would require support for the North Sea Energy Island of 50 billion
+and for Bornholm Energy Island of over 30 billion, would the projects have been politically scrapped? That’s a
+counterfactual question, but it’s easy to imagine that at the time, the political decisions seemed more
+straightforward when it was expected that the projects could proceed without support. However, decisions must
+always be made based on the information available at the time.  Did we make poor decisions based on the
+available information in 2020? I wasn’t involved, so I can’t judge. In hindsight, it’s always much easier to
+be wise.
+--------------------------------------------------------------------------------------------------------------
+[29] id=3448 | Actor=Kärnfull Energi | Year=2024 | Source=None (None)
+We at Kärnfull Energi DK believe that nuclear power is a far better solution than the Bornholm Energy Island,
+which will require at least 31.5 billion DKK in state subsidies according to the Danish Energy Agency. This
+amount is equivalent to three times the annual police budget. Nuclear power, on the other hand, does not
+require state subsidies. We are ready to develop nuclear power projects in Denmark as soon as the ban on
+nuclear energy is lifted.  The Bornholm Energy Island does not make economic sense. Analyses from Kraka show
+that it faces so many challenges that it no longer seems viable. It provides no improvement in energy
+security, as adding more offshore wind turbines in the Baltic Sea does not contribute to stability.
+Additionally, producing PtX on Bornholm would be extremely expensive compared to using other energy sources.
+In contrast, nuclear power can provide cheap and stable electricity and hydrogen, making large energy islands
+unnecessary. Nuclear power plants could be placed near existing combined heat and power plants, avoiding
+further industrialization of natural areas. Many of our customers have already saved thousands of kroner by
+switching to 100% nuclear power agreements, avoiding overpriced and fixed-rate energy contracts.
+--------------------------------------------------------------------------------------------------------------
+[30] id=35 | Actor=The Economic Council | Year=2024 | Source=None (None)
+Kraka Economics argues that increased energy security does not justify the poor economic viability of the
+Energy Island Bornholm project. The key points underlying this conclusion are:  1. Economic Deficit: The
+Energy Island Bornholm project has a societal economic deficit of 7 billion DKK, while the potential
+improvement in energy security is conservatively valued at only 3 billion DKK.  2. Decreasing Urgency for
+Energy Security: Analysis from Energinet indicates that future concerns about power adequacy are less severe
+than previously believed.  3. Inefficient Contribution from Foreign Interconnectors: The interconnector to
+Germany contributes most to energy security, but the same result could likely be achieved at a lower cost
+without routing through Bornholm.  4. Limited Effectiveness of Foreign Interconnectors: The Danish Climate
+Council has noted that interconnectors to neighboring countries are not the most effective way to improve
+energy security because weather conditions (like sunshine and wind) tend to align across the region, meaning
+power shortages are likely to occur simultaneously.  Kraka Economics emphasizes that even if new calculations
+unexpectedly show a positive societal economic outcome, alternative solutions should always be considered. In
+this context, Kraka Economics does not believe that the Energy Island Bornholm project is the optimal choice
+for enhancing energy security.  Kraka Economics recommends pausing the Energy Island Bornholm project to allow
+time for a thorough analysis by the Danish Energy Agency. However, Kraka Economics warns that contracts for
+costly infrastructure, such as the electrical cable between Zealand and Bornholm, are imminent. If these
+contracts are signed, it will become significantly more expensive to cancel the project later. Therefore, the
+government must act swiftly to halt the project until all analyses are completed.
+--------------------------------------------------------------------------------------------------------------
+[31] id=3616 | Actor=Vismændene | Year=2024 | Source=None (None)
+The economic experts argue that it will be far too expensive for the state to make the Energy Island of
+Bornholm a reality. If there is no prospect of a societal economic surplus, the Energy Island project should
+be abandoned. The experts also call for an assessment of how the Energy Island will impact Denmark's energy
+security and would like to see a review of the Power-to-X technology.
+--------------------------------------------------------------------------------------------------------------
+[32] id=37 | Actor=Miłosz Motyka | Year=2024 | Source=None (None)
+The Danish Ministry of Climate, Energy, and Utilities is collaborating with Polish authorities to initiate
+analyses for a potential international energy connection between Poland and Energy Island Bornholm. The visit
+by Poland's Deputy Minister for Climate and Environment, Miłosz Motyka, focused on discussing ways to enhance
+cooperation between Poland and Denmark in expanding renewable energy in the Baltic Sea and improving energy
+security. The planned connection between Poland and Denmark could significantly contribute to the goals of the
+Marienborg Declaration, strengthening collaboration in the Baltic Sea region and bolstering energy security
+for both countries and the broader region.
+--------------------------------------------------------------------------------------------------------------
+[33] id=4354 | Actor=Dan Jørgensen | Year=2024 | Source=None (None)
+The establishment of Energiø Bornholm, Denmark's first energy island, will require significant investment,
+including a 245 km direct current connection between Bornholm and Zealand and two 400 kW converter stations on
+Bornholm and Zealand. This project, part of an agreement with Germany to link the energy island to the German
+electricity grid, will cost Denmark approximately 13.9 billion kroner. This amount is a reduction from the
+initial 16.9 billion kroner estimate due to the shared financial responsibilities with Germany.  The cost of
+13.9 billion kroner will be distributed among Denmark's 3.3 million electricity customers through electricity
+tariffs over time, amounting to an average of 4,200 kroner per customer. Payments will not be collected
+through direct invoices but will instead be integrated into ongoing electricity tariffs managed by Energinet,
+which oversees the operation and expansion of Denmark's electricity grid.  Energiø Bornholm is expected to
+deliver a capacity of 3 gigawatts, equivalent to the output of 200 offshore wind turbines, each rated at 15
+megawatts. While the project adds costs, Energinet is working to mitigate the impact on electricity tariffs.
+In 2022, Energinet allocated 1.2 billion kroner to improve international electricity connections and plans to
+return 1.6 billion kroner to consumers through tariff reductions, which will help lower electricity prices.
+This project is critical to Denmark's green energy transition and the broader European energy network,
+ensuring long-term sustainability and energy security despite the initial costs to electricity customers.
+--------------------------------------------------------------------------------------------------------------
+[34] id=4398 | Actor=Kärnfull Energi | Year=2024 | Source=None (None)
+Nuclear power is a better alternative to the Energy Island Bornholm project and can save Danish taxpayers at
+least 31.5 billion DKK, which is the estimated amount of state funding required for the energy island
+according to the Danish Energy Agency. This amount equals three times the annual budget of the Danish police.
+There is no need for state subsidies for energy. Kärnfull Energi is ready to build nuclear power plants in
+Denmark without any state support.   The Energy Island Bornholm project lacks economic justification, as
+concluded by analysis firm Kraka. Senior economist Frederik Læssøe Nielsen from Kraka has publicly requested a
+single strong argument for establishing the Energy Island Bornholm, noting that the project faces so many
+challenges that it no longer makes sense: - 💰 A minimum of 31.5 billion DKK in state subsidies, according to
+the Danish Energy Agency. - 🔌 Adding more wind turbines in the Baltic Sea does not improve energy security. -
+💧 Producing PtX on Bornholm would be extremely expensive, as it is cheaper to produce PtX using other energy
+sources than offshore wind.  At Kärnfull, we have long questioned the excessively expensive energy island
+projects. In contrast, nuclear power can deliver cheap and stable electricity and hydrogen without requiring
+industrialization of natural areas.   Kärnfull Next is already developing nuclear projects in Sweden and is
+interested in doing the same in Denmark if the ban on nuclear power is lifted. Nuclear power would eliminate
+the need for large-scale energy islands by providing stable production of electricity, district heating, and
+hydrogen. By locating nuclear power plants at existing power plant sites, we can avoid further industrializing
+nature.   Additionally, many of our customers have saved significant amounts of money by switching to
+electricity contracts with 100% nuclear power, avoiding overpriced fixed-rate plans or hidden fees. Nuclear
+power offers a practical, economical, and sustainable energy solution for Denmark.
+--------------------------------------------------------------------------------------------------------------
+[35] id=4611 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+The Energy Island project on Bornholm is being described as an economic catastrophe unfolding in slow motion.
+Why are politicians so fixated on this project? According to an analysis from the Danish Energy Agency in a
+2023 memo referenced by the Ministry of Climate, the value of improved security in the electricity system is
+estimated at 150 million kroner per year. This amount pales in comparison to the 31.5 billion kroner in state
+subsidies required for the Energy Island project. Frederik Læssøe Nielsen, a Ph.D. in economics and senior
+economist at Kraka Economics, points out that even though the analysis of supply security effects is
+incomplete, the effects are so minimal that it is very difficult to imagine a new analysis changing the
+project's societal economics from a significant deficit to a surplus.
+--------------------------------------------------------------------------------------------------------------
+[36] id=4615 | Actor=Facebook user | Year=2024 | Source=None (None)
+TV2/Bornholm has published yet another one-sided and incomplete article seemingly designed to provoke
+unnecessary debate and division among the people of Bornholm. Alternatively, could it be an intentional effort
+to generate public opposition to TREFOR? Contrary to claims, the power grid does not require an "overhaul" as
+part of the Energy Island project. The 200 million kroner is solely intended to connect Energy Island Bornholm
+with the local Bornholm power grid. This connection will enhance supply security and eliminate reliance on the
+aging and increasingly inadequate submarine cable, which is insufficient for future consumption needs.
+Additionally, this project will result in significant cost savings by reducing maintenance or replacement
+expenses for the submarine cable to Sweden. Energinet will also save money by decommissioning the emergency
+power facility currently maintained in stand-by mode. Over time, the connection of the Bornholm power grid to
+the Energy Island, with its integrated links to Zealand, Germany, and potentially Poland, will lead to
+financial savings for Energinet. This justifies the demand for state funding to cover the cost of the
+connection. As a consumer representative for EWII, while I may not have direct influence over this decision, I
+am committed to advocating for this outcome.
+--------------------------------------------------------------------------------------------------------------
+[37] id=5530 | Actor=Sweco Sub-advisor | Year=2024 | Source=None (None)
+It is encouraging to see the shift in focus toward market collaborations rather than the technical debate
+about an enclosed island versus platforms, which are economically very similar (as demonstrated by data from
+Energinet, referenced in Zetland’s article). This shift is crucial because optimizing and financing the
+transmission infrastructure is key to the project’s economics and success.  As part of Sweco’s advisory team,
+it has been a privilege to contribute to the preparatory work on the North Sea Energy Island. It is promising
+if this work resumes, allowing us to harness the enormous energy potential of the North Sea. This project
+presents a unique opportunity for both Denmark and Europe to strengthen the green transition and ensure a
+robust, sustainable energy infrastructure for the future.  I am excited to see how collaboration with Germany
+can further advance the project and create synergies with other energy islands like Bornholm, while we
+continue addressing the greatest technological challenges, including Power-to-X (PtX) and Carbon Capture and
+Storage (CCS), to secure our energy security in an increasingly complex geopolitical landscape.
+--------------------------------------------------------------------------------------------------------------
+[38] id=5692 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+The Energy Island Bornholm project should be abandoned as the only responsible course of action. Instead,
+supporters of the project are merely shifting the premise of the discussion, avoiding the necessary but
+politically uncomfortable decisions. According to the Danish Energy Agency, the Energy Island Bornholm project
+is far from profitable and will require an estimated 31.5 billion kroner in state subsidies. Although Denmark
+will likely export significant amounts of the electricity produced—either directly or as green hydrogen—this
+is not the kind of export success we want. It amounts to taxpayer-funded energy for Germany.  The argument for
+improved Danish energy security remains somewhat valid by connecting Denmark and Germany with a power cable.
+However, it makes no sense for this cable to span the longest distance between the two countries by going
+through Bornholm. A much shorter and more cost-effective connection could be established via Lolland or
+Zealand, saving substantial resources while achieving the same result.
+--------------------------------------------------------------------------------------------------------------
+[39] id=5737 | Actor=Andreas Arp | Year=2024 | Source=None (None)
+historically large offshore wind tender in the North Sea, casting further uncertainty on the ambitions to
+establish an energy island near Bornholm.  The failure of the North Sea wind tender leaves a billion-kroner
+hole in the fund intended to finance the large-scale political plans for the energy island. Last year, a broad
+political majority decided to allocate 17.6 billion kroner by 2049 to support the energy island, with
+approximately half of the bill – 8.7 billion kroner – expected to be financed by revenues from the historic
+offshore wind tender. However, these revenues are now uncertain as the first part of the tender ended without
+any bidders.  According to several agreement parties, at least six billion kroner was expected to come from
+the three wind farms in the North Sea. "The results from the North Sea parks mean that, unfortunately, there
+is no contribution as expected to the financing of Energy Island Bornholm, and we must address this with the
+agreement circle in the further process," says Climate, Energy, and Supply Minister Lars Aagaard in a written
+comment.  The Conservative Party and the Liberal Alliance have also threatened to withdraw support for the
+energy island. With the failed offshore wind tender in the North Sea, the latter is now very close to doing
+so. For us, Energy Island Bornholm is more than green electricity. It is also about security policy. It helps
+achieve European independence from countries we do not want to be dependent on, and that dimension is one of
+the reasons we were very insistent on getting the island.  "I have followed the debate on the energy island
+closely, but to make a final decision, I need an informed basis from the government that also considers the
+security policy aspect. Green electricity can probably be obtained in many other ways, which are likely also
+better economically, but for us, it is also about independence from Russian gas. So now it is up to the
+government to provide some answers."  The Conservative Party has previously made it clear that there are
+"limits to how much economy" the party is willing to invest. "It is not a straightforward project, but it is
+certainly not abandoned. It delivers renewable energy, but it also provides supply security for Bornholm and
+Zealand. Therefore, our starting point is that we will do what we can to realize it."  The Danish Energy
+Agency recently postponed the offshore wind tender for Energy Island Bornholm due to a lack of clarification
+on cables and stations.
+--------------------------------------------------------------------------------------------------------------
+[40] id=5769 | Actor=Hanne Storm Edlefsen | Year=2024 | Source=None (None)
+We understand that the people of Bornholm want to reap the benefits that the Energy Island brings, both in
+terms of consuming and producing green electricity on the island. That’s why I am pleased that our analysis
+confirms it is technically feasible and, moreover, a good solution from a socioeconomic perspective.
+According to Energinet, this solution could save approximately 1 billion kroner. The savings come from
+eliminating the costs of supplying electricity via submarine cables if the Bornholm power grid is connected
+directly to the Energy Island’s cables.   Additionally, Bornholm residents can expect relatively stable
+electricity prices by connecting to the Energy Island’s power production.
+--------------------------------------------------------------------------------------------------------------
+[41] id=5851 | Actor=Facebook user | Year=2024 | Source=None (None)
+Once again, a one-sided and incomplete article from TV2/Bornholm, which seems to only aim at stirring
+unnecessary debate and division among the people of Bornholm... Or is it a deliberate attempt to create public
+opposition against TREFOR? The power grid doesn't need an 'overhaul' as part of the Energy Island project. The
+200 million kroner will solely be used to connect Bornholm's power grid to the Energy Island. This will, among
+other things, increase supply security and make us independent of the failing subsea cable, which is already
+underdimensioned for the consumption we expect in the future. Besides saving money on maintenance or replacing
+the subsea cable to Sweden, Energinet will also save a lot of money by decommissioning the emergency backup
+facility they currently pay to have on standby. Therefore, Energinet will actually save money over a
+relatively short period as the Bornholm power grid is connected to the Energy Island project, with its built-
+in connections to Zealand, Germany, and possibly Poland. That's why it makes sense to demand that the state
+covers the cost of this connection. Even though this may not be something I can directly influence as a
+consumer representative at EWII, I will do everything I can to make sure it happens.
+--------------------------------------------------------------------------------------------------------------
+[42] id=5855 | Actor=Kärnfull Energi | Year=2024 | Source=None (None)
+The Energy Island Bornholm project is an unnecessary and costly venture. According to the Danish Energy
+Agency, it will require at least 31.5 billion DKK in state subsidies, equivalent to three times the annual
+budget of the Danish police. In contrast, nuclear power does not require any state support. The company
+Kärnfull is ready to build nuclear power plants in Denmark entirely without subsidies.   Analysis firm Kraka
+has concluded that establishing Energy Island Bornholm makes no economic sense. Senior economist Frederik
+Læssøe Nielsen from Kraka has publicly challenged proponents of the project to provide a single strong
+argument in favor of building the energy island. Key issues identified by Kraka include:   - The substantial
+state subsidy requirement of at least 31.5 billion DKK.   - No improvement to energy supply security from
+adding more wind turbines in the Baltic Sea.   - Extremely high costs of producing Power-to-X (PtX) on
+Bornholm, as it is cheaper to produce PtX using other energy sources than offshore wind.    Choosing nuclear
+power over Energy Island Bornholm could save Danish taxpayers a significant amount of money and offer a more
+viable energy solution.
+--------------------------------------------------------------------------------------------------------------
+[43] id=5870 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+Energy Island Bornholm is being described as a slow-motion economic disaster. Why are politicians so fixated
+on pushing this project forward?    According to a 2023 analysis from the Danish Energy Agency, detailed in a
+memorandum from the Climate Ministry, the value of improved security in the electricity system amounts to only
+150 million DKK per year. This figure pales in comparison to the 31.5 billion DKK in state subsidies that
+Energy Island Bornholm would require.    As Frederik Læssøe Nielsen, Ph.D. in economics and senior economist
+at Kraka Economics, explains: “Even though the analysis does not fully account for the effects on supply
+security, the impacts are so modest that it is very difficult to imagine any new analysis changing the socio-
+economic outlook from a massive deficit to a surplus.”
+--------------------------------------------------------------------------------------------------------------
+[44] id=5898 | Actor=Facebook user | Year=2024 | Source=None (None)
+Once again, a one-sided and inadequate article from TV2/Bornholm, which seems to have the sole purpose of
+creating unnecessary debate and division among Bornholm residents… Or is it a deliberate attempt to stir
+public opposition against TREFOR?    The power grid does not need an "overhaul" as part of the Energy Island
+project. The 200 million kroner is solely intended to connect Energy Island Bornholm to the Bornholm
+electricity grid. This connection will, among other benefits, enhance supply security and make us independent
+of the aging subsea cable, which is already nearing its capacity for the increasing consumption we are
+anticipating.    In addition to saving on maintenance and/or replacement costs for the subsea cable to Sweden,
+Energinet will save significant funds by decommissioning the backup power plant currently on standby. This is
+precisely why Energinet will, over a relatively short period, actually save money by connecting the Bornholm
+grid to the Energy Island project, which includes built-in connections to Zealand, Germany, and potentially
+Poland.    This makes it logical to demand that the state covers the cost of the connection. Although I may
+not have direct influence on this as a consumer representative at EWII, I will do everything I can to make it
+happen.
+--------------------------------------------------------------------------------------------------------------
+[45] id=5953 | Actor=The Danish Energy Agency | Year=2024 | Source=None (None)
+The Danish Energy Agency has reported on the socioeconomic impact assessments for different configurations of
+the Energy Island Bornholm under various scenarios. The Energy Island Bornholm project includes offshore wind
+farms, a transformer station on Bornholm, and grid connections to Denmark and Germany. Despite considerable
+uncertainty about future developments, the central socioeconomic estimates are negative across all scenarios,
+ranging from -4 billion DKK to -17 billion DKK.  The project is also expected to require public subsidies
+amounting to 31.5 billion DKK during the first approximately 20 years of the energy island's lifespan. Of
+this, 17.6 billion DKK was politically approved in May 2023. This approved subsidy will be financed through
+expected revenues from the auction of 6 GW offshore wind capacity (8.7 billion DKK), the Green Fund (4.9
+billion DKK), and future fiscal space (4.0 billion DKK). An additional subsidy need of approximately 14
+billion DKK has arisen due to the anticipated unprofitability of the offshore wind farms associated with the
+energy island, and no concrete financing has yet been identified for this amount.  Given the negative
+socioeconomic outlook, the Energy Island Bornholm project should be reconsidered. The socioeconomic assessment
+does not include several effects that are difficult to quantify, such as energy security and potential Power-
+to-X production. It is recommended that a comprehensive socioeconomic analysis be conducted, incorporating as
+many effects as possible. If it cannot be demonstrated that the project yields a socioeconomic surplus, the
+project should be abandoned.
+--------------------------------------------------------------------------------------------------------------
+[46] id=624 | Actor=Facebook user | Year=2024 | Source=None (None)
+The TV2/Bornholm article is biased and inadequate, seemingly aimed at stirring unnecessary debate and division
+among the people of Bornholm, or possibly to deliberately foster opposition against TREFOR. The energy grid
+does not require an overhaul as part of the Energy Island project. The 200 million kroner budget is
+exclusively for connecting Energy Island Bornholm to the Bornholm energy grid. This connection will enhance
+energy security and make Bornholm independent from the aging, under-dimensioned subsea cable to Sweden, which
+cannot handle future consumption needs. Additionally, this project will save costs on maintaining or replacing
+the subsea cable and eliminate the need for Energinet to maintain an expensive standby power plant. Over time,
+Energinet will achieve significant savings by linking Bornholm’s grid to the Energy Island, which has built-in
+connections to Zealand, Germany, and potentially Poland. Therefore, it is logical to demand that the state
+covers the connection costs. While I may not have direct influence over this as a consumer representative at
+EWII, I will do everything in my power to advocate for this outcome.
+--------------------------------------------------------------------------------------------------------------
+[47] id=6291 | Actor=Søren Møller Christensen | Year=2024 | Source=None (None)
+It is important to reassess the socio-economic aspects of the Energy Island project. The current discussion is
+based on outdated data from 2023, which is no longer relevant, and many factors are missing from the figures
+being debated today. These factors include the value of energy security in Eastern Denmark, the anticipated
+substantial financial support from the EU, and the competitive advantage for Danish businesses gained through
+innovation in energy island technology.  The connection to Poland is especially critical. Bornholm is ideally
+positioned to serve as a hub in the Baltic Sea, where large amounts of offshore wind energy can be harnessed
+while linking European energy markets to improve overall energy stability and reduce costs across Europe.
+However, the economic assessment of the Energy Island project should not be too narrowly focused. The market
+should be allowed to determine the value of offshore wind energy south of Bornholm. Even small changes in the
+assumptions used in the Danish Energy Agency’s calculations can significantly alter both the support
+requirements and the socio-economic benefits of the project.
+--------------------------------------------------------------------------------------------------------------
+[48] id=6536 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+"There is nothing to say that the political support for the project is wavering, because the original promises
+of profitability, better Danish security of supply and export adventure with hydrogen, produced by the large
+amounts of excess flow from the island, have all fallen to the ground.   According to the Danish Energy
+Agency, the project is far from being profitable, and the agency expects that it will require as much as DKK
+31.5 billion in state aid. Although Denmark will probably end up exporting large quantities of the electricity
+produced – directly or as green hydrogen – it is not the kind of export adventure you want, because it is de
+facto tax-financed energy for the Germans.   What remains is the argument about better Danish security of
+supply, which in its own way still holds by connecting Denmark and Germany with a power cable. But take out a
+Danish map and give me a good reason why the cable should connect the two countries where the distance is
+greatest, and not via, for example, Lolland or Zealand, where the distance is significantly smaller - and a
+connection of course correspondingly cheaper.   However, the failed arguments have not made Climate, Energy
+and Supply Minister Lars Aagaard and the rest of the government recognize the anything but adventurous nature
+of the project.   Instead, new arguments are invented and emphasized in defense of the project. Arguing
+against the energy island has evolved to resemble a battle against the mythological dragon Hydra: Every time
+it loses one of its heads, two new ones grow.”
+--------------------------------------------------------------------------------------------------------------
+[49] id=6537 | Actor=Ulrich Bang | Year=2024 | Source=None (None)
+The Energy Agency's calculations from 2023 show a deficit of DKK 4 billion. DKK, if Europe reaches its climate
+targets. However, these calculations do not take into account many of the values ​​that Energiø Bornholm
+generates through its visionary and innovative character, such as:   – Danish technological leadership
+position: Energiøen provides Danish companies with a platform to develop and export the next generation of
+wind technology.   – International connections: According to Ørsted, a future cable to Poland can improve the
+project economy by 15-20 billion. DKK   – EU support: The project has been designated as a European Project of
+Common Interest and stands strong to be able to receive a large part of the next distribution of approx. 5
+billion DKK   In addition, the current calculations do not include the value of security of supply,
+replanting, PtX production, connection to Bornholm and job creation on Bornholm. Overall, Energiø Bornholm is
+a societal investment in critical infrastructure that goes far beyond the immediate costs and has the
+potential to create both economic growth, support supply and security agendas and increase Denmark's strategic
+position as a wind nation.
+--------------------------------------------------------------------------------------------------------------
+[50] id=6588 | Actor=X user | Year=2024 | Source=None (None)
+"If these figures hold true, we will withdraw from the agreement," says Mona Juul about the Bornholm Energy
+Island project. I can clarify that these are the exact same figures that formed the basis of the agreement
+Mona Juul is part of—there is nothing new here. The project can provide green electricity to 3 million
+households and is also a critical element in combating Putin, ensuring energy security, and creating a greener
+Europe. If the economic situation changes, we will face a new reality that we must discuss. For now, however,
+the experts’ figures remain identical to those presented during the negotiations.
+--------------------------------------------------------------------------------------------------------------
+[51] id=6661 | Actor=Jacob Trøst | Year=2024 | Source=None (None)
+I am pleased that Bornholm can be connected to the energy island. This demonstrates that both Energinet and
+the Danish government view the Bornholm community as an important player in the Energy Island Bornholm
+project. As a community hosting the energy island, we should also benefit from it.   The connection will
+provide energy supply security by making Bornholm part of a larger energy infrastructure, reducing the risk of
+power outages. This also creates better opportunities for local projects and businesses to connect to the
+energy network. Additionally, it reinforces Bornholm's identity as a hub for sustainable energy, which is a
+significant advantage for the community.
+--------------------------------------------------------------------------------------------------------------
+[52] id=7171 | Actor=Frederik Læssøe Nielsen | Year=2024 | Source=None (None)
+Energy Island Bornholm is described as an economic disaster in slow motion. Why are our politicians so
+obsessed with this project? The value of the security in the electricity system is 150 million DKK per year,
+which pales in comparison to the 31.5 billion DKK in state subsidies that Energy Island Bornholm would
+require. This is according to an analysis from the Energy Agency in a 2023 note from the Ministry of Climate.
+Although the analysis of the security of supply effects is not exhaustive, the effects are so minimal that it
+is very difficult to imagine how they could shift the societal economy from a significant loss to a gain in
+any new analysis.
+--------------------------------------------------------------------------------------------------------------
+[53] id=7248 | Actor=X user | Year=2024 | Source=None (None)
+We recognize that the Bornholm Energy Island project poses significant challenges, as identified by experts.
+It has negative societal economic value and requires 31.5 billion DKK in state subsidies. While it is
+reasonable to include energy security in a cost-benefit analysis, urgent action is needed. We are already
+burning money on this project.
+--------------------------------------------------------------------------------------------------------------
+[54] id=737 | Actor=Reddit user | Year=2024 | Source=None (None)
+So now that batteries are on the way, the Energy Agency is expecting around 1 GW of storage capacity by 2030.
+Denmark already has around 16 GW of installed batteries, which translates to about 800 MWh in Denmark.  When
+you say "maybe only a few weeks a year", it's because those 'small holes' in the east are what we need to fill
+when we're recharging our VE-building capacity. The Climate Council analyzed supply security last year and
+concluded that in an "intensive weather year" we'll need to import electricity around 1000 times in 2030,
+equivalent to about 6 weeks.  How we fill those gaps is still a topic of discussion. It's likely going to be a
+combination of battery storage, flexibility on the demand side, flexible power plants, and imports. And yes,
+even though power plants will only need to run for around 100 hours a year, they'll still be needed. Take
+Kyndby Power Plant as an example, which is already standing by.  I'm surprised that people keep saying
+'nuclear power would have been cheaper'. What experts in energy economics say, and what the market delivers
+are two different things. If business cases for nuclear power were really so good, I'd expect more countries
+to build them. Even China, which has all the prerequisites for cheap nuclear power, is building solar and wind
+10 times faster.  As for when we'll have nuclear power in Denmark, if it's worth building, that's not going to
+be as soon as 10 years. We're talking more like 2040. It's not just about building a power plant; we need the
+right competencies, international agreements, and regulations before we can even start digging.  In Sweden,
+where they already have nuclear power, the government started working on new nuclear power in 2022 with plans
+to have it operational by 2035. In Norway, the Institute for Energy Technology estimates that you can get
+nuclear power as soon as 2040 if you start now.  And finally, I think you should pay attention to what your
+tariff covers and why it's increasing. The system tariff you pay to Energinet does include a component that
+balances solar and wind power. But that's not the main reason for your increasing tariffs.
+--------------------------------------------------------------------------------------------------------------
+[55] id=8 | Actor=Kärnfull Energi | Year=2024 | Source=None (None)
+We, Kärnfull, believe that nuclear power is a far better alternative to the Bornholm Energy Island project,
+which would cost Danish taxpayers at least 31.5 billion DKK in state subsidies, as estimated by the Danish
+Energy Agency. This is equivalent to three times the annual budget for the police.   In contrast, nuclear
+power projects require no state subsidies. Kärnfull is prepared to build nuclear power plants in Denmark
+without any financial support from the state. The Energy Island project on Bornholm does not make economic
+sense, as confirmed by the analysis firm Kraka. Their senior economist, Frederik Læssøe Nielsen, has publicly
+challenged proponents to provide a single convincing argument for its construction.   The challenges with the
+Energy Island project include:  1. **Massive state subsidies** of at least 31.5 billion DKK.   2. **No
+contribution to energy security**, as additional wind turbines in the Baltic Sea will not solve this issue.
+3. **Extremely expensive Power-to-X (PtX) production** on Bornholm compared to alternative energy sources.
+Nuclear power, unlike these costly energy islands, can provide affordable and stable electricity and hydrogen
+production. By situating nuclear power plants at existing combined heat and power plants, we can avoid further
+industrializing natural areas.  Kärnfull Next is already developing nuclear power projects in Sweden and has
+expressed interest in doing so in Denmark if the current ban on nuclear power is lifted. Nuclear power
+eliminates the need for large-scale energy islands by offering stable electricity, district heating, and
+hydrogen production.  Furthermore, many of our customers have already saved thousands of kroner by switching
+to electricity contracts with 100% nuclear power, avoiding overpriced fixed-rate agreements or hidden fees. If
+you are not yet a customer and would like a free price check on your electricity agreement, email us at
+hej@karnfull.dk or call us at 78708070. 📞
+--------------------------------------------------------------------------------------------------------------
+[56] id=2384 | Actor=Urs Steiner Brandt, Gert Tinggaard Svendsen | Year=2025 | Source=None (None)
+The transition of Samsø from being an energy consumer to an energy producer demonstrates the potential of
+small communities to achieve energy independence. Prior to 1997, Samsø relied entirely on imported oil and
+coal, and electricity was supplied through mainland grids. However, local entrepreneurship led to a bottom-up
+approach, initiating the shift towards renewable energy, especially through the installation of wind turbines.
+By 2005, Samsø produced more renewable energy than it consumed, achieving climate neutrality. This
+transformation is particularly impressive given the island's small size, with only 22 villages and 4,000
+residents. Samsø serves as an example of how green initiatives, such as renewable energy projects, are crucial
+to creating a sustainable world, as emphasized by global sustainability efforts like the ENEP green economy
+initiative. The island's success underlines the importance of social and technical entrepreneurship in
+advancing sustainable energy solutions. This kind of entrepreneurial approach, combining both social and
+technical expertise, is essential for improving the practice of sustainable design and development in energy
+and resource efficiency.
+--------------------------------------------------------------------------------------------------------------
+[57] id=256 | Actor=Danish Energy Agency | Year=2025 | Source=None (None)
+We, the Danish Energy Agency, believe that the benefits of improved energy security from the Bornholm Energy
+Island project are insufficient to offset the significant economic deficits associated with the project. Our
+latest cost-benefit analysis reveals a societal economic deficit of 7 billion DKK, while the contribution of
+the project to energy security is estimated at a mere 2.8 to 3.1 billion DKK. This discrepancy highlights the
+limited ability of the project to justify its costs.
+--------------------------------------------------------------------------------------------------------------
+[58] id=258 | Actor=Energinet | Year=2025 | Source=None (None)
+We, Energinet, have observed that concerns about energy supply inadequacy are less pressing than previously
+estimated. Our analysis indicates a significant reduction in risks associated with capacity inadequacy in
+neighboring countries. By 2034, Denmark’s power system is expected to be sufficiently connected to neighboring
+countries, meaning additional interconnections, like the one from Bornholm, may not substantially improve
+Denmark’s overall energy security.
+--------------------------------------------------------------------------------------------------------------
+[59] id=4839 | Actor=Kraka Economics | Year=2025 | Source=None (None)
+The benefits of increased supply security are not enough to make the Energy Island Bornholm project
+economically positive for society. According to an analysis referenced by Klimamonitor, the increased supply
+security will be worth approximately DKK 150 million in 2032.  Although the analysis of supply security is not
+comprehensive, the effects are so modest that it is hard to imagine it could turn a large negative into a
+positive.  In October, the economic experts recommended dropping the Energy Island Bornholm project unless
+positive economic benefits for society could be demonstrated. At the same time, they called for an analysis of
+supply security, among other things. However, there is much evidence to suggest that this is not enough to
+turn the project's economic outlook positive.  Climate economics assistant professor Peter Kjær Kruse-Andersen
+also rightly points out that it is not so crucial whether the project's economic outlook just barely goes
+above zero, as the project should be evaluated against the most obvious alternative. In this context, he finds
+it very hard to see Energy Island Bornholm emerging as the winner.
+--------------------------------------------------------------------------------------------------------------
+[60] id=7330 | Actor=Energinet | Year=2025 | Source=None (None)
+Energinet supports Denmark’s investigation into establishing two energy islands, which will signify the
+beginning of a new era for large-scale offshore wind power. These energy islands aim to facilitate the
+integration of massive amounts of renewable energy into the grid, connecting offshore wind farms to multiple
+countries, enhancing energy security, and contributing to the green transition in Europe.
+--------------------------------------------------------------------------------------------------------------
+[61] id=947 | Actor=Tractebel engie | Year=2025 | Source=None (None)
+We are proud to contribute to the development of the innovative renewable energy solution, the PEI project.
+This project represents a groundbreaking synergy of maritime, civil, and hydraulic design expertise in
+offshore engineering, aimed at creating the first-ever energy island. The PEI project will enhance employment
+opportunities, bolster the economy, and significantly advance Europe’s energy independence, making it a
+pivotal achievement in sustainable energy innovation and development.
+--------------------------------------------------------------------------------------------------------------
