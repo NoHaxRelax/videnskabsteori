@@ -1,0 +1,4860 @@
+# Nuclear/atomic mentions — matches
+
+- **Input**: `C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\Actor statement corpus - dataset.csv`
+- **Searched columns**: `Statement`
+- **Rows matched**: 319
+
+## Rows
+
+### id 8
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi
+- **date**: 2024-06-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/k%C3%A4rnfull-energi-dk_atomkraft-fremfor-energi%C3%B8-bornholm-activity-7211289052749172737-85N5?utm_source=share&utm_medium=member_desktop`
+
+```
+We, Kärnfull, believe that nuclear power is a far better alternative to the Bornholm Energy Island project, which would cost Danish taxpayers at least 31.5 billion DKK in state subsidies, as estimated by the Danish Energy Agency. This is equivalent to three times the annual budget for the police. 
+
+In contrast, nuclear power projects require no state subsidies. Kärnfull is prepared to build nuclear power plants in Denmark without any financial support from the state. The Energy Island project on Bornholm does not make economic sense, as confirmed by the analysis firm Kraka. Their senior economist, Frederik Læssøe Nielsen, has publicly challenged proponents to provide a single convincing argument for its construction. 
+
+The challenges with the Energy Island project include:
+
+1. **Massive state subsidies** of at least 31.5 billion DKK.  
+2. **No contribution to energy security**, as additional wind turbines in the Baltic Sea will not solve this issue.  
+3. **Extremely expensive Power-to-X (PtX) production** on Bornholm compared to alternative energy sources.  
+
+Nuclear power, unlike these costly energy islands, can provide affordable and stable electricity and hydrogen production. By situating nuclear power plants at existing combined heat and power plants, we can avoid further industrializing natural areas.
+
+Kärnfull Next is already developing nuclear power projects in Sweden and has expressed interest in doing so in Denmark if the current ban on nuclear power is lifted. Nuclear power eliminates the need for large-scale energy islands by offering stable electricity, district heating, and hydrogen production.
+
+Furthermore, many of our customers have already saved thousands of kroner by switching to electricity contracts with 100% nuclear power, avoiding overpriced fixed-rate agreements or hidden fees. If you are not yet a customer and would like a free price check on your electricity agreement, email us at hej@karnfull.dk or call us at 78708070. 📞
+```
+
+### id 179
+
+- **matched**: `nuclear;reactor`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-06 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/search/top/?q=Energi%C3%B8`
+
+```
+Place a couple of small modular nuclear reactors on the island, and the energy problem is solved.
+```
+
+### id 182
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-06 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/search/top/?q=Energi%C3%B8`
+
+```
+The reality now points away from wind energy and towards alternatives like nuclear power. This is a discussion we must have now to avoid wasting good money on bad ideas. Welcome to reality for those who believe the energy island is the solution to all of Bornholm's problems.
+```
+
+### id 191
+
+- **matched**: `nuclear`
+- **actor**: Mads Kastrup
+- **representative of**: Media outlet
+- **date**: 2024-12-07 (year=2024)
+- **source**: Ekstrabladet (National newspaper)
+- **url**: `https://ekstrabladet.dk/nyheder/lederen/den-kolde-skulder/10460573`
+
+```
+The failure of the Danish "Energy Island" projects is total. Denmark's energy and climate policy, which clings to wind power as the country's salvation, is exposed as deeply flawed. The largest tender ever for a domestic offshore wind farm, intended to build gigantic wind turbines in the North Sea to cover the energy consumption of over half of Denmark's population, has received no bids—none at all. Not even Ørsted, Denmark’s state-owned energy company, or private companies like Copenhagen Infrastructure Partners showed interest.
+
+This fiasco reveals how the business model, which places all risks on bidders while demanding annual concession payments to the Danish state, is fundamentally unworkable. It also exposes the arrogance of Denmark's climate policy. The tender for nine gigawatts of offshore wind, with the first phase of three gigawatts approved by the Danish Parliament in May 2023, now appears to be collapsing.
+
+Offshore wind farms are prohibitively expensive to build, and the current cost estimates far exceed previous projections. At the same time, Denmark and the rest of Europe face an overwhelming challenge: building affordable and reliable energy supplies, an issue that has become more urgent than meeting climate targets. This failed tender also has severe implications for other energy plans, including the two proposed "Energy Islands" in the North Sea and on Bornholm. The North Sea Energy Island has been postponed indefinitely due to high costs, and Energy Island Bornholm, which was already predicted to be unprofitable, must now also be considered financially untenable. The 8.7 billion kroner required for its construction was supposed to come from revenues from offshore wind in the North Sea.
+
+It was a grave mistake to rely almost exclusively on offshore wind. It was unwise to embrace wind turbines with such blind faith while rejecting alternative solutions like nuclear power, which Denmark's Social Democrats have opposed for decades in pursuit of CO2-neutral energy. Now, everyone is left to suffer from the consequences of this failure, and we all know who will ultimately foot the bill for this debacle.
+```
+
+### id 193
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-11-03 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10160358792224154/`
+
+```
+The cost comparison between energy islands and nuclear power is revealing. Constructing 8.4 GW of nuclear power costs 202 billion DKK, while building two energy islands costs 210 billion DKK, delivering only about 3 GW when the wind blows. This highlights that nuclear power, often criticized for being expensive and slow, may be more viable than previously thought, considering its ability to provide electricity 24/7 and enhance energy security. While energy islands depend on intermittent wind and don’t eliminate the need for fossil fuel backup, nuclear power can deliver consistent supply. Although the corrected total cost of 210 billion DKK for both islands doesn’t alter this perspective, acknowledging this correction ensures fairness in the discussion.
+```
+
+### id 194
+
+- **matched**: `thorium`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-09 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/photo.php?fbid=1287433316004355&set=a.714469336634092&type=3`
+
+```
+Once again, this is a major catastrophe caused by a lack of thought about what they are doing. Why on earth are they not building thorium power plants instead?
+```
+
+### id 211
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-08 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr2c1s2/`
+
+```
+Whenever you argue for nuclear power, there’s always pushback that it takes far too long. But what about this energy island? Announced in 2020, planned for completion by 2030, then delayed to 2033, then to 2036, and now no one even knows if it will happen. Just build a couple of nuclear power plants already—they can even be in my backyard.
+```
+
+### id 224
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-08 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr23elz/`
+
+```
+We’re going to spend the next 50 years calculating the pros and cons of different energy solutions, and in the end, we’ll opt for a variation of nuclear power that includes material recycling, waste burning, and carbon capture from waste incineration, stored beneath the seabed or underground on land. At the same time, we’ll likely conclude that it’s only sustainable in the long term to cultivate up to 20% of Danish land. This would minimize pollution of nature, both from agriculture and from solar panels, wind turbines, and other technologies that take up space and visually pollute the landscape.  
+
+If only we could think more long-term today, we could outpace other countries and solidify Denmark’s position as a leading global economy.
+```
+
+### id 242
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-04 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/137vv71/energi%C3%B8_bornholm_kr%C3%A6ver_over_30_milliarder_kroner/`
+
+```
+The cost seems incredibly low. A nuclear power plant with a 1 GW capacity costs around 35 billion DKK, excluding the storage of spent fuel and decommissioning costs.
+
+It sounds like we should build more energy islands if we can get three times the capacity from them, especially since the wind turbines finance themselves.
+```
+
+### id 249
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: EnergyWatch (National newspaper)
+- **url**: `https://energiwatch.dk/Energinyt/Renewables/article17726997.ece`
+
+```
+I want to repeal the nuclear power ban that was introduced in 1985. Sustainable energy sources like wind and solar simply cannot keep up, which is why I believe Denmark must make use of nuclear power.
+
+I understand that this might be difficult for some. We've been bombarded with messages about how dangerous nuclear power is. But technology has advanced, and we must shift to alternatives beyond fossil fuels.
+
+If wind and solar are enough, then "bring it on"—great. But I find it hard to see the point of excluding a specific technology entirely.
+
+The Danish Parliament decided in 1985 to ban the use of nuclear power plants for electricity production in Denmark. However, since then, technology has progressed significantly, and I feel an urgency to find sustainable energy solutions.
+
+For instance, the North Sea energy island project was postponed in August and won’t be ready until 2036 at the earliest. At the same time, Energy Island Bornholm will cost twice as much as anticipated, totaling 31 billion kroner. Additionally, the establishment of pipelines to send hydrogen from Western Jutland to Germany has been delayed from 2028 to 2032.
+
+The wars in Ukraine and the Middle East, coupled with the pressing climate crisis, make finding a quick solution more critical than ever.
+
+It’s not new that I, as part of the Conservatives, support nuclear power. In 2023, I told the newspaper Børsen that I wouldn’t stand in the way if anyone wanted to pursue nuclear power.
+
+At that time, Søren Pape Poulsen was our party leader. Now, the Danish Climate Council has stated that nuclear power is neither necessary nor "an economically attractive solution," but I believe we must reconsider this stance.
+```
+
+### id 254
+
+- **matched**: `nuclear`
+- **actor**: Bluesky user
+- **representative of**: General public opinion
+- **date**: 2024-12-05 (year=2024)
+- **source**: Bluesky (Social media)
+- **url**: `https://bsky.app/profile/sineudeng.bsky.social/post/3lcl7fk3ep222`
+
+```
+I want to repeal the nuclear power ban that was introduced in 1985. Sustainable energy sources like wind and solar simply cannot keep up, which is why I believe Denmark must make use of nuclear power.
+I understand that this might be difficult for some. We've been bombarded with messages about how dangerous nuclear power is. But technology has advanced, and we must shift to alternatives beyond fossil fuels.
+If wind and solar are enough, then "bring it on"—great. But I find it hard to see the point of excluding a specific technology entirely.
+The Danish Parliament decided in 1985 to ban the use of nuclear power plants for electricity production in Denmark. However, since then, technology has progressed significantly, and I feel an urgency to find sustainable energy solutions.
+For instance, the North Sea energy island project was postponed in August and won’t be ready until 2036 at the earliest. At the same time, Energy Island Bornholm will cost twice as much as anticipated, totaling 31 billion kroner. Additionally, the establishment of pipelines to send hydrogen from Western Jutland to Germany has been delayed from 2028 to 2032.
+The wars in Ukraine and the Middle East, coupled with the pressing climate crisis, make finding a quick solution more critical than ever.
+It’s not new that I, as part of the Conservatives, support nuclear power. In 2023, I told the newspaper Børsen that I wouldn’t stand in the way if anyone wanted to pursue nuclear power.
+At that time, Søren Pape Poulsen was our party leader. Now, the Danish Climate Council has stated that nuclear power is neither necessary nor "an economically attractive solution," but I believe we must reconsider this stance.
+```
+
+### id 267
+
+- **matched**: `atomkraft`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Et atomkraft-projekt der er løbet næsten 3x over budget, er altså 43% billigere end prisen på det her projekt. Og lur mig om ikke der også kommer budgetoverskridelser ud over de 210 mia.
+Desuden undgår man med atomkraft hele problemstillingen om lagring af energi, som der så vidt jeg ved ikke er en god løsning på endnu, og som ikke er medregnet i det her projekt. Så hvad har de tænkt sig at gøre, når vinden ikke blæser?
+```
+
+### id 272
+
+- **matched**: `atomkraft`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Vi kan godt blive enige om, at det er dyrt - men at man tager første etape på et projekt og regner ud fra det er ikke en helt fair sammenligning med et færdigt projekt.
+Værket i Finland er rent omkostningsdrevet, det har begrænset betydning for Finlands erhvervsliv og ingen betydning for Finlands virksomheders internationale konkurrencedygtighed.
+Det her kommer til at have en langvarig positiv effekt på dansk erhvervsliv.
+Vi kan hurtigt blive enige om behovet for atomkraft - men jeg ser begge ting som nødvendige/kloge beslutninger.
+```
+
+### id 278
+
+- **matched**: `atomkraft`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Vi gør os kun mere afhængige af afbrænding af fossiler og biomasse med upålidelige energikilder. Atomkraft Ja Tak!
+```
+
+### id 282
+
+- **matched**: `nuclear;atomkraft`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Fuck vindmøller, atomkraft er endnu grønnere.
+Der er også nuclear fusion, hvis dette bliver en success i Frankrig, kommer der til at være masser af grøn energi uden affald.
+Det hedder ITER projektet, hvor masser af lande har bidraget økonomisk til det i mange år.
+De regner med at teste det første plasma i 2025 og Full Fusion i 2035!
+```
+
+### id 283
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-05-10 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vism%C3%A6nd_dumper_energi%C3%B8_projektet_b%C3%B8r_genovervejes/`
+
+```
+I believe that the entire Power-to-X fantasy will probably become more expensive and face greater delays than a couple of standard off-the-shelf reactors from South Korea or France. I am, however, grateful that 'Gigabyte-Jørgensen' was there to build up enthusiasm, because that promotion kept the dream alive for a while—even if the costs and timelines spiral out of control.
+```
+
+### id 305
+
+- **matched**: `nuclear`
+- **actor**: private person
+- **representative of**: General public opinion
+- **date**: 2024-05-07 (year=2024)
+- **source**: Ingeniøren (National newspaper)
+- **url**: `https://ing.dk/artikel/energioeer-paa-randen-af-fallit-afhaengig-af-umulig-eu-stoette`
+
+```
+Nuclear power? Yes, please! This situation clearly demonstrates that we should have started working on a nuclear power solution yesterday—or, ideally, 15 years ago. Why haven’t we begun yet? Is it really so difficult to adopt regulations and governance structures from Sweden and place an order with Seaborg or Copenhagen Atomics?
+```
+
+### id 347
+
+- **matched**: `nuclear`
+- **actor**: Vindparken Baltic Eagle
+- **date**: 2024-08-23 (year=2024)
+- **source**: Ingeniøren (National newspaper)
+- **url**: `https://ing.dk/artikel/kraka-umuligt-faa-tyskerne-til-daekke-milliardunderskud-paa-energioe`
+
+```
+The Baltic Eagle wind farm near Rügen, with a nominal capacity of 476 MW, is estimated to cost 1.6 billion euros, or about 12 billion kroner. With a 50% utilization rate, the specific investment amounts to 52 billion kroner per GW. This is considerably more expensive than a Korean-built nuclear power plant. Additionally, the costs include long cables, backup power when the wind isn't blowing, and economically unrealistic projections for Power-to-X (PtX) technology.
+
+In 2023, wind power across 13 northwestern European countries ranged from 5.6 GW to 121 GW, with an average of 46 GW and a standard deviation of 52% of the average. 
+
+Wind power should be recognized as viable only to a very limited extent. It's time to stop looking to the misguided idealists from 40-50 years ago, who stood in front of Christiansborg Palace and sang: "What should go in? Sun and wind! What should go out? Barsebæk!" 
+
+We ended up with 20 wind turbines at Middelgrunden, with a total capacity of 40 MW and an average output of 8.8 MW in 2023, varying between 14 MW in October and 4.1 MW in June. Such variation significantly limits the usefulness of wind power, which led us to build an 800-900 MW power plant at Avedøre to replace Barsebæk. This plant still emits some carbon dioxide, so it wasn't exactly a green transition.
+```
+
+### id 467
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-22 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/xkeyku/comment/ipg2pzw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+I can't stand that SF (Socialist People's Party) and Ø (Red-Green Alliance) are talking about the price and time to look...
+
+According to this site: https://kefm.dk/aktuelt/nyheder/2021/feb/danmark-bliver-en-oe-rigere-verdens-foerste-energioe-etableres-80-km-ude-i-nordsoeenthe upcoming energy island costs 210 billion DKK and will provide 3 gigawatts from the start. It is expected to be completed by 2033 according to this site: https://energiwatch.dk/Energinyt/Renewables/article13878785.ece
+
+I believe that an equivalent 3-gigawatt nuclear power plant would at most cost the same and would not take longer to build. On the other hand, it would be more stable and not make us dependent on metals from China.
+
+Fair enough to be against nuclear power, but our offshore wind projects are at least as expensive and far off in the future.
+```
+
+### id 469
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/comment/gm66zv9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The artificial energy island in the North Sea is such a waste of money and it is just a publicity stunt.
+
+The island is expected to be done in 2028, but a report says the an optimistic estimate is 2033 and engineers say that 2035 should be expected.
+
+My opinion is that the 25 billion dollars should be spend on nuclear power, and not shitty publicity eco artificial islands that will cost 50 billion dollars before it is done just like any other huge Danish project.
+```
+
+### id 472
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-22 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/xkeyku/comment/ipgleq8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+There is a world of difference between 3GW of installed wind capacity from the energy island and 3GW of installed nuclear power. One generates electricity intermittently, the other you can control.
+```
+
+### id 473
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-22 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/xkeyku/comment/ipgrfpt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+It's a shame there is so much opposition to nuclear power, as it is otherwise the perfect stable energy source that could be used in a transition phase until something better is invented. We cannot be 100% self-sufficient with only solar and wind. The storage options are too poor at the moment. It would require enormous resources to build energy storage, and there would probably also be a lot of pollution associated with building energy storage for 6 million Danes and countless companies.
+
+The energy island will also not help us when there is no wind; it will be a failed prestige project that will probably be postponed year after year.
+
+Nuclear power is incredibly safe, especially in Denmark where we do not have the same threat as in Japan in the form of large earthquakes and tsunamis. As I see it, the only threat could be internal terrorism within the plant itself.
+
+The disadvantage is the toxic waste that nuclear power plants produce, but it does not take up much space, so we must look at how countries like Finland and Switzerland store it.
+
+Unfortunately, nuclear power plants take 5+ years to build...
+
+This energy crisis is the perfect example. Now people are burning all kinds of different types of wood and sunflower pellets in the absence of better options...
+```
+
+### id 474
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/im9zrh0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+It can't happen fast enough, and build an nuclear power plant beside the transformer station, so we have electricity when its windy and when it is not windy.
+Its an old tale that people do not want to have such a thing in their backyard, but it should be extremely clear for everyone that the current situation is not sustainable. 10 years from know I honestly hope I look out to the sea anywhere in Denmark without seeing a windturbine. I think is the is the sight of freedom (from the russians).
+```
+
+### id 477
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-04-11 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/u1f0hv/socialdemokratiet_vil_du_have_et_atomkraftv%C3%A6rk_i/`
+
+```
+The Social Democrat Party asked in a Facebook post whether I would want a nuclear power plant in my backyard. Yes, I would. Beyond that, it's also laughable that the time horizon argument gets used constantly, when their currently planned energy island will only be ready in 2040
+```
+
+### id 479
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-14 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/s3p023/danmark_har_%C3%B8get_kulfyringen_med_n%C3%A6sten_50/`
+
+```
+Denmark is really quite well positioned for wind (the best in Europe after Scotland, I think?) and we have national interests in supporting our local wind turbine industry, so I don't think that a little country like Denmark should put all our eggs in a large reactor that we had to learn to regulate first etc. (but smaller reactors sound exciting). We do also have that energy island that we are about to build. We should focus on that, with some exciting ideas about energy storage with hydrogen as far as I remember. Nuclear power would be better for larger countries that can scale it better. Germany...
+```
+
+### id 480
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-10-03 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/16ua4dw/comment/k39e0m2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Mette Frederiksen's energy island will cost approximately 210 billion DKK if we don't account for delays and other issues that always come with public projects.
+
+When it's finished, it will generate about 10 GW. But only if there is wind. So, it is not a stable energy source (it depends on the wind).
+
+Poland will pay up to 20 billion USD or about 142 billion DKK for a plant that can produce 9 GW. But this production is stable, it doesn't care about wind, sun, water, etc., and it is also cheaper than huge wind islands.
+
+This means we would destroy less nature, get it cheaper, and get more efficient electricity.
+
+And speaking of timing, Poland's plant will start in 2026, with the first reactor finished and producing electricity in 2033, and all reactors completed in 2040.
+
+The energy island in the North Sea will have its first phase realized in 2033 and be fully developed in 2040.
+
+Plus, no one says we can't do both and become a net exporter of green energy as a nation and make Denmark richer :-)
+```
+
+### id 482
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-03 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/16ua4dw/comment/k39e93k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+PTX requires consistent energy, and about 10% of Denmark's energy consumption currently comes from wind and solar. PTX is not good if the energy to produce it comes from gas, oil, and biogas, which are our primary energy resources at the moment.
+
+And the reason it is being discussed is that it is the only form of energy that can help us reach our climate goals by 2040. Energy islands are not enough because, funnily enough, they produce as the wind blows (therefore not stable), and are much more expensive than nuclear power.
+```
+
+### id 483
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-25 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ycvzfh/comment/itp0atx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The wind turbine portion of the energy island project costs "only" 80 billion. The rest is for P2X and five large underwater cables. By comparison, the Finnish nuclear reactor OL3 ended up costing just over 80 billion and will only generate about 1/4 of the electricity expected from the wind turbines in the North Sea. Now, OL3 is a bit of a cautionary tale, but it is more the rule than the exception that nuclear power plants run over schedule and end up costing significantly more than anticipated.
+```
+
+### id 484
+
+- **matched**: `nuclear;uranium`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-11-11 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/wlnvp9/comment/ijv58g3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Building an energy island takes a significant amount of time and money. It's curious how nuclear power is often dismissed as unrealistic and too expensive, while we are more than willing to pour large amounts of money into weather-dependent energy sources. Extracting uranium also emits CO2, which is no different from the environmental impact of other materials such as fiberglass, steel, epoxy, copper, and neodymium magnets. If we try to reinvent the wheel and insist on creating a uniquely Danish nuclear power plant, you're right — we won't be able to do it in time or afford it. However, the French have the necessary experience, and their expertise is available for purchase.
+```
+
+### id 485
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-03-10 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/m1td2t/hvis_vi_i_stedet_for_en_ensartet_klimaafgift/`
+
+```
+It is fundamentally unserious to talk about a carbon tax, as long as we continue to burn wood to make electricity and heat. As long as incineration of wood is CO2 neutral, then it's a huge circus.
+
+If we dropped the deranged energy island and used the money on nuclear power instead, then we could cover more than 100% of Denmark's current electricity usage and about 200% of Denmark's heating use (which would allow some loss to a countrywide district heating network).
+```
+
+### id 486
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-25 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ycvzfh/comment/itp17of/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+A direct comparison between the projected costs of wind turbines and the actual costs of nuclear energy (as we know, OL3 was not projected at 80 billion) would be rather dishonest, so I’ll refrain from doing that. But sincerely, thanks for the facts it’s fascinating, once again, to see how expensive the untested P2X component on top of the wind foundation is turning out to be. And that component must be included if wind is to function as a baseload supplier. I can’t help but think that we’re viewing a capital-intensive, risky technology modern nuclear power as too risky and discarding it in favor of a technology that is not only economically risky but also technically risky. But what do I know?
+```
+
+### id 487
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-25 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ycvzfh/comment/itoyo49/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+That energy island is set to have a maximum output far greater than any nuclear power plant in the world and will be located somewhere out in the North Sea. And apparently, it’s not an issue for our power grid either, if you’re to believe its proponents.
+```
+
+### id 490
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-07-16 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i778zeb/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The Russians and the Chinese can build GW-scale reactors in 5 years or less, for about $5 billion each. Both designs and safety are approved for import into the EU.
+
+You can therefore get a lot of VVER-1200 or Hualong One reactors for the 300 billion DKK an energy island costs.
+```
+
+### id 495
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-09 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/tech/comments/lfr6gg/denmark_is_building_an_artificial_island_to_house/`
+
+```
+A clean energy hub surrounded by wind turbines is a total pipe dream. Wind has proven to be an inferior energy source than nuclear at every turn, both in terms of carbon emissions and in terms of cost to power output. Exposing it to North Sea or Baltic storms only makes the equation even worse.
+```
+
+### id 498
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-31 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/yhl51c/comment/iuflffr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Now, energy security also has a price. Nuclear power always produces. That’s not accounted for. The energy island requires huge connections to other countries to make sense, and that’s expensive as well. Is that factored in? Additionally, it's likely that the energy island will become more expensive because it’s a new and untested technology. On the other hand, nuclear power is ramping up again, and it's likely that the next series of plants will be significantly cheaper once the experience of building them is regained. Furthermore, nuclear plants last for 80 years, while wind turbines last 30 years, perhaps? So, you need to account for a significant additional cost there.
+```
+
+### id 500
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-31 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/yhl51c/comment/iufkfic/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+210 billion kroner. The budgets for the two nuclear reactors were about 100 billion kroner each. In Denmark, we don’t have experience with building nuclear plants, but we also don’t have experience with constructing huge energy islands. So, both types of projects carry the risk of going over budget or taking longer than planned. Additionally, the output from the energy islands depends on whether we can finally get P2X to work on a large scale, which has not been tested before. If it works without exceeding the budget, that would be fantastic. Personally, though, I feel that we should diversify more rather than going all-in on a technology that has been discussed for decades but still hasn’t been implemented at a large scale. Edit: Energiøerne -> energy islands.
+```
+
+### id 501
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-31 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/yhl51c/comment/iufl5nq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+30 billion USD is not 100 billion kroner. We haven’t built energy islands before, but we have experience with offshore projects, so in the worst-case scenario, we’ll "just" end up with new offshore wind farms. Will it go over budget? Definitely. But will it cost 500 billion (which would lead to the same capacity per kroner as the two nuclear plants)? No. Both research, politics, and industry agree that Power2X is scalable and can be profitable. Whether it will work without exceeding the budget remains to be seen, but the belief is that it’s feasible.
+```
+
+### id 502
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-31 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/yhl51c/comment/iufpqq0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The budget for the nuclear reactors was indeed around 14 billion USD, not 30 billion. So the total was around 100 billion kroner. It ended up costing twice as much, which is also a risk for the energy islands. I understand that Power2X will likely be part of the solution at some point, but as you mentioned, researchers were saying it was just around the corner 10 years ago. That makes me a bit skeptical, too, and I agree with you that a more diversified approach to green transition investments would be wise.
+```
+
+### id 504
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/comment/glzf633/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Let's do some quick math to put things in perspective:
+
+If the stated price of 210 billion DKK is for the first phase of 3000 MW (as I understand it), that gives a price per MW of 70 million DKK.
+
+In comparison, the new Finnish Olkiluoto 3 third-generation nuclear reactor costs 63.75 billion DKK, which gives a price per MW of 39.8 million DKK.
+
+A nuclear power project that has run almost 3x over budget is still 43% cheaper than the price of this project. And I bet there will be budget overruns beyond the 210 billion DKK.
+
+Additionally, nuclear power avoids the whole issue of energy storage, which as far as I know, doesn't have a good solution yet and isn't included in this project. So what do they plan to do when the wind doesn't blow?
+```
+
+### id 506
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/comment/glzuukx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+There is a lot of negativity in this thread. Either it's too expensive, or it's not nuclear power or high-speed trains.
+
+I think it seems like a good idea. If we want to reduce our dependence on fossil fuels, wind power is one of the solutions Denmark has right now.
+
+Yes, it's expensive. But that's just how it is. Nuclear power (which I personally support) is not a real option for Denmark. We lack the knowledge, public will, and regulation/legislation.
+```
+
+### id 507
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-10-25 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/qfbzom/comment/hhz6b7s/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+There has certainly been a shift in prices for new European reactors. The British estimated they could get two new 1.6 GW reactors for around 22 billion euros. However, the French counterpart, Flamanville, also a 1.6 GW EPR, has already cost 19 billion euros for just one reactor, and it’s not yet commercially operational.
+
+Furthermore, the Danish energy island is expected to cost around 33 billion euros, which includes 10-12 GW of offshore wind, high-capacity cables to five countries (for energy export), a PtX facility, and an artificial island.
+```
+
+### id 508
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr2l2iw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+If we can afford the expensive carbon capture plants for 10-20 billioner DKK pr. piece and an energy island, maybe we should use those resources on nuclear energy first.
+```
+
+### id 512
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/comment/gm66zv9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+This island is a waste of money and just a publicity stunt.
+
+The island is expected to be completed in 2028, but a report suggests that an optimistic estimate is 2033, and engineers say 2035 should be expected.
+
+I believe the $25 billion should be spent on nuclear power, not on eco-friendly artificial islands that will end up costing $50 billion before they are finished, just like any other huge Danish project.
+```
+
+### id 513
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-10-20 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/yhl51c/comment/iuejpen/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+If we’re already going down the path of building these energy islands, we might as well take the time to build nuclear power as well.
+```
+
+### id 520
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-09 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/tech/comments/lfr6gg/denmark_is_building_an_artificial_island_to_house/`
+
+```
+This is a total pipe dream. Wind has proven to be an inferior energy source compared to nuclear in every aspect, both in terms of carbon emissions and cost to power output. Exposing wind turbines to North Sea or Baltic storms only worsens the situation.
+```
+
+### id 522
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr2l2iw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+If we can afford expensive carbon capture facilities costing 10-20 billion each and an energy island, we could potentially use those resources for nuclear power first.
+```
+
+### id 556
+
+- **matched**: `reactor`
+- **actor**: Martin Vogdrup Olesen
+- **representative of**: Seaborg Technologies
+- **date**: 2024-04-01 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/kraka-economics_økonomer-vil-have-stoppet-energiø-der-er-activity-7176490449702965250-98CV`
+
+```
+A 20-foot container from Seaborg Technologies delivers 200 MW of continuous power from its two reactors. This seems incredibly efficient when compared to 15 of the largest wind turbines currently in use, which require thousands of tons of steel, 150 tons of composite materials, massive magnets, and tons of copper. The comparison raises the question of why this solution isn't considered a brilliant idea.
+```
+
+### id 562
+
+- **matched**: `nuclear`
+- **actor**: Erik Veedfald
+- **date**: 2024-04-01 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/kraka-economics_økonomer-vil-have-stoppet-energiø-der-er-activity-7176490449702965250-98CV`
+
+```
+It is interesting to follow Kraka Economics in the future. They have previously written critically about the energy islands. I believe we need to explore an alternative to the current strategy of "more of the same," especially from an economic perspective. Imagine if we could establish small, decentralized nuclear power plants on land, located where electricity is actually needed, rather than producing it where the wind blows (and the sun might shine), which would require enormous, expensive, and time-consuming expansions of the power grid. By doing so, we could save on these costs and avoid contaminating the landscape and nature, while possibly also reducing risks to energy security. The timeline might even be the same, as many of the proposed wind energy expansions will take about 10 years. With the current strategy, we may also end up having to build a number of gas power plants to ensure energy security. Additionally, this approach could help us avoid the need for hydrogen pipelines, and we might find that the much-discussed PtX adventure is an economically poor investment, as it would become far too expensive compared to existing technology.
+```
+
+### id 566
+
+- **matched**: `nuclear`
+- **actor**: Karsten Jepsen
+- **representative of**: Fredericia Maskinmesterskole
+- **date**: 2022-01-01 (year=2022)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/energistyrelsen_dkgreen-energiø-grønomstilling-activity-6763060557558931456-yTGo/`
+
+```
+Imagine if an equivalent amount of money were invested in nuclear power. On the other hand, the Energy Island project might be marketable internationally and could create jobs—provided that we can secure a sufficient supply of qualified labor.
+```
+
+### id 586
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-02-10 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/karnfull.dk/posts/-atomkraft-fremfor-energi%C3%B8-bornholm-kan-spare-danskerne-for-mindst-315-milliarde/859376799545270/`
+
+```
+Without wind, there is no electricity.  
+Without sun, there is no electricity.  
+Yes, please, to nuclear power.
+```
+
+### id 589
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-06-22 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/karnfull.dk/posts/-atomkraft-fremfor-energi%C3%B8-bornholm-kan-spare-danskerne-for-mindst-315-milliarde/859376799545270/`
+
+```
+The Energy Island project on Bornholm is outrageously expensive and will hopefully never materialize. A single nuclear power plant would likely be sufficient for the island, ensuring better and more stable energy supply. For 40,000 residents, the cost per citizen is absurd.
+```
+
+### id 594
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-05-23 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/MortenMesserschmidt/posts/pfbid0ij3WaT43PAd2dHCXBzXPoYPW2bay3P2uBRwmaNRoskQyZ9cbvw6hvuR82zr9cJKdl`
+
+```
+When will Denmark adopt nuclear power instead of covering the country with wind turbines and solar panels?
+```
+
+### id 602
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-09-04 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/tv2bornholm/posts/3273570282904822/?locale=ms_MY`
+
+```
+Stop discussing the construction of more ugly wind turbine parks and take the proper step toward embracing nuclear energy.
+```
+
+### id 627
+
+- **matched**: `thorium`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-30 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/permalink/10162305489614154/`
+
+```
+Stop all Energy Island projects, offshore wind projects, and solar farm projects. Instead, allocate some of the funds to complete and install thorium molten salt energy systems in all Danish power plants. This would make the energy system function optimally, stably, and securely.
+```
+
+### id 632
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-05-23 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/MortenMesserschmidt/posts/pfbid0ij3WaT43PAd2dHCXBzXPoYPW2bay3P2uBRwmaNRoskQyZ9cbvw6hvuR82zr9cJKdl`
+
+```
+When will we get nuclear power, before the country is covered with wind turbines and solar panels?
+```
+
+### id 734
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-04 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/137vv71/comment/jivkzzb/`
+
+```
+That sounds incredibly cheap. A 1-gigawatt nuclear power plant is being built in the area for 35 billion kroner, minus the storage of used fuel and decommissioning costs.
+
+It's even more astonishing when you consider that the cost of building a single wind turbine can pay for itself, as Vox reports. If we can scale up to a capacity three times larger than currently envisioned, and if wind turbines are able to cover their own costs, it seems likely that we'll need to build many more energy-producing facilities.
+```
+
+### id 736
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr4j6gr/`
+
+```
+But now that I think about it, everyone has known this was a bad investment for years. If you take the same 200 billion kroner and invest it in something like Hinkley Point C, which is the most expensive nuclear power plant, you could get 3.2 GW of capacity compared to the energy parks' 3 GW (with wind and "hocus pocus" technology) that would eventually reach 10 GW.
+
+So, you're choosing between having 90-95% uptime with stable electricity and heat, or wind turbines with 50-65% uptime where most of that time is spent producing ash with only a 70% efficiency rate. The first option has a lifespan of 60-100 years, while the second one lasts only 20-30 years.
+
+I'm not surprised anyone seriously thought energy parks would be cheaper. I've been saying this for around 10-12 years now, and even that doesn't come as a surprise when you consider the fact that there's still a rental income component to these projects, which is roughly equivalent to having the same initial investment cost
+```
+
+### id 737
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr4xi71/`
+
+```
+So now that batteries are on the way, the Energy Agency is expecting around 1 GW of storage capacity by 2030. Denmark already has around 16 GW of installed batteries, which translates to about 800 MWh in Denmark.
+
+When you say "maybe only a few weeks a year", it's because those 'small holes' in the east are what we need to fill when we're recharging our VE-building capacity. The Climate Council analyzed supply security last year and concluded that in an "intensive weather year" we'll need to import electricity around 1000 times in 2030, equivalent to about 6 weeks.
+
+How we fill those gaps is still a topic of discussion. It's likely going to be a combination of battery storage, flexibility on the demand side, flexible power plants, and imports. And yes, even though power plants will only need to run for around 100 hours a year, they'll still be needed. Take Kyndby Power Plant as an example, which is already standing by.
+
+I'm surprised that people keep saying 'nuclear power would have been cheaper'. What experts in energy economics say, and what the market delivers are two different things. If business cases for nuclear power were really so good, I'd expect more countries to build them. Even China, which has all the prerequisites for cheap nuclear power, is building solar and wind 10 times faster.
+
+As for when we'll have nuclear power in Denmark, if it's worth building, that's not going to be as soon as 10 years. We're talking more like 2040. It's not just about building a power plant; we need the right competencies, international agreements, and regulations before we can even start digging.
+
+In Sweden, where they already have nuclear power, the government started working on new nuclear power in 2022 with plans to have it operational by 2035. In Norway, the Institute for Energy Technology estimates that you can get nuclear power as soon as 2040 if you start now.
+
+And finally, I think you should pay attention to what your tariff covers and why it's increasing. The system tariff you pay to Energinet does include a component that balances solar and wind power. But that's not the main reason for your increasing tariffs.
+```
+
+### id 740
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-11-06 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1gkdl20/comment/lvok655/`
+
+```
+We are securing external financing to build an energy island for 50 billion DKK that will produce as much energy as a nuclear power plant and won’t be completed until 2036. The cost and time are not the issue. If they were, we would also oppose the wind farms currently under construction.  
+
+There is no solution to the problem of what will back up wind and solar if we want a clean, climate-friendly energy grid. The current solution—and what will remain the solution—is fossil-fueled power plants, which, incidentally, emit more radioactive particles into the air than a nuclear power plant.  
+
+The truth is that we don’t actually care about the environment or the climate in this country. As long as we can polish our image with a few wind turbines, we’re happy to burn fossil fuels to support the unstable wind and solar energy systems, which cost just as much, if not more, and take just as long to roll out.
+```
+
+### id 741
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr2l2iw/`
+
+```
+Exporting electricity to other countries is clearly the obvious solution to managing surplus production. Additionally, building one facility at a time ensures we don't significantly overshoot future demand. Overproduction, however, might actually be beneficial, as it would make Denmark an attractive destination for energy-intensive businesses worldwide.  
+
+By the time the first nuclear power plant is completed and operational in 20 years, almost all vehicles will run on electricity, making concerns about mismatched demand irrelevant.  
+
+If we can afford expensive carbon capture facilities costing 10-20 billion DKK each and an energy island, those resources could be better spent on nuclear power first.  
+
+Lack of expertise is never a valid excuse when dealing with new technology; we simply need to learn what we don’t know. It's not as complicated as it's made out to be. You should see the facilities currently operating across the country—the leap to nuclear is far smaller than it sounds.  
+
+We are fully capable of managing safety ourselves. Nuclear facilities should be located near major cities where they would cause the least disruption to Danish nature and maximize energy efficiency.  
+
+Cost overruns can be avoided by studying hundreds of completed reactor projects and applying the same methodologies we already use for large infrastructure projects.  
+
+Bad companies bidding on projects can’t be entirely avoided, but we can set precise criteria, including a track record of successful reactor constructions, to ensure quality.  
+
+If you're unwilling to take responsibility for your energy consumption, you're free to move to another EU country. Nuclear power is exceptionally safe and far less polluting than any other available fuels, making concerns about its use both unethical and misplaced. You should be more concerned about living near current facilities than future nuclear plants.  
+
+Switching to nuclear would allow us to eliminate fossil fuel burning, except for waste, which is partially fossil-based.  
+
+Wind turbines and solar panels rarely generate electricity when we need it most, requiring a massive overproduction of power. Heat would then have to be generated using electric boilers and heat pumps, incurring significant energy losses at each conversion stage. If we pursue that path, we’ll have to wait and hope for drastic price reductions in solar panels, which are currently falling significantly in cost. However, relying on that is a gamble, unlike nuclear power.  
+
+Solar and wind energy cannot significantly improve their efficiency—they are already close to maximum potential. While they might become much cheaper over time, this remains uncertain. I find it hard to believe solar panels will ever become so cheap that we could afford the massive overproduction required.
+```
+
+### id 742
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/comment/lr2ov6z/`
+
+```
+There is indeed a transitional period, during which we would either buy electricity from abroad (as we already do today—see the link below) or invest in a few biomass plants combined with as few solar panels as possible to minimize pollution of our natural environment.  
+
+There would undoubtedly be resistance, but this is a hypothetical scenario in which the most strategically optimal plan is successfully implemented. Nuclear power is the least dangerous energy source we know, making it the right solution to place near major cities—even if, unfortunately, people today are hopelessly misinformed by the very politicians who influence these decisions.  
+
+It’s true that there’s little room for improvement in the energy efficiency of solar panels and wind turbines; they are already extremely close to their hypothetical maximum efficiency. That’s a fact we must accept. I don’t know where you might have been told otherwise, but sadly, that’s the reality. I also wish there were more energy in the sun’s rays, but it is what it is. While the price of solar panels is already low from a historical perspective, it’s hard to imagine that it will drop tenfold to make overproduction a viable solution to meet all of our energy needs.  
+
+Wind turbines are no longer decreasing in price either, so we can already rule them out as a solution to cover all our energy consumption. Meeting the demand would require so many wind turbines that their maximum output would be ten times our peak consumption, making them extremely expensive.  
+
+Yes, there is always some wind, just not enough. Wind production fluctuates significantly. Check for yourself: \url{https://energinet.dk/energisystem_fullscreen/}. Look at the historical data, for instance, from October 4, 2024, and then October 7, 2024. You’ll see a factor of ten difference in production, even though the turbines are already spread across all viable locations.  
+
+You are simply misinformed, but it’s not your fault. Energy is a vast and complex field, and unless you work in the industry, it’s nearly impossible to keep up. This is also why politicians so often make poor decisions in this area.
+```
+
+### id 749
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-30 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/imcnbo5/`
+
+```
+Forget wind turbines, nuclear power is even greener.
+
+There’s also nuclear fusion. If this becomes a success in France, there will be plenty of green energy with no waste.
+
+It’s called the ITER project, where many countries have contributed financially over the years.
+
+They expect to test the first plasma in 2025 and achieve full fusion by 2035!
+```
+
+### id 752
+
+- **matched**: `fission;uranium`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/ima3d41/`
+
+```
+There are, however, 40 trillion tons of uranium in the Earth's crust. So, not for the foreseeable future—we would have enough for thousands of years. And in thousands of years, it would surprise me if we were still mining uranium on Earth or still using fission as an energy source.
+
+Wind turbines and solar panels are also made from limited resources. Both are temporary solutions and not 100% sustainable, but they are much more sustainable than fossil fuels.
+
+A growing civilization will always use resources and never be fully sustainable. In theory, we could make humanity sustainable, but only if we stop population growth and stop increasing our energy consumption.
+```
+
+### id 756
+
+- **matched**: `nuclear;reactor;smr`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2002-06-05 (year=2002)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/comment/jj02f2p/`
+
+```
+The Danish Energy Islands are a great opportunity to harness the excellent wind resources available along Denmark's west coast. By utilizing these resources properly, Denmark could produce surplus electricity to export to other countries.
+
+Nuclear energy, particularly in the form of small modular reactors (SMRs), offers potential for district heating, but such reactors would need to be located close to urban areas to be effective. The development of smaller, mass-produced nuclear power plants by companies like Westinghouse and Radiant Industries is a promising path. These small reactors are designed to be simple, reliable, and almost passive in operation, which minimizes risks and allows for continuous design improvements in case of issues. Pilot projects in smaller towns would be a sensible first step to reduce Denmark's reliance on gas, eventually replacing natural gas with greener alternatives like biogas.
+
+Currently, the push to green district heating is focused on solar, geothermal energy, and reducing district heating temperatures. Additionally, the focus should shift away from reliance on natural gas companies, which generate significant amounts of non-green energy and profit from it.
+
+Technologies like Power-to-X (PtX) and hydrogen, while limited in scalability and expensive, have specific applications in transportation, particularly for trucks, ships, and airplanes. However, Denmark should prioritize transitioning freight transport from trucks to rail, alongside encouraging rail use over cars for personal travel.
+```
+
+### id 760
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/ima2hsr/`
+
+```
+Many people oppose nuclear power because it takes a long time to build and is expensive. However, more than 8 years for the energy island project seems just as bad.
+
+I believe decentralizing power production in the country with nuclear SMRs like the ones Rolls Royce is developing would benefit us greatly.
+
+More gigawatts is always good, but if we send a significant portion abroad, I think it's a shame that it impacts the limited land area on Bornholm. However, any green power is better than none.
+```
+
+### id 761
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/ima4rlg/?`
+
+```
+The average construction time for new nuclear power plants is down to around 5-6 years in China.
+
+France decarbonized its entire network in 15 years, over 50 years ago...
+
+China is building more than 400 plants in the coming decades.
+
+It's incredible what can be achieved when processes are standardized.
+```
+
+### id 762
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-06-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/`
+
+```
+Here’s a suggestion: why not invest the approximately 250 billion DKK in developing safer nuclear power plants and advancing fusion research? I’m not entirely convinced about spending the entire amount on a prestige project that primarily serves a cosmetic purpose—avoiding wind turbines on or near land because people don’t want to look at them.
+```
+
+### id 765
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-06-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/comment/jixyvgq/`
+
+```
+The actual calculations work against wind energy, particularly in a country like Denmark, which boasts the world’s most advanced district heating network.  
+
+The indoctrination against nuclear power runs so deep that it borders on being religious. Combined with a generation of politicians heavily influenced by the wind lobby, this makes nuclear power an impossibility in Denmark.  
+
+However, the desperation is becoming evident as solutions are being sought to address questionable energy security. Power-to-X (PtX) remains a technology that has never been, and likely cannot be, scaled to the levels required. Hydrogen, in particular, is a highly problematic element to work with due to its explosive nature and extreme volatility.
+```
+
+### id 766
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-06-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/`
+
+```
+Of course, the climate is the most important aspect of climate policy, and our protectionism toward our own energy industry has absolutely nothing to do with the chaos unfolding in the ministry.  
+
+It’s merely a coincidence that, by 2041, when the energy island is finally nearing completion, we’ll be able to say, “See, we told you so.” We could have built several nuclear power plants for the same cost and in the same timeframe.  
+
+The argument will once again be that building nuclear power plants takes too long, so we can’t start now. This has been the excuse for decades while both the climate and security policies remain in disarray.  
+
+Congratulations to the sanctimonious.
+```
+
+### id 767
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/comment/glzf633/?`
+
+```
+The cost of the first stage of the Danish "Energy Island" project, which is planned to have 3000 MW capacity, is estimated at 210 billion DKK. This equates to a price of 70 million DKK per MW. In comparison, the new Finnish Olkiluoto 3 nuclear reactor, a third-generation plant, costs 63.75 billion DKK, which results in a cost of 39.8 million DKK per MW. Despite being nearly three times over budget, the Olkiluoto project is 43% cheaper than the "Energy Island" project. Additionally, nuclear energy avoids the problem of energy storage, a major concern for wind energy, which the "Energy Island" project has not addressed. The question remains: how will energy be stored when the wind doesn't blow?
+```
+
+### id 768
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-12-05 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1h7d6rr/comment/m0kbvff/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+There is no need for more green energy in Northern Europe when the wind is blowing because we already have enough capacity. The idea that green hydrogen could make it profitable is unrealistic due to the massive price difference between green and grey hydrogen, and there is no willingness to force consumers to pay for it. People will not accept a lower standard of living for the sake of the climate, no matter how one feels about it. This is reflected in voting patterns. 
+
+In our geography, it is not possible to obtain stable and cheap electricity. Nuclear power is suitable for baseload generation, but it is not cheap and will not make us globally competitive in terms of energy prices. In Europe, we must accept that our geography and geology are not favorable. There are no plausible energy storage solutions that seem capable of solving this problem, unfortunately.
+```
+
+### id 769
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/comment/imaphnd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+There is more than enough to meet our energy needs for hundreds of years until we develop better technology.  
+
+Nuclear power is the only climate-friendly technology today that delivers on all parameters. With wind power as it is now, we resort to dirty energy whenever the wind isn’t blowing—which, incidentally, it isn’t at the moment.  
+
+We cannot afford to gamble with the climate.
+```
+
+### id 771
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/comment/gm08hcn/`
+
+```
+I’m not an offshore expert, and there are certainly aspects that don’t make for entirely fair comparisons. However, I can only compare the publicly available figures so far—anything else would be pure speculation.  
+
+A few other factors that don’t make for fair comparisons include:  
+
+- Wind turbines will not operate at maximum capacity all the time, whereas a nuclear power plant can. Additionally, there is intrinsic value in a nuclear plant’s ability to produce electricity precisely when you need it.  
+- I’ve also compared budgeted costs to actual costs. Unless the Danish Road Directorate is put in charge of building the project, budget overruns are almost guaranteed.  
+
+These points, along with what you’ve mentioned, are important to keep in mind. That said, I’ve only written a 10-minute Reddit comment, not an in-depth analysis.  
+
+If you have more precise numbers, please share them!
+```
+
+### id 773
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/comment/gm08hcn/`
+
+```
+I am not an offshore expert, and there are certainly things that aren't entirely fair comparisons. However, I can only compare the publicly available data so far; anything else is just speculation.
+
+Some other things that aren't fair comparisons include:
+
+- Wind turbines won't produce their maximum capacity all the time, whereas a nuclear power plant can. Moreover, there is value in the fact that the nuclear power plant can generate electricity whenever it is needed.
+- I have also compared budgeted costs with actual costs. Unless they assign the project to the Road Directorate, there will be budget overruns.
+
+These, along with the points you mentioned, are important things to keep in mind, but I only made a quick 10-minute Reddit comment, not an in-depth analysis. 
+
+If you have more precise numbers, feel free to share them!
+```
+
+### id 854
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-07 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/photo.php?fbid=1287433316004355&set=a.714469336634092&type=3`
+
+```
+THE COLD SHOWER  
+
+The FAILURE seems total. Denmark’s energy and climate policy, clinging to wind as the country’s savior, is now exposed like a winter swimmer regretting halfway down the pier.  
+
+The largest tender ever for a domestic offshore wind farm, involving the construction of giant turbines in the North Sea to supply energy equivalent to the consumption of more than half of Denmark’s population, has received zero bids. None. Not even from the state-owned company Ørsted.  
+
+Nor from energy profiteers like Copenhagen Infrastructure Partners.  
+
+THIS REVEALS not just how flawed the business model is—with all risks placed on the bidder and the demand for annual concession payments to the Danish state—but also the self-righteous face of Danish climate policy.  
+
+The tender for building nine gigawatts of offshore wind—three gigawatts in the first round—was approved by Parliament in May 2023. But the politicians’ one-sided reliance on wind power is now losing momentum.  
+
+OFFSHORE WIND FARMS are outrageously expensive to construct. None of the earlier price estimates come close to reflecting the actual costs that are now evident.  
+
+Meanwhile, Denmark—and Europe as a whole—faces an overwhelming problem: building cheap and reliable energy. This issue is becoming more urgent than meeting climate targets.  
+
+The failed tender has, of course, significant consequences for other related energy plans. Until recently, politicians also planned two 'energy islands'—one in the North Sea and one on Bornholm. These were meant to convert wind into electricity, providing green power to 13.3 million European households.  
+
+The North Sea energy island has been postponed indefinitely. It’s too expensive.  
+
+And if 'Energy Island Bornholm' wasn’t already predicted to be unprofitable, it must be now. The 8.7 billion kroner for its construction was supposed to come from revenues generated by wind farms in the North Sea.  
+
+IT WAS NOT WISE to bet almost everything on offshore wind. It has been foolish to adhere so religiously to wind turbines while rejecting alternatives like nuclear power, as the Social Democrats have done for decades in pursuit of CO2-neutral energy.  
+
+The problem now is that we’re all left shivering in the draft of the slammed door from the tender round.  
+
+And we all know who will end up paying for this debacle.
+```
+
+### id 855
+
+- **matched**: `nuclear`
+- **actor**: Theis Palm
+- **representative of**: Atomkraft Ja Tak
+- **date**: 2021-02-25 (year=2021)
+- **source**: En Uafhængig Morgen (National newspaper)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/atomkraft-ja-tak/3953591188051193/`
+
+```
+The Energy Island project, with an estimated cost of 210 billion kroner, is a poor idea. This will be Denmark’s largest construction project to date, equivalent to up to five Great Belt Bridges or approximately four Fehmarn Belt connections. The artificial island is designed to collect and distribute power from surrounding offshore wind farms, with an initial capacity of 3 GW to supply electricity to 3 million European households, later expanding to 10 GW.
+
+Instead of investing in the Energy Island, Denmark should allocate this funding to nuclear power, which could provide the entire country with green energy. Furthermore, the claim that Denmark is a leader in wind energy and green transition is a major lie. Only 10% of Denmark's total energy consumption comes from solar and wind power. The investment required to achieve this 10% has been excessive, delivering far too little in return.
+
+Nuclear power is the superior solution for ensuring Denmark's green energy future.
+```
+
+### id 857
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-13 (year=2021)
+- **source**: Den Uafhængige Morgen (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/atomkraft-ja-tak/3953591188051193/`
+
+```
+Nuclear power is the only real solution. It is safe and can supply power when we need it. Not just when the wind blows
+```
+
+### id 859
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-13 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/atomkraft-ja-tak/3953591188051193/`
+
+```
+If within a few years we invent new ways of storing energy, isn't it better to use wind and sun than nuclear power?
+```
+
+### id 866
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-11-03 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10160358792224154/`
+
+```
+This one-to-one comparison is truly an eye-opener. If Denmark had chosen to build nuclear power plants instead of pursuing the energy islands, the country would be in a far better position.
+```
+
+### id 869
+
+- **matched**: `nuclear;reactor`
+- **actor**: Journalist
+- **representative of**: Zetland
+- **date**: 2023-01-08 (year=2023)
+- **source**: Zetland (National newspaper)
+- **url**: `https://www.zetland.dk/historie/sOLEkWJa-ae6XddK5-c5c74`
+
+```
+While researchers may calculate that it is theoretically possible to base energy supply on wind and solar power, I believe it is not desirable for several reasons.
+
+First, there will inevitably be numerous challenges in translating theory into practice, leading to delays in the energy transition and prolonged dependence on fossil fuels.
+
+Second, Power-to-X technology is not yet mature, and there are no facilities currently capable of delivering the scale of energy needed to power an entire country. Politicians are gambling on the rapid development of this technology, but there is no guarantee it will be ready when needed. Additionally, storing and transporting large quantities of energy for periods with no wind or solar power—such as calm, foggy weeks in January—presents significant logistical challenges.
+
+The North Sea Energy Island is projected to cost 210 billion kroner, providing an installed capacity of 3 GW of wind turbines, with an actual average output of 1.5 GW due to a capacity factor of 50%. This must cover electricity consumption, Power-to-X needs, and electrified district heating. The Energy Island is not expected to be operational until 2033. By comparison, Poland has agreed to purchase six APR 1400 nuclear reactors from South Korea’s Kepco for 202 billion kroner, providing 8.4 GW installed capacity and 7.98 GW effective output due to a 95% capacity factor. The first reactor is expected to deliver electricity to the Polish grid by 2030. Nuclear power can also provide district heating, reducing the need for additional electricity. Given Denmark’s energy needs of 4–5 GW, the Polish model would offer surplus capacity for exports, synthetic fuels, or cost savings by building fewer reactors.
+
+A wind- and solar-powered grid would require substantial technological solutions, such as using electric vehicle batteries to buffer fluctuations. A stable supply from nuclear power would eliminate the need for these costly and unnecessary innovations, reduce wear on expensive batteries, and avoid changing consumption habits—arguably one of the most challenging tasks.
+
+It has been documented that wind power requires more than twice the resources (concrete, steel, copper, etc.) to deliver the same amount of energy as nuclear power.
+
+Denmark currently imports hydropower from Norway during shortages, but Norway has faced decreasing rainfall in recent years, limiting its ability to export electricity. Norwegian energy officials have also stated that Norway neither can nor wishes to serve as a buffer for Northern Europe. Even Norway is debating nuclear power due to doubts about the long-term reliability of hydropower.
+
+In summary, while it might be theoretically possible to rely on wind and solar power, I do not believe there is sufficient time to develop, build, and implement the necessary solutions or to change consumption habits. This approach risks prolonging our reliance on fossil fuels such as coal or deforestation-based biomass.
+```
+
+### id 879
+
+- **matched**: `nuclear`
+- **actor**: Private person
+- **representative of**: General public opinion
+- **date**: 2021-02-08 (year=2021)
+- **source**: Zetland (National newspaper)
+- **url**: `https://www.zetland.dk/historie/so4EKj01-aO0E1wr0-46ad7`
+
+```
+Here are my concerns about the Energy Island projects, though much remains unknown:
+
+1. The plan to install 12 GW of additional wind turbines to supply electricity to neighboring countries is fundamentally flawed. Neighboring countries also have surpluses of wind-generated electricity at the same time as Denmark, which means we will often struggle to export this electricity. This issue already exists today.
+
+2. Wind turbines only generate electricity when the wind blows. For approximately 40-60 days per year, other energy sources will need to cover the electricity demand. Current information does not explain where this electricity will come from during calm weather.
+
+3. A portion of the surplus electricity is intended for Power-to-X (PtX) production, such as fuel for aviation. PtX requires both hydrogen (H) and carbon (C). Hydrogen can come from wind-powered electricity, but the source of carbon is unclear. Will it come from CO2 captured at power plants in Zealand or Jutland—plants that political parties simultaneously demand to shut down? The other Energy Island will presumably also require CO2 from Zealand.
+
+4. In addition to the estimated costs of 38 billion kroner and 210 billion kroner for the Energy Island projects, further investments will be needed for wind turbines, PtX facilities, pipelines, and long underwater power cables. This could add another 100 billion kroner, though the exact amount is unknown.
+
+5. Assuming these cost estimates are accurate, the total expense would be around 300 billion kroner, which equates to 50,000 kroner per Dane, including infants, or 200,000 kroner per average household.
+
+6. Although some of the investment is expected to come from private funds, this does not change the fact that the projects place a significant financial burden on society. This money could be used for initiatives with more certain benefits.
+
+7. The costs of wind power, along with the additional required investments, are now so high that Denmark could instead build 4-5 nuclear power plants. These nuclear plants would provide reliable electricity regardless of wind conditions, without the need for energy islands. They would meet all Danish and EU climate requirements for the next 50-60 years, whereas offshore wind turbines typically last only 20-25 years.
+
+I suspect that most members of Parliament who approved these projects have very little understanding of these issues. Even Dan Jørgensen dismissed the idea of nuclear power in Berlingske last year as 'completely unrealistic,' despite its clear advantages over the Energy Island plan.
+```
+
+### id 883
+
+- **matched**: `nuclear;reactor`
+- **actor**: RADIANT ENERGY GROUP
+- **date**: 2024-12-01 (year=2024)
+- **source**: RADIANT ENERGY GROUP (NGO website)
+- **url**: `https://www.radiantenergygroup.com/reports/restarting-germanys-reactors-feasibility-and-schedule`
+
+```
+Reversing Germany's nuclear shutdown is a popular, economical, and feasible solution. Two-thirds of Germans support the continued use of nuclear energy. Electricity production from the country’s retired reactors could generate a market value of 100 billion euros over the next 20 years. By 2028, three reactors could be restarted, adding 4 GW of capacity to Germany's energy grid.
+```
+
+### id 885
+
+- **matched**: `nuclear`
+- **actor**: Private person
+- **representative of**: General public opinion
+- **date**: 2024-07-04 (year=2024)
+- **source**: Zetland (National newspaper)
+- **url**: `https://www.zetland.dk/historie/sOZk1N7a-aekdaa3R-46cfa`
+
+```
+I have always viewed the Energy Islands as an example of 'The Emperor's New Clothes.' It would make far more sense to produce local electricity of the appropriate type across Europe and the world rather than centralizing it in one place. 
+
+We need to move past the fear of nuclear power and use it where it is relevant, alongside other energy sources where they are appropriate. A mix of energy sources tailored to specific contexts is the smartest solution. While nuclear power is expensive and time-consuming to establish, the same is true for the Energy Island concept. This applies to 'traditional' nuclear power, but new types of nuclear technology are emerging on the horizon that could offer better solutions.
+```
+
+### id 939
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-01 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/scandinavia/comments/lcebc7/aftale_om_historisk_energi%C3%B8_p%C3%A5_plads_den_kommende/`
+
+```
+A small suggestion: Why not invest those 250 billion kroner in developing safer nuclear power plants and fusion research? I'm not entirely convinced about spending that amount on a prestige project that mainly serves a cosmetic purpose, as no one wants wind turbines on or near land.
+```
+
+### id 944
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-01 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/scandinavia/comments/lcebc7/aftale_om_historisk_energi%C3%B8_p%C3%A5_plads_den_kommende/`
+
+```
+The user proposes an alternative use of the estimated 250 billion kroner earmarked for the energy island project. They suggest investing in safer nuclear power plants and fusion research instead, criticizing the energy island as a prestige project aimed at avoiding wind turbines on or near land, rather than addressing core energy needs.
+```
+
+### id 968
+
+- **matched**: `nuclear`
+- **actor**: Filip Knaack Kirkegaard
+- **representative of**: DR
+- **date**: 2024-10-28 (year=2024)
+- **source**: DR (National newspaper)
+- **url**: `https://www.dr.dk/nyheder/indland/her-er-fire-teknologier-politikerne-haaber-kan-faa-os-over-klima-maalstregen`
+
+```
+The idea behind Power-to-X (PtX) technology is good, but its implementation is challenging. Firstly, these facilities are expensive to build and haven’t decreased in price like solar panels and wind turbines. 
+However, it’s not just the cost of setup that’s an issue—there’s also significant energy loss. For example, using electricity directly in an electric vehicle yields up to 90% energy efficiency, compared to about 20% in a gasoline vehicle running on PtX fuel. Hydrogen vehicles perform better but still only reach around 30-40% efficiency. This means three times as many wind turbines are needed to power PtX-fueled vehicles compared to battery-powered alternatives.
+
+Additionally, the technology needs further development to meet growing energy demands effectively.
+
+For instance, Maersk has planned to use PtX fuels but struggles to meet its goals. They are also exploring biofuels and even considering nuclear power, which they previously ruled out. At the same time, companies are developing battery-powered aircraft and large ships, though these innovations may take years to materialize.
+```
+
+### id 981
+
+- **matched**: `reactor`
+- **actor**: Rahman Daiyan, Iain MacGill and Rose Amal
+- **date**: 2020-10-21 (year=2020)
+- **source**: ACS Publications (Research paper)
+- **url**: `https://pubs.acs.org/doi/10.1021/acsenergylett.0c02249`
+
+```
+Despite the technical and, in some cases, niche commercial maturity of key technologies and some early on-ground deployment, we acknowledge that most renewable P2X products are still costlier compared to their conventional fossil-fuel-based production processes. This price variation likely arises due to the decentralized modes of P2X plants, with most P2X plants being small-scale, whereas traditional chemical and energy industries benefit from economies of scale and the ability to negotiate lower feedstock pricing. In addition, we recognize that most P2X technologies suffer from relatively high capital costs, which are projected to decline as manufacturers ramp up their production capacity, and they have large electricity requirements. There is growing consensus that the cost-competitiveness of P2X is heavily influenced by the availability of cheap and excess renewable electricity. That said, we remain optimistic about the evolving economics of these P2X technologies, which are promising and highlight the opportunity for commercial viability and scale-up. These economics are expected to improve further due to advances in catalyst and system development for both electrolysis and secondary conversion reactor systems across various P2X pathways.
+
+In addition to capital costs and electricity pricing, we also believe that the costs of feedstock will play a crucial role in determining the price of P2X products. In particular, for several secondary conversion processes, renewable power-to-hydrogen and its associated economics will be pivotal for their feasibility.
+
+In the following sections, we will present the outlook and challenges of different P2X technologies and discuss pathways for cost reductions.
+
+Power-to-H2: While renewable hydrogen pricing is currently at least two times more expensive than hydrogen produced from fossil fuels, we see that declining electrolyzer capital costs, resulting from economies of scale, and the adoption of a new generation of cost-effective catalysts (either replacing commercial Pt/Ir catalysts or reducing their loading), alongside decreasing electricity prices, are driving competitive levelized costs across various jurisdictions. Although most research and demonstrations on renewable H2 have focused on using clean water, we also believe it is crucial to explore the use of wastewater and seawater as feedstock, especially in regions like Australia, North America, the Middle East, and China, where fresh water is scarce. The direct use of seawater presents challenges, such as electrode and membrane stability issues (due to impurities in seawater) and the formation of Cl2 instead of O2 during the anode reaction. Considerable research and funding are being directed toward developing stable systems that can directly use seawater or combine reverse osmosis water purification with electrolysis. In contrast, the use of wastewater for electrolysis is more mature, with a number of commercial systems capable of converting gray water to hydrogen. We expect that further research into the chemistry of these technologies will provide solutions to address water-related concerns in hydrogen production.
+```
+
+### id 1183
+
+- **matched**: `nuclear`
+- **actor**: Esben Baltzer Nielsen
+- **representative of**: Vattenfall
+- **date**: 2024-11-25 (year=2024)
+- **source**: RTL Lëtzebuerg (National newspaper)
+- **url**: `https://www.rtl.lu/news/international/a/1823238.html`
+
+```
+As a representative of Vattenfall, I can confirm that offshore wind farms like Kriegers Flak offer significant advantages. Located approximately 40 kilometers from the Danish coast, Kriegers Flak is Denmark's largest offshore wind park. The wind speeds this far out at sea are both high and consistent, resulting in very stable energy production throughout the year.
+
+Since September, our 72 turbines have been operational, capable of generating 600 megawatts of electricity - enough to power 600,000 Danish households. While building such an offshore wind park is significantly more complex than onshore installations, we've successfully collaborated with Luxembourg-based companies like Jan De Nul from Capellen, who have been crucial partners in this 1.3 billion euro project.
+
+This expertise will be valuable for Denmark's planned energy island project, which aims to install wind turbines capable of producing 10,000 megawatts - equivalent to 2.5 times the output of the Cattenom nuclear power plant. We continue to expand our offshore wind operations, having just signed another project with Jan De Nul to install 50 additional wind turbines in the Baltic Sea.
+```
+
+### id 1203
+
+- **matched**: `nuclear`
+- **actor**: X user
+- **representative of**: General public opinion
+- **date**: 2024-11-16 (year=2024)
+- **source**: X (Social media)
+- **url**: `https://x.com/JoeBazooka123/status/1857751616788537375`
+
+```
+No no, Denmark has you beat in losing! We are proudly paying 58.7 euro cents per kilowatt-hour, are building numerous windfarms and artificial energy Islands of questionable effectiveness while climate hippies from the 1970's made sure we don't have safe and clean nuclear energy.
+```
+
+### id 1208
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2023-01-01 (year=2023)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+The problem with wind power is that it cannot provide controllable production. To balance the energy grid, you will always need nuclear power, hydropower, or fossil fuels to quickly increase or decrease production as needed. Hydropower is particularly effective for energy storage because it allows water to be pumped uphill when electricity prices are low and released to generate power when prices are high. Hydrogen can also be produced during periods of low electricity demand and burned during high demand, but this method is highly inefficient, as only one-third of the energy initially used to produce the hydrogen is recovered.
+```
+
+### id 1274
+
+- **matched**: `thorium`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-30 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10162305489614154/`
+
+```
+Stop all energy island, offshore wind, and solar farm projects. Use a portion of the funds to complete and install thorium salt energy systems in all Danish power plants. This approach will ensure the system operates optimally, stably, and securely.
+```
+
+### id 1280
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-12 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ReneMiniDanielsson/photos/tillykke-til-tartelet-kongen-men-hvad-skete-der-lige-dern%C3%A5r-tr%C3%B8st-nu-ikke-vil-ge/1150819283649588/?_rdr`
+
+```
+The Energy Island should be buried in its current form.
+
+    A poor deal for the Bornholmers in terms of their own electricity.
+    The economy is also not under control.
+    It’s madness to place something like this where people come to enjoy nature.
+
+These three arguments are more than enough to decide that it’s a bad idea.
+Look into reopening Germany’s nuclear plants to increase the supply of electricity on the market and thus lower the price.
+It’s not well thought out if we are to live with the consequences of the construction without benefiting from the electricity, while simultaneously seeing the electricity disappear to the German market.
+When they are more than capable of producing their own electricity with their closed facilities.
+```
+
+### id 1285
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-09-30 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php/?story_fbid=1078981227563873&id=100063560171551&_rdr`
+
+```
+With all the PFAS, Bisphenol A, microplastics, gearbox oils, hydraulic oils, and the worsening water movements that are increasing the dead zones in the Baltic Sea, this is a ludicrous project, as we call it on the other side of the sea! Build nuclear power instead—it is much cheaper!
+```
+
+### id 1312
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2019-06-26 (year=2019)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/oestergaard/posts/her-er-beviset-p%C3%A5-at-vi-har-f%C3%A5et-sat-en-ny-retning-vi-dropper-udvisnings-%C3%B8en-lin/2850830624946334/`
+
+```
+Why not build a nuclear power plant on the island? We seriously need a stable energy supply to meet your ambitious goals, and you are well aware that these goals cannot be achieved with wind and solar alone.
+```
+
+### id 1392
+
+- **matched**: `nuclear`
+- **actor**: Researcher
+- **representative of**: Springer Nature
+- **date**: 2017-01-01 (year=2017)
+- **source**: Springer Nature (Conference paper)
+- **url**: `https://link.springer.com/chapter/10.1007/978-3-642-81988-9_3`
+
+```
+A fundamental characteristic of nuclear (or fusion) energy sources is that they provide energy in the form of low-entropy heat, unlike fossil sources that involve high-free-energy chemicals.
+```
+
+### id 1393
+
+- **matched**: `nuclear`
+- **actor**: Researcher
+- **representative of**: Springer Nature
+- **date**: 2017-01-01 (year=2017)
+- **source**: Springer Nature (Conference paper)
+- **url**: `https://link.springer.com/chapter/10.1007/978-3-642-81988-9_3`
+
+```
+Heat is not very convenient for transportation, storage, and distribution, making it a challenge to develop an optimal energy system based on nuclear energy sources
+```
+
+### id 1479
+
+- **matched**: `nuclear`
+- **actor**: Artur Usanov Alexander Kharin
+- **representative of**: Researchers
+- **date**: 2014-02-01 (year=2014)
+- **source**: Centrum Balticum (Research paper)
+- **url**: `https://www.centrumbalticum.org/files/3804/BSR_Policy_Briefing_2_2014.pdf`
+
+```
+From a scientific perspective, I recognize that Lithuania's withdrawal from the IPS/UPS synchronized grid will turn Kaliningrad into an "energy island." As a result, cross-border electricity flows between Kaliningrad and Lithuania via existing transmission lines will become impossible. One potential solution I’ve studied is for Kaliningrad to integrate into the synchronized power system of Continental Europe, together with the Baltic States. According to a study by Gothia Power, I find this technically feasible.  
+
+This option offers several clear advantages. First and foremost, it would be a much more cost-effective way to ensure the reliability of the power system. The additional investments required, such as the proposed electricity link between Kaliningrad and Poland, would be much cheaper than ensuring reliability in the case of Kaliningrad becoming an "energy island." Another potential benefit is that it could make the unfinished Kaliningrad nuclear power plant more attractive to potential customers and investors.
+```
+
+### id 1517
+
+- **matched**: `nuclear`
+- **actor**: Mikkel Rentzø
+- **representative of**: Liberal Alliance
+- **date**: 2022-03-16 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=486814889561529`
+
+```
+If Denmark wants to become independent, and especially if Denmark wants to help make Europe more independent from Russian energy, the left wing needs to become more enlightened and receptive to the idea of nuclear power, which is the greenest energy source available. If the left wing absolutely must oppose nuclear power in Denmark, the left wing should at least support nuclear power in other EU countries - that's the minimum that can be done. Furthermore, power-to-X is a complete joke - the energy loss in converting energy to hydrogen and then storing the hydrogen is enormous, and power-to-X will be too expensive for many years to be competitive on an international level. Basing Denmark's future goals on power-to-X is simply too unreliable a plan.
+```
+
+### id 1524
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-03-16 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=486814889561529`
+
+```
+Talking about new technology and power-to-X as solutions for reducing Danish CO2 emissions doesn't make a real impact. Nuclear power makes a difference. Increased subsidies for heat pumps are beneficial. Continuing the use of North Sea gas is also part of the solution.
+```
+
+### id 1537
+
+- **matched**: `nuclear;reactor`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-04-21 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/politiken/posts/statsminister-mette-frederiksen-fik-tre-minutters-taletid-ved-et-virtuelt-klimat/10160864197473294/`
+
+```
+A wind turbine today generates electricity at a cost of approximately 25-30 øre per kWh. If that were rounded down to 21 øre, it would correspond to about 1/10 of what we actually pay in Denmark due to our high taxes on electricity. Considering that a Danish family has an electricity bill of around 500-800 DKK per month, it would drop to about 50-80 DKK per month if the taxes were removed!
+
+Why are there people who would rather have a nuclear reactor, which could make a large area uninhabitable for thousands of years, for what amounts to 1/4 of the cost of YouSee’s mid-tier TV package?
+```
+
+### id 1538
+
+- **matched**: `nuclear`
+- **actor**: Theis Palm
+- **representative of**: Atomkraft Ja Tak
+- **date**: 2021-02-25 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/3953591188051193`
+
+```
+My background is in political science, as I hold a master’s degree in the field. For my thesis, I chose to focus on Denmark's energy policy, particularly the interplay of interests within the energy sector. During this research, I discovered that Denmark does not actually get 50% of its energy from clean sources, as is often claimed. In reality, back then it was only about 8%, and today it’s closer to 9%. I felt compelled to highlight this fact, as it is rarely addressed in public debates.
+I’ve also done some calculations regarding the energy island’s output over its lifetime. It’s expected to generate enough electricity to cover Denmark’s electricity consumption for 30 years. However, if the same amount of money were invested in building a standard nuclear power plant, we could generate enough electricity to cover our needs for 114 years. In addition, we would have free district heating to cover all our heating requirements for those same 114 years.
+We often hear that this energy island will deliver 10 GW, but that’s its capacity. The wind doesn’t blow all the time, so the actual output will only be about 4.5 GW when adjusted for intermittency. For the same investment, you could instead have built 7 GW of nuclear power, which produces a steady output consistently.
+```
+
+### id 1542
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+In my view, nuclear plants take around 20 years to build and cost tens of billions, while wind farms can be set up in a fraction of the time and for much less money. Honestly, the right approach is to invest in both.
+```
+
+### id 1544
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-11-14 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/1ggaqpp/belgium_is_constructing_the_worlds_first/`
+
+```
+It depends, if the nuclear plants are operating for decades they are more cost effective. But nuclear fuel is not renewable and the difference in cost is not large, depends also in the cost of the offshore installation.
+
+Actually, Bloomberg NEF and the IEA predict that off-shore wind will continue to rapidly grow but reach a peak and stagnate by the mid 30s. This is because at that point the high costs of off-shore wind will make it increasingly unappealing investment-wise, as at that time solar and onshore wind will continue to accelerate and become so cheap, there will be no point to consider offshore wind, just bad investment.
+
+This is just speculation of course, countries like Japan refuse to fill their mountains with turbines and might opt to move it all towards the sea (or really, any country with limited land). Also, impossible to predict technological breakthroughs that might happen, offshore wind might be more competitive in price in the future.
+```
+
+### id 1547
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+In my opinion, nuclear energy is still the least harmful option for the environment. But it seems like science only matters to some people when it backs up what they already want to believe.
+```
+
+### id 1550
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+Getting pretty sick of hearing about nuclear on every wind farm post. Just because nuclear is a good route doesn't mean that wind isn't. They can both be safe and clean sources of energy. Just, in this case, wind is cleaner, safer, cheaper, and quicker to develop.
+```
+
+### id 1553
+
+- **matched**: `nuclear;uranium`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+I mean they require a fuck tonne of steel, concrete, and copper. Not exactly “green”, and not destructive, and I’m a massive supporter of nuclear.
+
+And the monitoring of waste for centuries probably use quite a bit of energy too.
+
+And it’s not renewable, uranium will run out.
+```
+
+### id 1564
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-06-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ugp7j8/comment/i718wth/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The amount of wind power absorbed is so miniscule compared to the total amount of energy in the wind that this is irrelevant in practice. Even massive windmill parks hardly have any influence at all.
+
+Compared to how immensely disruptive the non-renewable alternatives are, it's a drop in the ocean. Even nuclear power plants need mines that impact large areas of land, and hydroelectric dams cause significant flooding of upstream areas.
+
+No industry is without environmental impact. Windmills are far less impactful than most options.
+```
+
+### id 1565
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+Honestly, more people have died working on wind farms than from modern nuclear plants. People are quick to bring up Three Mile Island as a nuclear disaster, but they never seem to mention that it didn’t actually result in any deaths.
+```
+
+### id 1570
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i76xxsc/`
+
+```
+Windmills emit less CO2 per kilowatt-hour than nuclear, but nuclear comes in as a close second. That said, if we’re talking about overall environmental impact, I really doubt you can argue that nuclear waste is less harmful than some fiberglass and a few birds dying.
+```
+
+### id 1573
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-12 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i797bue/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Wind turbines are not a sustainable solution. They require oil to operate, their blades need frequent replacement, and there are very limited ways to recycle those blades. Instead, the focus should shift to nuclear power. Nuclear energy is far safer, far cleaner, and far more efficient than any other power source available. People should research nuclear waste—it is not as dangerous as commonly believed, and ongoing research is finding innovative uses for it, such as creating nuclear waste batteries.
+
+In addition, the environmental impact of nuclear power is minimal compared to fossil fuels. For example, all the coal plants in the United States operating for just one hour produce more pollution than all the nuclear power plants in the country have produced since they began operation.
+
+If nuclear power is so effective, why hasn’t it been widely adopted? The answer lies with the influence of big oil, which has long prioritized its interests over cleaner, more sustainable energy solutions.
+```
+
+### id 1588
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-01-14 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/?sort=controversial`
+
+```
+Nuclear used to be way cheaper than this amount. Costs are only going to continue to skyrocket if the United States is only going to sporadically construct new facilities. Sad.
+```
+
+### id 1590
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-09 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i77if2w/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Denmark has specialized in wind energy, having made the political decision 50 years ago to abandon nuclear power. This decision has proven successful for Denmark. Part of Denmark's energy strategy involves using excess wind power to produce green hydrogen and ammonia, essential for decarbonizing heavy industries like shipping (as seen with Maersk’s new ships) and aviation through e-fuels. To address the intermittency of wind energy, Denmark plans to convert excess wind power into an alternative energy medium, which can be stored and later discharged or burned when demand is high. The logic behind this strategy is to build overcapacity.
+
+Denmark intends to develop the technologies and expertise necessary for the new green fuel economy, aiming to establish a thriving industry around it, similar to the success Denmark has had with offshore wind and energy technology exports. This long-term plan is a strategic bet for Denmark's future.
+
+Building nuclear power plants in Denmark would not be politically feasible, as it would not gain support from the Danish populace. Additionally, Denmark lacks a domestic nuclear engineering labor force, especially when compared to the large pool of wind and sustainable energy engineers produced annually by Danish universities. These engineers are currently employed in the wind energy sector and are expected to work in the emerging Power-to-X industries.
+```
+
+### id 1593
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-01-13 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/?sort=controversial`
+
+```
+25 billion for wind power?
+And people say nuclear is expensive to build.
+```
+
+### id 1610
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Fyens Stiftstidende (National newspaper)
+- **url**: `https://fyens.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+We are in a situation where ensuring a stable and green energy supply for the future is crucial. Therefore, we believe it is time to include nuclear power in the considerations.
+```
+
+### id 1611
+
+- **matched**: `nuclear`
+- **actor**: Dan Jørgensen
+- **representative of**: Danish parliament, social democrats
+- **date**: 2024-12-12 (year=2024)
+- **source**: Fyens Stiftstidende (National newspaper)
+- **url**: `https://fyens.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+The government has no current plans to change the ban on nuclear power. Our focus is on expanding renewable energy sources such as wind and solar power.
+```
+
+### id 1669
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-05-03 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/denmark_wants_to_build_two_energy_islands_to/`
+
+```
+Denmark specializes in wind energy, a decision made 50 years ago to abandon nuclear power. This has worked well for them. The plan includes using excess wind power to produce green hydrogen and ammonia, essential for decarbonizing heavy industries like shipping and aviation. Wind intermittency can be managed by converting it to alternate energy mediums, to be used when there is an excess. Building overcapacity is key.
+
+Denmark aims to develop technologies and expertise in the new green fuel economy, making it an industry similar to offshore wind and other energy technology exports. This is a long-term strategy they are committed to.
+
+Building nuclear power in Denmark is politically unfeasible, and there is no domestic nuclear engineering labor pool compared to the hundreds of wind and sustainable energy engineers produced annually to work in current wind and future power-to-X industries.
+```
+
+### id 1717
+
+- **matched**: `nuclear`
+- **actor**: Danish Council on Climate Change
+- **date**: 2024-12-12 (year=2024)
+- **source**: Helsingør Dagblad (National newspaper)
+- **url**: `https://helsingordagblad.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+The nuclear power is neither necessary nor an economically attractive solution.
+```
+
+### id 1723
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Helsingør Dagblad (National newspaper)
+- **url**: `https://helsingordagblad.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+We want to lift the nuclear power ban that was introduced in 1985. Sustainable energy forms like wind and solar simply cannot keep up, and therefore Denmark should use nuclear power. I understand that it can be difficult. We have been told over and over how dangerous nuclear power is. But the technology has developed. And we need to rely on something other than fossil fuels. If wind and solar are enough, then bring it on, super duper. But to just exclude a certain technology, I find it very hard to see the point in that.
+
+Since the Parliament banned nuclear power plants for electricity production in Denmark in 1985, the technology has developed. At the same time, we have an energy island in the North Sea which was postponed in August and will not be ready until at least 2036. Additionally, the Energy Island Bornholm is twice as expensive as expected, and the establishment of pipelines to send hydrogen from West Jutland to Germany has also been postponed from 2028 to 2032. It is especially the wars in Ukraine and the Middle East, as well as the pressing climate crisis, that make it urgent to find a quick solution.
+```
+
+### id 1775
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/danjorgensen/posts/-skal-v%C3%A6re-et-foregangsland-kun-hvis-vi-g%C3%A5r-forrest-og-inspirere-andre-til-at-f%C3%B8/10157547259065836/`
+
+```
+210 billion kroner for 3 gigawatts that only produces power 46% of the time - that's just 12 terawatt-hours per year. And it won't even be finished until 2033!
+
+Compare this to Barakah nuclear plant - built in just 8 years, delivering 5.6 gigawatts 95% of the time, producing 46 terawatt-hours per year plus 133 terawatt-hours of thermal energy, all for only 155 billion kroner.
+
+When will you start listening to science? Dan, you're wasting Danish taxpayers' money, but worst of all, you're gambling with our climate.
+```
+
+### id 1779
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-06 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/danjorgensen/posts/-skal-v%C3%A6re-et-foregangsland-kun-hvis-vi-g%C3%A5r-forrest-og-inspirere-andre-til-at-f%C3%B8/10157547259065836/`
+
+```
+Let me explain why nuclear power is better than Energy Islands with Power-to-X by comparing their energy efficiency:
+
+For nuclear power from a plant 20km away:
+- Start with 1000 watts for one hour = 1 kilowatt-hour (enough to boil 6-8 liters of water from 10° to 100°C)
+- Grid transmission losses only 5-8% through cables and transformers
+
+For offshore wind from 30-50km at sea:
+- Same starting power but 10-12% losses from AC/DC - DC/AC conversion plus grid transmission
+
+For Energy Island with Power-to-X storage:
+The total losses are 75-85% through multiple steps:
+- 4-5% loss getting power from turbines to island
+- 35-40% loss converting to hydrogen
+- 5-10% loss storing hydrogen (either pressurized or at -250°C)
+- 30-40% loss converting hydrogen back to electricity
+- 5-8% grid transmission loss getting power to shore and distributed
+
+For heaven's sake, let's look at nuclear power and avoid all this waste! Does this Energy Island plan really make sense?
+```
+
+### id 1785
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2019-06-26 (year=2019)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/oestergaard/posts/her-er-beviset-p%C3%A5-at-vi-har-f%C3%A5et-sat-en-ny-retning-vi-dropper-udvisnings-%C3%B8en-lin/2850830624946334/`
+
+```
+Why not build a nuclear power plant on the island? We will seriously need a stable energy supply to meet your ambitious goals, and you are well aware that these goals cannot be achieved with wind and solar power alone.
+```
+
+### id 1787
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/danjorgensen/posts/-skal-v%C3%A6re-et-foregangsland-kun-hvis-vi-g%C3%A5r-forrest-og-inspirere-andre-til-at-f%C3%B8/10157547259065836/`
+
+```
+The transition to renewable energy, including the Danish “Energy Island” projects, is a fraudulent hoax. The focus on biomass as a climate solution is deceitful and unacceptable. We should resist this fake transition with all possible effort. Nuclear power is a viable solution, but the politically correct elite refuses to acknowledge it. Under no circumstances should we accept any of these bio-based solutions within the realm of renewable energy.
+```
+
+### id 1791
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2019-06-26 (year=2019)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/oestergaard/posts/her-er-beviset-p%C3%A5-at-vi-har-f%C3%A5et-sat-en-ny-retning-vi-dropper-udvisnings-%C3%B8en-lin/2850830624946334/`
+
+```
+Nuclear power, yes please! It is the future.
+```
+
+### id 1792
+
+- **matched**: `nuclear`
+- **actor**: Chairman of the new association "Atomkraft Ja Tak"
+- **representative of**: General public opinion
+- **date**: 2021-02-26 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=717364145622812`
+
+```
+I’ve done some calculations on how much energy this energy island will generate over its entire lifespan. It will produce enough electricity to cover Denmark’s electricity consumption for 30 years. 
+
+If, instead, we had built a standard nuclear power plant for the same amount of money, we could have generated enough electricity to cover our consumption for 114 years, and we would also have gotten free district heating on the side, enough to supply all of our district heating for 114 years as well. 
+
+We often hear that this island will deliver 10 gigawatts. That’s the capacity, but the wind doesn’t blow all the time, so in reality, it will only generate about 4.5 gigawatts once you account for the fact that it’s not always windy. 
+
+For the same money, you could have gotten approximately 7 gigawatts of nuclear power, which produces a steady output continuously.
+```
+
+### id 1850
+
+- **matched**: `nuclear`
+- **actor**: Mogens Lykketoft
+- **representative of**: Energinet
+- **date**: 2021-08-20 (year=2021)
+- **source**: Impakter (Civil society report)
+- **url**: `https://impakter.com/mogens-lykketoft-concerned-optimist-on-denmarks-energy-islands/?utm_source=chatgpt.com`
+
+```
+We must build these energy islands to help meet the Paris Agreement's 1.5C warming limit. The North Sea has the potential to generate more energy than all the oil and gas Denmark has ever produced there. Building artificial islands is the most efficient and cost-effective way to connect and distribute massive amounts of offshore wind power, not just to Denmark but to the entire European grid.
+
+The energy islands solve multiple problems by creating a hub-and-spoke system. Instead of having scattered, individual wind farms providing small amounts of power to individual areas, these islands will serve as central collection and distribution hubs. By connecting different types of energy sources - solar, wind, hydroelectric, and nuclear - across Europe through these hubs, we can better balance the power grid without needing to store enormous amounts of wind energy.
+
+The energy islands represent a shift from fragmented national climate policies to an integrated, transnational approach that connects multiple energy sectors. This is crucial for effectively integrating renewable energy into our power systems. However, I acknowledge that we still face significant challenges, particularly regarding energy storage solutions for these islands.
+```
+
+### id 1951
+
+- **matched**: `nuclear`
+- **actor**: Dominic Machaelis
+- **representative of**: RIBA
+- **date**: 2002-06-01 (year=2002)
+- **source**: Dominic Machaelis (Newspaper)
+- **url**: `http://www.clubdesargonautes.org/otec/vol/vol13-1-2.htm`
+
+```
+Wind energy at sea is at its strongest, unaffected by land masses. The Energy Island has six large aerogenerators, three at a lower height (OMIT) to intercept the sea-hugging wind flow, while three are at greater heights to capture the upper wind flows. The hydraulic masts are able to adjust the heights of the aerogenerators to best harvest the wind potential from different directions.
+
+Apart from its electricity contribution, the Energy Island is designed also to produce hydrogen. Because of the fluctuation of renewable energy resources, an energy storage system is required. The Energy Island relies on a hydrolysis plant to produce stored hydrogen and oxygen, part of which can be used by fuel cell technology as necessary to balance the power output for both external and internal uses. Part of the fuel can, in some cases, be tankered or pipelined to other destinations, when the electricity produced is not totally used by cable links to nearby destinations.
+
+The Energy Island will also produce a base for Controlled Environment Agriculture (CEA) and Mariculture. In tropical latitudes, greenhouses need to be protected from the sun, a role performed by the heliostats, and well ventilated or evaporatively cooled. The 22-hectare platform can therefore be used for CEA, using part of the distilled water from the open OTEC cycle for hydroponics. If the floor is trellised, light can reach the seawater below, where pens would contain various forms of marine life.
+
+Harbours and Housing: On the leeward side of the island or islands, the Energy Island needs to provide housing for staff, social facilities, workshops and harbours.
+
+The Energy Island uses many diverse renewable energy sources, bringing their converted powers together in the most efficient way to provide electricity for the grid, and, by hydrolysis, hydrogen fuel for transport to nearby or distant population centers, where it can be used efficiently by fuel cell technology. The Energy Island can become a major supplier of electricity and hydrogen fuel for a pollution free society, and liberate the world from the perils of nuclear power generation, and from its political, economic and polluting dependence on dwindling fossil fuels. The Energy Island therefore constitutes a new departure, demonstrated to be all the more necessary by the visible signs of pollution and global warming, and the frightening fact that world energy use is expanding exponentially, having doubled in the last thirty years. Action is needed to bring about change and turn the tide.
+```
+
+### id 1953
+
+- **matched**: `nuclear`
+- **actor**: Dominic Michaelis
+- **date**: 2008-01-29 (year=2008)
+- **source**: Kyle Sherer (science and advocacy article)
+- **url**: `https://newatlas.com/energy-island-otec/8714/`
+
+```
+I estimate that a chain of 4-8 Energy Islands would be required to match the energy output of a nuclear power plant
+```
+
+### id 1956
+
+- **matched**: `nuclear`
+- **actor**: Dominic Michaelis
+- **date**: 2008-01-28 (year=2008)
+- **source**: Kyle Sherer (science and technology article)
+- **url**: `https://newatlas.com/energy-island-otec/8714/`
+
+```
+I calculate that replacing nuclear power entirely would need a chain of 3,708 Energy Island modules.
+```
+
+### id 2034
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-11-09 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php?story_fbid=1036148061855391&id=100063806191632`
+
+```
+Poland has decided to construct a nuclear power plant in Pomerania.
+How much electricity is needed? In Poland (added).
+```
+
+### id 2041
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-08 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/tv2news/posts/953995586770194?comment_id=1245122616639364`
+
+```
+Perhaps common sense will once again see the light of day and all these projects from some sort of WOKE-utopia will be replaced with reality and common sense! Maybe we will even see nuclear energy come to Denmark
+```
+
+### id 2043
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-11-09 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php?story_fbid=1036148061855391&id=100063806191632`
+
+```
+There could be long-term profit from the Energy Island project, but there are significant risks. Poland currently cannot afford to build the planned nuclear power plants, and it will take years before they might be operational. Germany is in desperate need of electricity and energy after losing access to cheap Russian gas.
+```
+
+### id 2044
+
+- **matched**: `nuclear;reactor`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-09-30 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ReneMiniDanielsson/photos/stop-med-at-holde-bornholmerne-for-nari-den-her-tid-er-der-dele-af-erhvervslivet/1094197202645130/?_rdr`
+
+```
+The Energy Island has been a dead-end project from the start... No, let’s instead allow a few companies to experiment with their small nuclear reactors here on the island; that makes more sense.
+```
+
+### id 2047
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-07 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ReneMiniDanielsson/photos/stop-med-at-holde-bornholmerne-for-nari-den-her-tid-er-der-dele-af-erhvervslivet/1094197202645130/?_rdr`
+
+```
+The energy island, solar and wind power are doomed projects.
+Do like other countries that are abandoning solar and wind and looking toward nuclear power.
+The cheap and green energy of the future.
+```
+
+### id 2049
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-21 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ReneMiniDanielsson/photos/stop-med-at-holde-bornholmerne-for-nari-den-her-tid-er-der-dele-af-erhvervslivet/1094197202645130/?_rdr`
+
+```
+It's about time some sensible people step in. For heaven's sake, listen to those who know something about small nuclear power plants – they provide clean energy and are completely safe.
+```
+
+### id 2056
+
+- **matched**: `nuclear;reactor;thorium`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-22 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php?story_fbid=1022502933219904&id=100063806191632`
+
+```
+Yes to nuclear power. Fourth generation, until the thorium reactor is ready.
+```
+
+### id 2072
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-08 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/tv2news/posts/953995586770194?comment_id=1245122616639364`
+
+```
+Perhaps reason is making a comeback, and all these projects from a WOKE Utopia will be replaced by reality and rational thinking! Maybe even nuclear power will make its way into Denmark. 👍
+```
+
+### id 2078
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-11-10 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/bjarne.h.kirkegaard/posts/pfbid02816hNbSt3hZicoHqrE8iqY2nrAUQTMUri1k1ciKVFCHu9pLUcqd5H4YtV6qLs6orl?rdid=61iBa7Am408yOBP5`
+
+```
+Great with Power2X. It just requires much more electricity than is currently being produced. To meet the demand, nuclear power is necessary.
+```
+
+### id 2196
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-14 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/allan.svendsen.3/posts/pfbid02tpJMZKn75riovUjUSkqPn51c2Nup3kdkZFY3aj39spqPBFogtBjfuW8YvgUxEvLWl`
+
+```
+Political parties are exploiting the high electricity bills to appear relatable, but they are not willing to confront the solar and wind industries. Parties like Lars Bøje Mathiiesens Borgernes Parti, Liberal Alliance, and Konservative advocate for removing the electricity tax and introducing nuclear power, but they do not address the root cause: subsidies for the solar and wind industries. Only Dansk Folkeparti has clearly demanded a total stop to further expansion and support for solar and wind. Without this, removing the electricity tax will not increase disposable income for Danes, as the money will be taken through other means like taxes. The solar and wind industries have significantly exploited Danes, and the hidden subsidies are extensive. Parties that do not demand a total stop to further expansion of solar and wind are untrustworthy and will continue to accept the direct cause of high electricity bills.
+```
+
+### id 2243
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-10-29 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/search/posts/?q=energi%20%C3%B8&locale=da_DK`
+
+```
+Here's the translation:
+
+
+Even before Klima Dan's energy islands are fully planned, the cost has exceeded that of a couple of nuclear power plants. This project has a direct negative impact on the climate and environment, without any measurable effect on CO2 levels. The economic negative impact, on the other hand, is significant.
+```
+
+### id 2250
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2023-02-01 (year=2023)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/820666631776123/permalink/1562247260951386/`
+
+```
+Everyone who has or had yellow signs should watch the program "Yes to Nuclear Power" with Anders Lund Madsen. After watching it, I have become much more knowledgeable and supportive of nuclear power. All nuclear power plants today have four different safety systems that must all fail simultaneously. The Swedes, who some might call 'dumb,' have three nuclear power plants that complement wind and hydropower, and a fourth is on the way. According to specialists, nuclear power is the cleanest and safest form of energy. Out of approximately 480 nuclear power plants, there have been three major or minor leaks in 40 years. In the USA, there was a leak where the radiation received by nearby individuals was equivalent to a dental X-ray. In Japan, about 40,000 people died, but not due to nuclear power plants, rather due to the tsunami. The worst leak was in Chernobyl, where 200,000 people were evacuated, but 'only' 56 died, which is comparable to the number of coal miners who die in a day worldwide. Regarding waste, the amount that fits in a matchbox corresponds to the electricity consumption of a Danish family for a whole year. In contrast, coal waste would create a small mountain of waste that harms the environment and biodiversity. Additionally, coal-fired plants, of which there are still thousands, emit large amounts of CO2.
+```
+
+### id 2252
+
+- **matched**: `nuclear`
+- **actor**: Søren Hansen
+- **date**: 2024-01-21 (year=2024)
+- **source**: Indblik (Digital Medie)
+- **url**: `https://indblik.dk/den-flyvende-hollaender/?utm_source=Indblik.dk&utm_campaign=00d5486921-EMAIL_CAMPAIGN_2023_04_08_05_58_COPY_45&utm_medium=email&utm_term=0_-c85da563ac-%5BLIST_EMAIL_ID%5D`
+
+```
+It was a sensible decision to abandon the plans for an energy island. If offshore wind farms must be built far out at sea, the best approach would be to use platforms to convert the electricity and bring it ashore at the nearest coast.
+
+However, the idea of energy islands has resurfaced!
+
+The investment funds are partly expected to come from pension funds, which have been seduced by Copenhagen Infrastructure Partners (CIP)'s enticing promises. It is glaringly obvious that those responsible within the pension funds have no understanding of energy supply or wind turbines and apparently have little interest in gaining such knowledge.
+
+CIP is proposing ten energy islands at a total cost of 2,200 billion DKK. For the same amount, we could construct a significant number of nuclear power plants and obtain a large amount of stable and inexpensive electricity. What are we doing?
+```
+
+### id 2305
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-06-15 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+Nuclear power could serve as an alternative solution. The energy islands are likely to become an expensive failure, especially considering the availability of numerous other methods for storing excess power that are situated much closer to the areas where the energy is required. These alternatives could provide a more efficient and cost-effective approach to meeting energy needs.
+```
+
+### id 2308
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-06-15 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+Allocating €34 billion to wind turbines that produce only 3-10 GW of power is an inefficient use of resources. Instead, the same investment could be directed toward building over 30 GW of nuclear power capacity, which would provide a far greater and more reliable energy output. This approach would ensure better value for the expenditure while addressing energy demands more effectively.
+```
+
+### id 2309
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-06-15 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+The primary issue with wind power is the inability to control energy production, necessitating reliance on nuclear power, hydropower, or fossil fuels to quickly adjust energy output as needed. Hydropower provides an effective energy storage solution by pumping water to higher elevations when electricity costs are low and releasing it when costs are high. While producing hydrogen during periods of low electricity demand and burning it during high demand is another storage option, this method is highly inefficient, recovering only one-third of the energy initially invested.
+```
+
+### id 2414
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2023-01-13 (year=2023)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/AmbasadaDanii/photos/a.509224535754561/5692107800799516/?type=3`
+
+```
+Wouldn't it be simpler to just build a nuclear power plant?
+```
+
+### id 2463
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2025-10-01 (year=2025)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/dr-tim-gregory_netzero-energy-electricity-activity-7283399692363653120-7PdI`
+
+```
+Wind turbines do not replace fossil fuels; they displace fossil fuels only when wind conditions allow them to operate, which is not all the time. During calm weather, especially in the British winter, wind generation drops significantly, forcing reliance on gas in the absence of always-available energy sources like nuclear and hydroelectric power. This reliance makes carbon emissions heavily dependent on weather conditions, which is unsustainable.
+
+This issue cannot be resolved by simply increasing the number of wind turbines. The UK, like most countries, lacks the geographical features required for extensive hydroelectric power. As a result, the most viable solution is nuclear power. Building nuclear power stations at scale and doing so immediately is the most effective action the UK can take to achieve net-zero carbon emissions in a practical and reliable manner.
+```
+
+### id 2531
+
+- **matched**: `nuclear`
+- **actor**: Dr. Naveed Akhtar
+- **representative of**: Helmholtz Zentrum Hereon
+- **date**: 2021-06-03 (year=2021)
+- **source**: TechXplore (National newspaper)
+- **url**: `https://techxplore.com/news/2021-06-farms.html`
+
+```
+The expansion of wind energy in the German Bight and the Baltic Sea has accelerated, with wind turbines generating around 8,000 megawatts, equivalent to eight nuclear power plants. However, space is limited, leading to wind farms being built close together. My team found that wind speeds at downstream wind farms are significantly slowed, creating large-scale low wind patterns extending 35 to 40 kilometers, and up to 100 kilometers in certain weather conditions. This reduces the output of neighboring wind farms by 20 to 25 percent, causing economic consequences. Future planning must consider these wake effects.
+
+We used the COSMO-CLM computer model to assess future wind characteristics for offshore expansion, combining it with future wind farm characteristics. Our study is based on the 2015 wind farm planning for the North Sea, which includes some wind farms not yet built.
+```
+
+### id 2672
+
+- **matched**: `nuclear`
+- **actor**: Folketinget
+- **representative of**: Danish Parliament
+- **date**: 2023-11-21 (year=2023)
+- **source**: Folketinget (Government website)
+- **url**: `https://www.ft.dk/samling/20231/almdel/KEF/bilag/95/index.htm`
+
+```
+Bornholms unique resources—Peace, Calm, Nature, and Landscapes—must be protected. In Greenland's exclusive economic zone (EEZ), 17% of the sales value from fish and shrimp caught up to 370 km from Greenland’s shores is paid to the Home Rule Government. Similarly, the use of Bornholm's resources, including its Peace, Calm, Nature, and Landscapes, should require a payment of 17% of the sales value of sustainable electricity to Bornholm Regional Municipality (BRK) for the development of the region’s equality and social sustainability. Any large decisions, like those regarding the Energy Island projects, should be subject to a public referendum both now and in the future, as seen in Swedish examples, where Söderhamn rejected offshore wind turbines visible from the coast, while Östhammar approved nuclear waste disposal.
+```
+
+### id 2712
+
+- **matched**: `nuclear`
+- **actor**: Kristian Thejls
+- **representative of**: Viborg Stifts Folkeblad
+- **date**: 2022-11-24 (year=2022)
+- **source**: Viborg Stifts Folkeblad (concerned citizen)
+- **url**: `https://app.viborg-folkeblad.dk/debat/toerre-energital`
+
+```
+Investing in fossil energy yields 25 times more energy for the same monetary investment compared to renewable energy. For instance, a 1 million DKK investment in fossil energy requires a 25 million DKK investment in renewable energy to produce the same energy output.
+
+A modern, medium-sized nuclear power plant, covering the area of a football field, can generate 5.2 billion kilowatt-hours of electricity—equivalent to the output of a 200 km² wind farm or a 6,800 km² solar park.
+
+An energy island costing 200 billion DKK could likely produce enough Power-to-X fuel to power 25 Maersk ships. However, Maersk operates a fleet of 700 ships.
+```
+
+### id 2716
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Viborg Folkeblad (National newspaper)
+- **url**: `https://viborg-folkeblad.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+Denmark must repeal the nuclear power ban that was implemented in 1985. Sustainable energy sources like wind and solar power cannot keep up with Denmark's energy needs. Therefore, Denmark must utilize nuclear power as part of its energy solution.'
+```
+
+### id 2746
+
+- **matched**: `nuclear`
+- **actor**: Private person
+- **representative of**: General public opinion
+- **date**: 2024-11-24 (year=2024)
+- **source**: Viborg Stifts Folkeblad (National newspaper)
+- **url**: `https://app.viborg-folkeblad.dk/debat/toerre-energital`
+
+```
+Investing in fossil energy yields 25 times more energy compared to investing the same amount in renewable energy. For instance, an investment of 1 million kroner in fossil energy would produce the same amount of energy as an investment of 25 million kroner in renewable energy. A modern medium-sized nuclear power plant, which is about the size of a football field, generates the same amount of electricity (5.2 billion kilowatt-hours) as a wind farm covering 200 square kilometers or a solar farm covering 6,800 square kilometers. An energy island, estimated to cost 200 billion kroner, could likely produce enough Power to X fuel to operate 25 Maersk ships, out of Maersk’s fleet of 700 ships. The energy value of Power to X is about half that of gasoline or diesel, meaning larger tanks and more transportation are needed. To produce Power to X equivalent to one liter of gasoline, it would take approximately 52 kilowatt-hours, costing around 36 kroner per liter at a price of 0.70 kroner per kilowatt-hour. Additional taxes, investments in wind turbines, and depreciation could bring the final price to somewhere between 50 and 70 kroner per liter.
+```
+
+### id 2764
+
+- **matched**: `nuclear`
+- **actor**: Private person
+- **representative of**: General public opinion
+- **date**: 2022-11-24 (year=2022)
+- **source**: Viborg Stifts Folkeblad (Opinion piece)
+- **url**: `https://app.viborg-folkeblad.dk/debat/toerre-energital`
+
+```
+Investing in fossil energy yields 25 times more energy for the same monetary investment compared to renewable energy. For instance, a 1 million DKK investment in fossil energy requires a 25 million DKK investment in renewable energy to produce the same energy output.
+A modern, medium-sized nuclear power plant, covering the area of a football field, can generate 5.2 billion kilowatt-hours of electricity—equivalent to the output of a 200 km² wind farm or a 6,800 km² solar park.
+An energy island costing 200 billion DKK could likely produce enough Power-to-X fuel to power 25 Maersk ships. However, Maersk operates a fleet of 700 ships.
+```
+
+### id 2888
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-05-05 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://fb.watch/x4Imx7u_HE/`
+
+```
+Energy island costs more than a nuclear plant. Cables will break on the seabed, wind is dwindling, and without wind, no power. Ask Ørsted—this project is doomed, and Danish money is wasted, thanks to the 'reds'
+```
+
+### id 2891
+
+- **matched**: `nuclear`
+- **actor**: X user
+- **representative of**: General public opinion
+- **date**: 2024-08-26 (year=2024)
+- **source**: X (Social media)
+- **url**: `https://x.com/jenshigh/status/1828116002544197989`
+
+```
+We've wasted millions and over six years on this. They claim nuclear is too slow and costly, yet push this nonsense—LOL
+```
+
+### id 2894
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-09-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/sollid_denmarks-energy-island-remains-a-fairytale-activity-7231930215512346624-EI8f`
+
+```
+Instead of focusing on large-scale wind or nuclear energy, why not look into deep geothermal energy? Texas is already leading the way in this field, and while Iceland has been doing this for years, new technology is allowing us to access even deeper sources of geothermal heat (energy). This could provide all the energy we need.
+```
+
+### id 2944
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-06-05 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/denmark_wants_to_build_two_energy_islands_to/?rdt=57308`
+
+```
+God forbit they'd consider building a nuclear plant.
+
+No, let's occupy two islands with high-maintenance glass fibre and plastic fans which degradate and break down all the time. Which require permanent and dangerous maintenance, out in sea, for their whole life. Plus it will be a nice island of death riddled with bird carcases, what a pretty sight.
+```
+
+### id 2958
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-05-05 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://fb.watch/x4Imx7u_HE/`
+
+```
+“Energy island costs more than a nuclear plant. Cables will break on the seabed, wind is dwindling, and without wind, no power. Ask Ørsted—this project is doomed, and Danish money is wasted, thanks to the 'reds'”
+```
+
+### id 2961
+
+- **matched**: `nuclear`
+- **actor**: X user
+- **representative of**: General public opinion
+- **date**: 2024-08-26 (year=2024)
+- **source**: X (Social media)
+- **url**: `https://x.com/jenshigh/status/1828116002544197989`
+
+```
+“We've wasted millions and over six years on this. They claim nuclear is too slow and costly, yet push this nonsense—LOL”
+```
+
+### id 2968
+
+- **matched**: `nuclear`
+- **actor**: David Munk Bogballe
+- **representative of**: Insectum
+- **date**: 2024-10-03 (year=2024)
+- **source**: Information (National newspaper)
+- **url**: `https://www.information.dk/debat/2024/10/vindmoeller-solceller-foerer-moerk-kold-blindgyde?fbclid=IwZXh0bgNhZW0CMTEAAR2ZwTtSbkK7D1zUYvf_Ef7tKwYRa56p31vKvh0CnqJ-MYxJItKksgIyV20_aem_-qpJUf1H2hsWitVdWDv21w`
+
+```
+Wind turbines and solar panels are leading us into a dark and cold dead end. Renewable energy cannot supply all the energy Denmark needs. We are facing a future of excessively high electricity prices, supply shortages, and power outages. This must be averted with new nuclear power technology. In the coming decades, Danes' electricity consumption will only go in one direction – up. That’s a problem because there is no chance that the demand for all that electricity will be met under the current policies aimed at achieving green transition goals. One issue with ‘renewable’ energy facilities is that they only last 25 to 30 years – another is that they don’t produce electricity when it’s dark or windless. When the weather is sunny and windy, existing facilities already produce more electricity than Denmark currently needs. However, when the weather is less favorable, energy sources that can be controlled independently of weather conditions are required. The larger the role solar panels and wind turbines play in energy production, the more vulnerable and expensive the system becomes, as greater backup capacity is needed for those days when the weather doesn’t cooperate – like on cold, calm winter days when our heat pumps are running at full speed. The Danish power grid is connected to that of our neighboring countries, and today we import electricity to avoid power outages when the turbines are idle, and the solar panels lack sunlight. As more neighboring countries increase their investments in solar and wind energy, this will become far more difficult, perhaps even impossible. The energy that Denmark currently imports may disappear or be reserved for use elsewhere, leaving us dependent on natural gas and coal once again."
+```
+
+### id 3095
+
+- **matched**: `nuclear;reactor`
+- **actor**: TerraPower, LLC
+- **date**: 2022-02-04 (year=2022)
+- **source**: TerraPower White Paper (Technical document)
+- **url**: `https://www.nrc.gov/docs/ML2203/ML22035A331.pdf`
+
+```
+TerraPower has developed the Natrium reactor with an innovative decoupling strategy, ensuring the Nuclear Island and Energy Island operate independently, enhancing safety and operational flexibility.
+```
+
+### id 3096
+
+- **matched**: `reactor`
+- **actor**: TerraPower, LLC
+- **date**: 2022-02-04 (year=2022)
+- **source**: TerraPower White Paper (Technical document)
+- **url**: `https://ml-eu.globenewswire.com/Resource/Download/f3078949-20b8-4e1c-a6be-2691b6ace6ee`
+
+```
+The Natrium reactor ensures continuous full-power operation, while the Energy Island adapts to grid demand using molten salt energy storage for flexibility.
+```
+
+### id 3097
+
+- **matched**: `nuclear;reactor`
+- **actor**: TerraPower, LLC
+- **date**: 2022-02-04 (year=2022)
+- **source**: TerraPower White Paper (Technical document)
+- **url**: `https://www.nrc.gov/docs/ML2203/ML22035A331.pdf`
+
+```
+The molten salt storage system in the Natrium reactor ensures safe and efficient operations by buffering interactions between the Nuclear and Energy Islands, even during abnormal events.
+```
+
+### id 3138
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-01-13 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/`
+
+```
+This island is such a waste of money and it is just a publicity stunt.
+
+The island is expected to be done in 2028, but a report says the an optimistic estimate is 2033 and engineers say that 2035 should be expected.
+
+My opinion is that the 25bn$ should be spend on nuclear power, and not shitty publicity eco artificial islands that will cost 50bn before it is done just like any other huge Danish project.
+```
+
+### id 3149
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/denmark_wants_to_build_two_energy_islands_to/`
+
+```
+What a waste of money. Nuclear energy is the best way to go to be carbon free for the next 50-80 years until hopefully fusion reactors take over
+```
+
+### id 3253
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-05-03 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i77i8nq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+Building a nuclear plant should be considered instead of pursuing the Danish 'Energy Island' projects. These projects involve occupying two islands with wind turbines made of high-maintenance glass fiber and plastic, which frequently degrade and break down. The wind turbines would require constant and hazardous maintenance in the sea throughout their operational lifespan. Additionally, the energy islands would become zones of environmental harm, littered with dead birds, creating an unsightly and destructive impact.
+```
+
+### id 3254
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/comment/gm66zv9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+The Danish 'Energy Island' projects are a waste of money and a publicity stunt. While the official completion date is set for 2028, reports indicate that an optimistic estimate is 2033, and engineers suggest it will likely be finished by 2035. The $25 billion budget allocated for the project should be redirected to nuclear power development. These artificial islands, marketed as eco-friendly, will inevitably exceed their budget and end up costing $50 billion, similar to other large-scale Danish projects.
+```
+
+### id 3295
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2024-01-13 (year=2024)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=hPbVkdR7Kgw&ab_channel=euronews%28deutsch%29`
+
+```
+What frustrates me the most is the constant omission of external costs associated with wind and solar energy. It's fine when small amounts of wind and solar energy are integrated into the market. However, as their share grows, other energy sources become more expensive. For instance, biogas plants can only operate profitably for 12 hours a day instead of 24 hours. There are also long-term storage costs to consider. With sufficient baseload power, only minimal energy storage is needed, such as with lithium-iron-phosphate batteries. If we calculate one kilowatt-hour of storage for 24 hours with a 20-year lifespan and a cost of €80 per kilowatt-hour, the storage cost per kilowatt of stochastic energy generation would be approximately 1.1 cents. This isn't noticeable under current electricity costs, especially when only a fraction of energy is generated stochastically. 
+
+But what happens if, in the future, we rely almost entirely on wind and solar energy and need to store energy for 10 days? Storage costs could reach around 10 cents per kilowatt-hour, on top of the 3-8 cents for generation costs. In that scenario, it would be better to keep nuclear power plants operational and only expand wind and solar energy to a level that doesn't disrupt residential areas or nature reserves.
+```
+
+### id 3342
+
+- **matched**: `nuclear`
+- **actor**: Danish government
+- **date**: 2019-12-11 (year=2019)
+- **source**: HD (international newspaper)
+- **url**: `https://www.hd.se/2019-12-11/danmark-ska-bygga-jattelika-oar-for-vindkraft`
+
+```
+Denmark is exploring the construction of large, artificial islands in the Kattegat, North Sea, and Baltic Sea to serve as foundations for thousands of wind turbines. Each of these energy islands is projected to generate as much electricity as three to four nuclear power plants. We are on the verge of sharing these ambitious plans with our neighboring countries, Sweden, Norway, and Germany.
+```
+
+### id 3349
+
+- **matched**: `nuclear`
+- **actor**: Lars-Christian Brask
+- **representative of**: Danish Parliament, Liberal Alliance
+- **date**: 2024-12-05 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/share/p/15pKabuzzq/`
+
+```
+The Danish government's plan to build energy islands is a costly and flawed venture. The lack of interest from private investors, as evidenced by the absence of bids for these projects, speaks volumes about the economic viability of such undertakings. The low return on investment and the government's involvement as a co-owner make these projects unattractive to businesses.
+
+Perhaps it's time to reconsider nuclear power. While nuclear energy could be a more viable and efficient solution, I suspect that the political climate is not yet ready for such a shift. It's unfortunate that politicians often resist changing their minds, even when the evidence points to a better alternative. If we were to become more open-minded, we might be able to find more effective and sustainable solutions to our energy challenges.
+```
+
+### id 3408
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=430263988217287`
+
+```
+Investing the same amount of money in a 3,000 MW nuclear power plant would be more efficient than the Danish "Energy Island" projects. A nuclear power plant would require only 1% of the space, have a lifespan three times longer, and operate at 95% capacity compared to the 25% capacity of renewable energy sources.
+```
+
+### id 3444
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-11-03 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10160358792224154/`
+
+```
+I believe the energy islands are far too expensive. 210 billion DKK for an energy island with questionable output, delivering only about 3 GW when the wind is blowing. At the same time, nuclear power, which is often criticized for being too expensive and taking 6–7 years to build, provides electricity 24/7, ensures energy security, and reduces reliance on fossil fuels – something the energy islands cannot achieve. I hope Denmark wakes up soon and realizes that the energy strategy needs to change.
+```
+
+### id 3448
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi
+- **date**: 2024-06-21 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10161526531074154/`
+
+```
+We at Kärnfull Energi DK believe that nuclear power is a far better solution than the Bornholm Energy Island, which will require at least 31.5 billion DKK in state subsidies according to the Danish Energy Agency. This amount is equivalent to three times the annual police budget. Nuclear power, on the other hand, does not require state subsidies. We are ready to develop nuclear power projects in Denmark as soon as the ban on nuclear energy is lifted. 
+The Bornholm Energy Island does not make economic sense. Analyses from Kraka show that it faces so many challenges that it no longer seems viable. It provides no improvement in energy security, as adding more offshore wind turbines in the Baltic Sea does not contribute to stability. Additionally, producing PtX on Bornholm would be extremely expensive compared to using other energy sources. 
+In contrast, nuclear power can provide cheap and stable electricity and hydrogen, making large energy islands unnecessary. Nuclear power plants could be placed near existing combined heat and power plants, avoiding further industrialization of natural areas. Many of our customers have already saved thousands of kroner by switching to 100% nuclear power agreements, avoiding overpriced and fixed-rate energy contracts.
+```
+
+### id 3453
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-03-27 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/14l6201/%C3%B8konomien_h%C3%A6nger_ikke_sammen_udbud_til_energi%C3%B8/`
+
+```
+We believe there are many problems with the energy islands. For example, the project is based on economic calculations that always turn out to be overly optimistic because everyone involved has an interest in the project being approved. Large-scale projects like this always end up costing significantly more than initially anticipated. 
+
+Additionally, the technology being used is untested at this scale. We don’t know if it will work, or if it can be operated in a way that makes it profitable. We risk creating a giant loss-making venture that will require financing through billions in deficits, following the sunk cost method. 
+
+However, the biggest issue, in our opinion, is that the calculations used to assess profitability are based on current electricity prices. If electricity prices drop in the future, the project’s profitability will collapse, and we’ll face failure. Right now, many of our neighboring countries are investing in nuclear power, with some plants expected to come online around the time the energy islands are supposed to start operations. For instance, Poland plans to build three nuclear plants, Sweden is also building new plants, Norway is considering it, England has just completed one and plans more, and Germany might end up doing the same. The public there certainly regrets shutting down existing plants. 
+
+So, the economics of the energy islands are highly uncertain in the future electricity market, the technology is untested, and Denmark should instead consider exploring nuclear power, possibly by investing in one of the upcoming plants in our neighboring countries.
+```
+
+### id 3463
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: general public opinion
+- **date**: 2019-11-10 (year=2019)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/100063896834758/posts/2668385316517482/`
+
+```
+Climate alarmists claim we must eliminate all climate-impacting emissions within 10 years. If this is true, the entire world must take strong and immediate action. Achieving net-zero emissions of climate-impacting gases is impossible if we simultaneously phase out nuclear power! The policies proposed by the Green Party, including various taxes, are completely irrelevant, and shutting down nuclear power is directly counterproductive to climate policy. The Green Party is a destructive force in societal development and climate efforts. The Energy Island agreement must be repealed!
+```
+
+### id 3464
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2019-11-21 (year=2019)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/Dagensindustri/posts/snart-når-m-och-kd-sin-deadline-för-att-gå-ur-energiöverenskommelsen-om-kärnkraf/2622680961087918/`
+
+```
+The current approach to protecting the energy market is deeply flawed. If policies are designed to oppose nuclear energy in every way, it is clear that the market will not invest in it. The government controls the market, leaving it with no choice but to follow these political signals.
+```
+
+### id 3478
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit user (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/comment/i79nodu/`
+
+```
+When the wind isn't blowing, Denmark has to import most of its energy from other countries, and much of that energy still comes from fossil fuels. At first glance, Denmark's energy policy appears green, but a closer look reveals that it isn't truly green. The policy only shifts CO2 emissions to other countries rather than eliminating them.  
+
+If Denmark invested in building five or six modern nuclear power stations, the country could have a stable, constant energy supply, which would also allow for energy exports.
+```
+
+### id 3490
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-01-13 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/`
+
+```
+This energy island appears to be a significant waste of financial resources and might be considered merely a publicity stunt.
+
+The energy island is expected to be completed in 2028, but according to a report, an optimistic estimate suggests 2033, with engineers projecting a completion date of 2035.
+
+The reader's opinion is that the 25 billion dollars would be better allocated to nuclear power, rather than to eco-friendly artificial islands, which could potentially escalate in cost to 50 billion dollars before completion, akin to other large-scale Danish projects.
+```
+
+### id 3491
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-08 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ryunof/denmarks_34bn_energy_islands_could_solve_europes/`
+
+```
+It actually doesn't sound too bad to have the opportunity to oversee more distribution. If there are serious ambitions to sell electricity to many countries, the production capacity would need to increase accordingly. I don't see how this project can be fully utilized without nuclear power.
+```
+
+### id 3492
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-05 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/`
+
+```
+The cost of the Danish Energy Island project is likely to decrease over time. In comparison, the nuclear power plant in Georgia (the state) has already surpassed $25 billion and is still rising for a 2-gigawatt capacity. This highlights the contrast in costs between the two types of energy projects.
+```
+
+### id 3493
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-08 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ryunof/denmarks_34bn_energy_islands_could_solve_europes/`
+
+```
+The project sounds expensive, foolish, and not very green at all. What happens when there is no wind? How does nuclear power compare to the promised 12 GW in terms of output? It seems both faster and cheaper. And regarding the claim at timestamp 3:48, where Denmark is described as the EU's largest oil producer: that's misleading. It's only because Norway and the UK aren't part of the EU. In reality, Denmark produces much less than Norway.
+```
+
+### id 3499
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-09 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/tech/comments/lfr6gg/denmark_is_building_an_artificial_island_to_house/`
+
+```
+I wonder, if something like this were built, surrounded by those huge wind turbines, would the island be able to remain safe from fallout winds in the event of a nuclear doomsday scenario?
+```
+
+### id 3500
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-09 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/tech/comments/lfr6gg/denmark_is_building_an_artificial_island_to_house/`
+
+```
+It seems like a lot of effort is being wasted when a nuclear plant could be built instead.
+```
+
+### id 3506
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/europe/comments/lcdt3p/denmark_just_passed_a_new_electric_windmill/`
+
+```
+For the cost of the Danish Energy Island project, which is estimated at 28 billion euros, the Danish government could have built a nuclear power plant with the same megawatt output. The nuclear power plant would run 100% of the time, in contrast to the expected 20% operational capacity of the Danish Energy Island, and would last for over 80 years, compared to the 20-year lifespan of the Energy Island project.
+```
+
+### id 3593
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-07-06 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/technology/comments/uhm3x6/denmark_wants_to_build_two_energy_islands_to/`
+
+```
+Denmark’s specialty is wind energy. They made the political decision 50 years ago to abandon nuclear power, and it has worked well for them.
+
+Part of this strategy involves using excess wind power to produce green hydrogen and ammonia, which is crucial for the energy transition to decarbonize heavy industries like shipping (as seen with Maersk’s new ships) and aviation through e-fuels. The intermittency of wind can be addressed by converting excess power into an alternative energy medium, which can then be stored or burned when supply exceeds demand. The logic here is to build overcapacity.
+
+Denmark will develop the necessary technologies and expertise in the green fuel economy, creating a new industry, much like they have done with offshore wind and other energy technology exports. This is a long-term plan, and it’s a strategy they are fully committed to.
+
+Building nuclear power in Denmark would never gain political support from the population, so it’s a moot point. Additionally, there is no domestic labor pool for nuclear engineering. In contrast, Denmark produces hundreds of wind and sustainable energy engineers from universities every year, who already contribute to the current wind industry and the future power-to-X sectors.
+```
+
+### id 3668
+
+- **matched**: `nuclear;uranium`
+- **actor**: Bent Lauritzen
+- **representative of**: DTU Physics
+- **date**: 2023-02-08 (year=2023)
+- **source**: DR (National newspaper)
+- **url**: `https://www.dr.dk/det-bedste-fra-dr/atomkraft-ja-tak-eller-hvad-her-er-3-fordele-og-ulemper-ved-den-kontroversielle`
+
+```
+The cheapest solution for society is to use a mix of different energy sources. This means that we must use wind, solar, and nuclear power if we want a CO2-free energy supply. We could also use hydropower, but Denmark does not have much of that resource.
+
+Regarding nuclear power, the fuel is uranium, which we can obtain from many places worldwide. It is also easy to store uranium for many years of consumption. Nuclear power can supply electricity to consumers when needed. In contrast, wind and solar energy are much more unstable because wind and weather are uncontrollable.
+
+Wind energy must either be placed onshore, which negatively impacts the landscape, drastically changing its character when wind turbines are erected, or offshore, which is expensive to establish.
+
+Furthermore, establishing something like an "energy island," which is currently being built off the coast of Bornholm, for example, is even more expensive.
+```
+
+### id 3672
+
+- **matched**: `nuclear`
+- **actor**: Søren Bjørn-Hansen
+- **representative of**: DTU Physics
+- **date**: 2023-02-08 (year=2023)
+- **source**: DR (National newspaper)
+- **url**: `https://www.dr.dk/det-bedste-fra-dr/atomkraft-ja-tak-eller-hvad-her-er-3-fordele-og-ulemper-ved-den-kontroversielle`
+
+```
+In Denmark, we don't have nuclear engineers, so establishing a nuclear power plant raises the question of who will work there. Should we import labor from abroad? There are clear shortcomings in Denmark that make it unrealistic in the near future. This is a disadvantage, as we need a lot of green electricity quickly to reach our climate goals.
+
+Nuclear power takes up very little space compared to wind and solar energy.
+
+Wind energy is either placed onshore, which negatively affects the landscape, or offshore, which is expensive.
+
+Nuclear power has the great advantage that it is very energy-dense. That is, you can get a lot of energy out of something that takes up very little space. In the future, we will need space for more and more things in a small area. Nuclear power solves this challenge, as it doesn't take up much physical space, unlike wind and solar energy.
+```
+
+### id 3781
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Horsens Folkeblad (National newspaper)
+- **url**: `https://hsfo.dk/indland/kapitalforvalter-tilbyder-staten-ny-energioe-uden-afregning`
+
+```
+If wind and solar energy are sufficient, then great, let's proceed with them. However, I struggle to understand why we are excluding certain technologies entirely. Since 1985, Denmark has banned nuclear power for electricity production, but technological advancements have occurred since then. I am eager to find a sustainable energy solution, especially given the urgency created by the climate crisis and geopolitical conflicts like the wars in Ukraine and the Middle East. Delays in key projects are concerning: the North Sea Energy Island has been postponed to at least 2036, the Bornholm Energy Island's cost has doubled to 31 billion kroner, and the hydrogen pipeline from West Jutland to Germany has been delayed to 2032. We need a quicker path forward.
+```
+
+### id 3940
+
+- **matched**: `atomkraft`
+- **actor**: Foreningen Atomkraft Ja Tak
+- **date**: 2024-09-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/foreningen-atomkraft-ja-tak_tyskland-er-interesseret-i-energi%C3%B8-nords%C3%B8en-activity-7234206959007109124-Lygo/?originalSubdomain=dk`
+
+```
+Germany’s interest in the North Sea Energy Island demonstrates that the North Sea Energy Island project is now officially doomed. Foreningen Atomkraft Ja Tak concludes that the German involvement indicates the project no longer has any realistic chance of success, effectively classifying the North Sea Energy Island project as a lost cause.
+```
+
+### id 3944
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-07-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_`
+
+```
+Denmark should reconsider the "Energy Islands" concept, which seems like a far-fetched idea, and instead explore the possibility of investing in the Swedish expansion of their existing nuclear power industry. The Energy Island project on Bornholm is shaping up to be an economic disaster. Recent calculations from the Danish Energy Agency show that the Bornholm Energy Island is expected to require staggering state subsidies of 31.5 billion Danish krone. However, politicians are not initially willing to cover the full cost and have instead set a support ceiling of about half that amount, 17.6 billion krone.
+```
+
+### id 3950
+
+- **matched**: `nuclear;thorium`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_/?originalSubdomain=dk`
+
+```
+I believe that Denmark must prioritize modern nuclear power based on thorium, an area where Denmark unexpectedly holds a leading position. In contrast, constructing Energy Islands 80 kilometers into the North Sea, at a water depth of 50 meters and facing wave heights of 12 to 15 meters, is bound to become yet another publicly funded scandal. I maintain that the harsh conditions at sea will ultimately render this project overly risky, financially burdensome, and destined to fail.
+```
+
+### id 3951
+
+- **matched**: `nuclear;thorium`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_`
+
+```
+We should focus on modern nuclear power based on thorium, where we have, against all odds, a leading position. Energy islands 80 km out in the North Sea, with a water depth of 50 meters and wave heights of 12-15 meters, are doomed to become yet another public scandal project.
+```
+
+### id 3958
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_`
+
+```
+It is interesting. People constantly claim that nuclear power is too expensive, but if enormous public funds are to be invested in offshore wind energy islands, the difference in cost cannot be that significant. Additionally, it is generally wise to place vital energy infrastructure either on land or within territorial waters, where there is 100% governmental jurisdiction.
+```
+
+### id 3961
+
+- **matched**: `nuclear;reactor`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_`
+
+```
+Especially the Moderates and Lars Aagaard are on a blind mission to push through the deployment of renewable energy. They are even willing to use emergency powers to bypass approval procedures. Citizens' and environmental concerns are being disregarded. The primary purpose of the Energy Island at Bornholm is to supply Germany, which seems like favoritism toward the larger neighbor, especially considering Germany's own energy supply mismanagement.
+
+The island is also a prime target for Putin, given its location in the Baltic Sea. In general, the transition to renewable energy is a disaster for the citizens involved, who are effectively being expropriated for massive wind turbines, solar fields, and gigantic PtX plants. This huge blunder could have been avoided with increased Scandinavian cooperation on nuclear power. The Finns know how to do it—learn from their latest reactor, OL3, and build according to that blueprint.
+```
+
+### id 4049
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/x8azzo/energij%C3%A4ttar_vill_satsa_400_miljarder_p%C3%A5_vindkraft/`
+
+```
+The problem with wind power is its inevitable "ketchup effect"—when the wind blows, we get more energy than we can use, but when it is calm, we get too little.  
+
+Wind power is good to have, but we need more base power beneath it than what our hydropower can handle to avoid demand and supply whiplash.  
+
+The alternative to nuclear power is more oil or gas plants, either here or on the continent, and burning fossil fuels is hardly compatible with our climate goals. '
+```
+
+### id 4050
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/x8azzo/energij%C3%A4ttar_vill_satsa_400_miljarder_p%C3%A5_vindkraft/`
+
+```
+The expansion of renewable electricity is a step in the right direction because we urgently need to significantly increase renewable energy. Ideally, the entire country should be powered solely by renewable energy.
+
+However, the current energy crisis needs to be addressed so that people do not have to suffer until the renewable energy expansion is complete. Ignoring the issue of electricity exports to the EU—which is a significant factor—we need enough energy to ensure that people can live until the transition is finished.
+
+Right now, there are two options: fossil fuels or nuclear power. Ideally, I would want to eliminate both in the long term. However, if I must choose, I would prefer nuclear power over fossil fuels as a bridge to fully renewable energy—or even fusion power if it is ever developed—rather than continuing to destroy the planet by burning dead plants.
+```
+
+### id 4053
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/x8azzo/energij%C3%A4ttar_vill_satsa_400_miljarder_p%C3%A5_vindkraft/`
+
+```
+Quite interesting that the people who complain about political decisions hindering the market from expanding nuclear power are now defending political decisions and vetoes that block the expansion of wind power, despite the market wanting to invest in it.
+```
+
+### id 4054
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/wibk6n/v%C3%A4rldens_f%C3%B6rsta_energi%C3%B6_nytt_uppdrag_f%C3%B6r_svenskt/?rdt=55728`
+
+```
+The Swedish engineering consultancy company Sweco is tasked with designing the world's first "energy island," a groundbreaking project with the capacity to supply electricity to 10 million European households. This project, eight kilometers off the west coast of Jutland, represents a major leap forward in offshore wind power, following Denmark's pioneering efforts in 1991 as the first country to build an offshore wind farm. 
+
+The energy island will act as a hub for thousands of offshore wind turbines, enabling electricity distribution across multiple countries. Initially spanning 15 hectares (approximately 30 football fields), the artificial island's construction cost is estimated at 290 billion Swedish kronor. The island is intended to support the green energy transition by providing 3-10 gigawatts of electricity, with the potential to scale up to 45 terawatt-hours annually, surpassing the output of Forsmark’s three nuclear reactors. It will serve Denmark, Germany, and the Netherlands, ultimately expanding to cover an area equivalent to 64 football fields.
+
+One of the key challenges lies in handling the North Sea's 25-meter waves, as the island will be constructed at sea level. Additionally, the project will employ power-to-x technology, which is critical for stabilizing wind power output. Surplus energy generated during high wind periods and low electricity demand can be converted into hydrogen or climate-neutral fuels for use in aviation, shipping, and heavy industry.
+
+This energy island west of Jutland is one of two planned by Denmark, alongside a smaller version on Bornholm in the Baltic Sea. These projects mark Denmark's ambitious commitment to renewable energy and set the stage for technological advancements in energy storage and offshore wind power distribution.
+```
+
+### id 4055
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/wibk6n/v%C3%A4rldens_f%C3%B6rsta_energi%C3%B6_nytt_uppdrag_f%C3%B6r_svenskt/?rdt=55728`
+
+```
+Denmark is the leading country in Europe and the world for wind power. In 2019, wind power in Denmark accounted for 47% of the country's total electricity consumption, producing over 16 terawatt-hours (TWh) of electricity. While impressive, this is still 9 TWh less than the total electricity output of Sweden's Forsmark nuclear power plants.
+
+By 2019, Denmark had over 6,000 wind turbines, which is significant compared to Sweden's 4,300 wind turbines in 2021. Swedish energy company Vattenfall operates several offshore wind projects in Denmark, including the largest, Horns Rev 3. Other projects include Kriegers Flak and Vesterhav Syd and Nord, which are expected to be fully operational by the end of 2023.
+
+In 2019, the Danish wind energy sector employed around 32,000 full-time workers. Danish company Vestas, one of the world's largest wind turbine manufacturers, generated over 160 billion SEK in revenue in 2021.
+
+Power-to-X technology is a key solution for ensuring wind power remains available even when the wind does not blow. Power-to-X converts excess electricity generated from renewable sources like wind and solar into other forms of energy, such as gas, synthetic fuels, or stored energy, helping to meet energy demand even during periods of low wind or solar production.
+```
+
+### id 4058
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/x8azzo/energij%C3%A4ttar_vill_satsa_400_miljarder_p%C3%A5_vindkraft/`
+
+```
+More wind power is great, especially considering that LKAB and H2GS will soon need a lot of cheap electricity to run their hydrogen electrolyzers.  
+
+Expand wind power for them, and while you're at it, build a reactor too. That way, everyone will be happy and satisfied.
+```
+
+### id 4063
+
+- **matched**: `reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-07 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/sweden/comments/x8azzo/energij%C3%A4ttar_vill_satsa_400_miljarder_p%C3%A5_vindkraft/`
+
+```
+More wind power is only beneficial considering LKAB and H2GS, which will soon need a lot of cheap electricity to run their hydrogen electrolyzers. Expand the wind power for them, and while you're at it, build a reactor as well, so everyone will be happy and satisfied.
+```
+
+### id 4067
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-08-29 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/x0raqx/energi%C3%B8_p%C3%A5_bornholm_bliver_endnu_st%C3%B8rre_skal/`
+
+```
+Get started, it can only go too slowly, and build a nuclear power plant next to the transformer station so we have electricity both when it’s windy and when it’s not.
+
+It’s the old story that no one wants these things in their backyard, but it should be clear to everyone that the current situation is unsustainable. In 10 years, I honestly hope that I can’t look out at the water anywhere in Denmark without seeing a wind turbine. It represents the vision of freedom (from the Russians).
+```
+
+### id 4070
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vism%C3%A6nd_dumper_energi%C3%B8_projektet_b%C3%B8r_genovervejes/`
+
+```
+Over the next 50 years, Denmark will need to calculate the benefits and drawbacks of various energy solutions, and ultimately, the country will likely choose a form of nuclear energy that involves material recycling, waste incineration, and carbon capture for waste incineration, which will be stored either under the seabed or underground. At the same time, it will likely be determined that it is only responsible, in the long run, to farm up to 20% of Denmark's land. This approach will minimize environmental pollution, including pollution from agriculture, as well as pollution caused by solar panels, wind turbines, and other infrastructure that takes up space and negatively impacts the natural landscape.
+
+If only Denmark could think more long-term today, the country could surpass other nations and solidify its position as a leading global economy.
+```
+
+### id 4226
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-12-29 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/worldeconomicforum/videos/denmark-is-building-an-artificial-island-to-provide-enough-wind-power-for-the-en/1369517203881784/`
+
+```
+and still we only have energy when the wind is blowing..
+I belive nuclear power is the only clean way forward at this point of time
+```
+
+### id 4230
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-12-29 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/worldeconomicforum/videos/denmark-is-building-an-artificial-island-to-provide-enough-wind-power-for-the-en/1369517203881784/`
+
+```
+I believe we need and stability.. just take a look at Sweden they wish dearly they didn’t close Barsebäck nuclear plant..
+```
+
+### id 4266
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-12 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/201171037285303/posts/1758509361551455/`
+
+```
+Because Germany has heavily invested in unreliable renewable energy sources like wind and solar, the country now faces a critical situation on Thursday, December 12th. With no wind or sunlight available on the mainland, Germany must import electricity at extremely high market prices, reaching an unprecedented €936/MWh. This crisis demonstrates the fundamental problem with Germany's strategic decision to rely on intermittent, unstaffed power sources. The fact that Germany is forced to import power precisely when prices are highest shows the flaws in this approach. This situation should serve as a wake-up call for those who oppose nuclear power to reconsider their position, as nuclear provides reliable baseload power regardless of weather conditions.
+```
+
+### id 4267
+
+- **matched**: `nuclear;reactor`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-11-11 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/201171037285303/posts/b62df6c5/1738137783588613/`
+
+```
+The Vendée Globe sailing race is complicit in damaging our coastal areas by partnering with wind turbine developers who are allowed to promote their agenda on the Vendée Globe's official website. The current lack of wind in Sables-d'Olonne proves how futile these numerous wind turbines are. President Macron is correct in pushing for the construction of 14 EPR nuclear reactors. Wind power is simply the wrong direction for France's energy future. The wind turbine installation project will harm our beautiful coastline while failing to provide reliable power.
+```
+
+### id 4269
+
+- **matched**: `nuclear;reactor`
+- **actor**: Federal Net Agency
+- **date**: 2025-01-10 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/335346330712395/posts/1665748231005525/?_rdr`
+
+```
+France has become Germany's largest electricity supplier in 2024, providing a net 13 TWh, due to France's lower production costs. While Germany has enough production capacity, German power plants have lost competitiveness since the nuclear phaseout. The European Union's electricity market operates on a lowest-cost principle, as confirmed by the Federal Net Agency - electricity is generated wherever it's cheapest.
+
+This situation is politically sensitive because about 70% of French electricity comes from nuclear power. Germany hasn't truly abandoned nuclear energy - Germany is still using nuclear power indirectly through imports. This effectively acknowledges that existing nuclear reactors are weather-independent, low-CO2, and most importantly, an inexpensive power source - cheaper than coal and gas plants which face additional costs from increasingly expensive EU CO2 certificates.
+
+France's 50+ nuclear reactors demonstrate their economic advantage especially during periods without wind and solar power (dark doldrums). During these times, nuclear production costs are unmatched. The French Energy Regulatory Authority CRE estimates medium-term costs at around six cents per kilowatt-hour, including all modernization costs, nuclear material disposal, waste management, and recycling. Even factoring in the expensive Flamanville 3 reactor's high production costs of up to twelve cents, as estimated by the French Court of Auditors, nuclear remains competitive.
+
+The operational costs for French reactors are only three to four cents according to Nicolas Goldberg from Columbus Consulting Paris - less than half of Germany's 2024 wholesale electricity prices. This makes exports highly profitable for EDF, France's power plant operator, especially with France's current low domestic demand due to economic weakness. EDF achieved record profits of 10 billion euros net in 2023, with another billion expected in 2024, despite being required to sell 100 TWh annually to French industry at a special rate of 4.2 cents.
+```
+
+### id 4275
+
+- **matched**: `nuclear`
+- **actor**: Dr John Constable
+- **representative of**: Global Warming Policy Foundation (GWPF)
+- **date**: 2020-06-10 (year=2020)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/WindEnergysAbsurd/posts/the-brink-of-darkness-britains-fragile-power-gridby-dr-john-constablewe-dont-nee/3259859674058452/`
+
+```
+The UK electricity system is rapidly deteriorating because of renewable energy sources, as proven by the skyrocketing system balancing costs in recent weeks. The Bank Holiday weekend alone required £50 million in balancing costs, and National Grid projects an additional £700 million in costs from May to August. Grid balancing costs have risen dramatically as subsidized, inflexible renewables have taken over electricity supply - from £367 million in 2002 to nearly £1.5 billion in 2019. Now, due to wind and solar's inability to respond to low demand during lockdown, National Grid expects costs to reach £2 billion, and this estimate assumes costs normalize after August.
+
+The UK's renewable-based system is fragile and can barely handle normal operations - any unexpected situation causes a crisis. National Grid has been propping up this failing system with enormous amounts of consumer money. With £10 billion per year in subsidies and price-fixing for renewables, consumers are paying astronomical costs for an unreliable system. If demand stays low during a post-Covid recession, these multi-billion pound costs for managing and subsidizing renewables will need to be recovered from much smaller electricity sales volumes, leading to unprecedented price increases for British consumers.
+
+The national interest demands a cost minimization strategy based on gas and nuclear power. Consumers should start saving money now because they will need diesel generators to maintain reliable power supply. The UK government cannot be trusted to spend public money wisely on energy. The 'zerowits' who fell for this green fraud should be ashamed of putting so much at risk and wasting public money. Renewable energy has caused extensive damage at enormous cost with no benefit to consumers or the environment.
+```
+
+### id 4343
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament. Conservative Party
+- **date**: 2024-12-12 (year=2024)
+- **source**: BT (National newspaper)
+- **url**: `https://www.bt.dk/politik/de-konservative-vil-ophaeve-forbud-mod-atomkraft?gaa_at=eafs&gaa_n=AVINqTyTD8pB-qLIJSS_Jt0Lpt6XSiV71C1whUzW51Tvr5umUDSEcGp9OuFzjigUu70%3D&gaa_ts=6784fd5c&gaa_sig=5COWmnUuzFk2MMc5uxpLZm_w8GdynCasKn7rfU3LKryRUiU8rSLNxCzMlV1eqmlNyXnQzHwJ_VpyXhh3jxr7GA%3D%3D`
+
+```
+The transition to sustainable energy production is progressing too slowly. Denmark must lift the 1985 nuclear power ban because renewable energy sources like wind and solar cannot meet demand on their own. Modern nuclear technology is safer, and Denmark needs alternatives to fossil fuels. 
+
+If wind and solar power are sufficient, that’s fantastic, but excluding specific technologies makes no sense. The delays in projects like the North Sea energy island (now pushed to 2036), the Energy Island Bornholm (costs doubled to 31 billion kroner), and hydrogen pipelines from West Jutland to Germany (postponed to 2032) are unacceptable, especially with the urgency created by climate change and conflicts in Ukraine and the Middle East.
+
+Contrary to the Climate Council’s stance that nuclear power isn’t necessary or economically viable, the council hasn’t accounted for the full scope of Denmark's industrial and transportation transition. Denmark needs to keep all energy options open and act decisively.
+```
+
+### id 4369
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-05-07 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/sybille-hildebrandt-98a30a_energi%C3%B8er-p%C3%A5-randen-af-fallit-afh%C3%A6ngig-af-activity-7193530444494077955-VhpE`
+
+```
+Taxpayers absolutely cannot afford or have any interest in these projects. Let them go bankrupt! A possible alternative use for the islands could be to host large 1000 MW nuclear power plants.
+```
+
+### id 4383
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-10-01 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK`
+
+```
+The Danish Energy Island projects are failing, as demonstrated by the abandonment of the North Sea Energy Island. Despite earlier claims by Dan Jørgensen that these projects would be faster and cheaper than nuclear power, this has proven untrue. Jørgensen should focus less on vanity projects and more on fulfilling the COP28 commitment to accelerate nuclear power development, which he signed. 
+
+In reality, nuclear power is more advanced and reliable. 
+
+A system based on unstable energy sources, such as wind, heavily relies on international energy trade. The cost of such a system should account for the expenses involved in creating these international connections, which are often excluded from the calculations. Energy Island Bornholm is expected to be expensive with significant societal losses, while the North Sea Energy Island has been scrapped due to connection costs making it entirely unprofitable.
+
+There is growing concern about Energy Island Bornholm, as current analyses indicate higher construction costs and possibly lower revenue from offshore wind auctions to finance it. Taxpayers should not bear the financial burden of such projects.
+
+Denmark could simply lift the ban on nuclear power and properly evaluate its potential, but Dan Jørgensen and his allies in the "wishful thinking island" camp refuse to consider this rational alternative.
+```
+
+### id 4394
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi
+- **representative of**: Kärnfull Energi (DK)
+- **date**: 2024-07-01 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/k%C3%A4rnfull-energi-dk_atomkraft-fremfor-energi%C3%B8-bornholm-activity-7211289052749172737-85N5`
+
+```
+The Energy Island project on Bornholm is an inefficient and costly initiative that requires at least 31.5 billion DKK in government subsidies, equivalent to three times the annual budget for Denmark’s police force. Kärnfull Energi opposes the Energy Island project for the following reasons:  
+
+1. **Economic Viability**: According to analysis firm Kraka, the Energy Island lacks economic justification due to high costs, reliance on subsidies, and the availability of cheaper alternatives for producing Power-to-X (PtX) energy.  
+2. **Energy Security**: Adding more offshore wind turbines in the Baltic Sea does not enhance energy security.  
+3. **Cost Efficiency**: PtX production on Bornholm would be extremely expensive compared to production using other energy sources.  
+
+Kärnfull Energi advocates for nuclear power as a superior alternative to the Energy Island concept. Nuclear energy can provide affordable, stable electricity, district heating, and hydrogen production without requiring government subsidies. By situating nuclear power plants near existing combined heat and power facilities, Denmark can avoid further industrialization of natural areas.  
+
+Kärnfull Energi is already developing nuclear projects in neighboring regions and is willing to bring similar projects to Denmark if the current ban on nuclear energy is lifted. Many Kärnfull Energi customers have saved significant amounts by switching to 100% nuclear power agreements, avoiding hidden fees and overpriced contracts.
+```
+
+### id 4398
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi
+- **representative of**: Kärnfull Energi (DK)
+- **date**: 2024-06-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/k%C3%A4rnfull-energi-dk_atomkraft-fremfor-energi%C3%B8-bornholm-activity-7211289052749172737-85N5`
+
+```
+Nuclear power is a better alternative to the Energy Island Bornholm project and can save Danish taxpayers at least 31.5 billion DKK, which is the estimated amount of state funding required for the energy island according to the Danish Energy Agency. This amount equals three times the annual budget of the Danish police. 
+
+There is no need for state subsidies for energy. Kärnfull Energi is ready to build nuclear power plants in Denmark without any state support. 
+
+The Energy Island Bornholm project lacks economic justification, as concluded by analysis firm Kraka. Senior economist Frederik Læssøe Nielsen from Kraka has publicly requested a single strong argument for establishing the Energy Island Bornholm, noting that the project faces so many challenges that it no longer makes sense:
+- 💰 A minimum of 31.5 billion DKK in state subsidies, according to the Danish Energy Agency.
+- 🔌 Adding more wind turbines in the Baltic Sea does not improve energy security.
+- 💧 Producing PtX on Bornholm would be extremely expensive, as it is cheaper to produce PtX using other energy sources than offshore wind.
+
+At Kärnfull, we have long questioned the excessively expensive energy island projects. In contrast, nuclear power can deliver cheap and stable electricity and hydrogen without requiring industrialization of natural areas. 
+
+Kärnfull Next is already developing nuclear projects in Sweden and is interested in doing the same in Denmark if the ban on nuclear power is lifted. Nuclear power would eliminate the need for large-scale energy islands by providing stable production of electricity, district heating, and hydrogen. By locating nuclear power plants at existing power plant sites, we can avoid further industrializing nature. 
+
+Additionally, many of our customers have saved significant amounts of money by switching to electricity contracts with 100% nuclear power, avoiding overpriced fixed-rate plans or hidden fees. Nuclear power offers a practical, economical, and sustainable energy solution for Denmark.
+```
+
+### id 4416
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2025-01-13 (year=2025)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_niels-bohr-kommission-nu-tak-fra-nobelprisen-activity-7042807541424156672-jrBy`
+
+```
+I have proposed decision proposal B91 to the Danish Parliament, suggesting that the government establish a commission to investigate the potential use of nuclear power in Denmark’s energy supply.  
+
+Denmark requires significant amounts of renewable energy from wind and solar, which Liberal Alliance fully supports. However, it is impossible to build a reliable energy system solely on wind and solar due to their inherent fluctuations. For example, a cloudy, windless Christmas Eve could leave households without adequate energy supply. As Denmark increases its reliance on wind and solar, these fluctuations will only become more pronounced, making it essential to balance the energy system.  
+
+Currently, the plan is to store surplus energy generated on sunny and windy days using Power-to-X technology or various types of batteries and to utilize gas boilers when renewable energy production is low. While these stabilizing measures are important, there are alternative ways to create stable, green baseload energy. The goal must be an abundance of affordable green electricity.  
+
+Nuclear power is an unavoidable component of Europe’s energy future. Many countries already use nuclear power, are expanding its use, or regret reducing their reliance on it. Denmark, however, actively prohibits nuclear power despite importing it from other countries.  
+
+Unfortunately, Denmark’s debate on nuclear power is clouded by historical prejudices and misinformation. I aim to challenge and correct these misconceptions, enabling an informed discussion about the potential role of nuclear energy in Denmark’s green transition.
+```
+
+### id 4453
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2023-08-04 (year=2023)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/photo.php?fbid=661983425958961&id=100064419293322&set=a.455525843271388`
+
+```
+I believe the Kintore-Fiddes-Tealing transmission line in Northeast Scotland was intended to support offshore wind power, but the industry is only marginally viable. Recent reports from Orsted and Vattenfall highlight difficulties, despite receiving subsidies under the Contract-for-Difference scheme, which is now outdated given current energy prices.  
+
+I see that the government’s obsession with reaching Net Zero at all costs could strain the industry further. Many countries are already turning back to fossil fuels or nuclear power to ensure energy security, while the UK faces a looming energy crisis with diminishing nuclear and fossil fuel capacity, inadequate battery storage, and reliance on imported energy.  
+
+If the government fails to adjust its approach, I fear the UK could face serious energy shortages in the near future, as demonstrated by Scotland's energy vulnerabilities during extreme weather events.
+```
+
+### id 4515
+
+- **matched**: `reactor;fission;thorium`
+- **actor**: Florian Wagner
+- **representative of**: Emerald Horizon
+- **date**: 2024-12-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://de.linkedin.com/posts/florian-wagner-emerald_%F0%9D%97%98%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B4%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%B8%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%B6%F0%9D%97%BB-%C3%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B5-activity-7273294343493373952-x7jy`
+
+```
+The sudden halt of gas supplies from Russia highlights the urgent need for energy independence and the transition to sustainable, CO₂-free technologies. The reliance on liquefied natural gas and imports offers only short-term solutions. Florian Wagner advocates for a transformative approach using thorium and molten salt reactors as a scalable, future-proof, and safe alternative to fossil fuels. These reactors produce fission products that decay quickly rather than long-lasting transuranic waste, representing a significant leap in sustainability and safety. I see this as an opportunity for Austria and the world to adopt green technologies for true energy independence. I invites active participation in driving the energy transition through initiatives like the "Thorium Ticket."
+```
+
+### id 4598
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-12 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ReneMiniDanielsson/photos/tillykke-til-tartelet-kongen-men-hvad-skete-der-lige-dern%C3%A5r-tr%C3%B8st-nu-ikke-vil-ge/1150819283649588/?_rdr`
+
+```
+I strongly oppose the Energy Island project near Bornholm in its current form. First, the agreement provides poor benefits for Bornholm residents regarding our electricity supply. Second, the financial aspects of the project are not properly controlled. Third, it is absurd to place such industrial installations in an area where people come specifically to experience nature.
+
+These three arguments alone are more than sufficient to conclude this is a bad idea. Instead, Germany should reopen its nuclear power plants to increase the electricity supply in the market and thereby lower prices.
+
+The project is poorly conceived if Bornholm residents must live with the consequences of the construction without benefiting from the electricity, while watching the power being exported to the German market - especially when Germany could easily produce its own electricity by reopening their closed nuclear facilities.
+```
+
+### id 4620
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-06-24 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10161526531074154/`
+
+```
+I am deeply skeptical of large public projects like the Energy Island projects, as they often face significant cost overruns—up to four or five times the original estimate—and are delayed by a decade or more. Fortunately, the Energy Island projects seem far off, giving nuclear power a chance to take the lead instead. 
+
+There is also a critical, unaddressed question regarding the impact of massive offshore wind farms on wind systems. Energy is not created from nothing—it is extracted from existing systems. Altering wind patterns could have serious consequences, as winds influence cloud formation and movement, affecting weather systems. Yet, no one has studied this thoroughly. I reached out to Wind Energy Denmark and Vestas for answers, but received nothing. Even Bjørn Lomborg acknowledged the issue's importance, though no progress has been made.
+
+I prefer nuclear power. We should begin with the nuclear technology available now and improve upon it as advancements become ready for deployment.
+```
+
+### id 4636
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Nordjyske (National newspaper)
+- **url**: `https://nordjyske.dk/nyheder/politik/de-konservative-vil-ophaeve-forbud-mod-atomkraft/5356231`
+
+```
+The Conservative Party wants to repeal the nuclear power ban that was implemented in 1985. Sustainable energy sources such as wind and solar cannot keep up with demand, and therefore Denmark should utilize nuclear power.
+```
+
+### id 4645
+
+- **matched**: `nuclear`
+- **actor**: Troels Schönfeldt
+- **date**: 2022-10-25 (year=2022)
+- **source**: Nordjyske (National newspaper)
+- **url**: `https://nordjyske.dk/nyheder/nordjylland/debat-nej-tak-til-konservative-atomkraft-fantasier/3486672`
+
+```
+The Danish population is not willing to live near a nuclear power plant, and Denmark lacks a competent, internationally recognized regulatory authority. Therefore, nuclear power plants in Denmark are at best a hypothetical and highly theoretical discussion. Instead of continuing the pointless debate over being for or against nuclear power, we should focus our efforts on climate action.
+```
+
+### id 4647
+
+- **matched**: `nuclear`
+- **actor**: Ane Halsboe-Jørgensen
+- **date**: 2022-10-25 (year=2022)
+- **source**: Nordjyske (National newspaper)
+- **url**: `https://nordjyske.dk/nyheder/nordjylland/debat-nej-tak-til-konservative-atomkraft-fantasier/3486672`
+
+```
+We are facing an urgent need for more fossil-free energy. Nuclear power is not the solution in Denmark, where we have an abundance of wind.
+```
+
+### id 4760
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2022-01-21 (year=2022)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=2GC3VcB0gLY`
+
+```
+If the Energy Island project can produce 3 GW of power for $34 billion, it is very expensive compared to nuclear energy. According to a Stanford University document, building a 1.1 GW nuclear power plant costs $6-9 billion. With $34 billion, it would be possible to construct 4-6 nuclear plants, generating an output of 4.4-6.6 GW. While the Energy Island project allows for future wind turbine expansions, it would need significant additional capacity to justify its high cost. 
+
+For example, Denmark’s Kriegers Flak offshore wind farm produces 0.6 GW for $1 billion, excluding the $0.5 billion connection cost. To achieve 10 GW of wind energy, 10 Kriegers Flak equivalents would be needed, costing approximately $10 billion. This would bring the total cost of the Energy Island project to $44 billion. 
+
+In comparison, producing 10 GW of nuclear energy would require around nine 1.1 GW nuclear plants, costing $54-81 billion according to Stanford University estimates. Based on these calculations, the Energy Island project becomes cost-effective if it can produce 10 GW at $44 billion.
+```
+
+### id 4764
+
+- **matched**: `nuclear;reactor`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2022-01-12 (year=2022)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=2GC3VcB0gLY`
+
+```
+The Danish “Energy Island” projects sound good and interesting, but I question their cost-effectiveness compared to nuclear energy. For the same price, how many nuclear reactors could be built, and how much power could those reactors produce? While nuclear energy generates waste, the waste volume is minimal compared to other energy forms, and safe waste management methods have been developed. Furthermore, nuclear reactors can be constructed much faster and more efficiently than the proposed energy islands.
+```
+
+### id 4769
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-10-18 (year=2024)
+- **source**: Børsen (National newspaper)
+- **url**: `https://www.liberalalliance.dk/blog/skandalen-om-energioeerne-er-et-symptom-paa-et-generelt-problem/`
+
+```
+“Let me highlight the broader issue with Danish climate policy, exemplified by the energy island scandal. Far too often, we gamble everything on one or a few grandiose projects. While these might generate headlines for the responsible minister, they are not always the most efficient way to advance the green transition.
+
+There is an alternative. Look at our neighbors in Sweden—they have chosen to invest in nuclear power.
+
+Despite the fact that the EU, the UN’s climate panel, many of our neighboring countries, and a host of independent experts have all recognized nuclear power as a green energy source, Denmark’s left-wing and government continue to block its adoption.
+
+Their arguments? Nuclear power is unsafe, costly, and slow to implement. But here’s the irony: these same criticisms have now proven to be the downfall of the energy islands project. Perhaps it’s time to reconsider. Couldn’t we too benefit from the world’s safest, most stable, and greenest energy source?”
+```
+
+### id 4790
+
+- **matched**: `nuclear`
+- **actor**: Svend Aage Bek
+- **representative of**: Stiftsidende
+- **date**: 2021-02-07 (year=2021)
+- **source**: Stiftsidende (National newspaper)
+- **url**: `https://stiften.dk/danmark/energioe-fup-eller-fakta`
+
+```
+I do not know how much nuclear power can be built for 210 billion Danish kroner, but likely enough to cover Denmark's energy needs.
+```
+
+### id 4824
+
+- **matched**: `reactor`
+- **actor**: Allan Olesen
+- **representative of**: GrønGas
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/greenhubdenmark_hos-gr%C3%B8ngas-i-hj%C3%B8rring-har-man-skabt-en-lille-activity-7185932442736705536-43HG?utm_source=share&utm_medium=member_desktop`
+
+```
+The process of the Energy Island project is straightforward. Wind turbine electricity is directed into an electrolysis plant, which produces hydrogen. The hydrogen is then fed into a reactor. When hydrogen and CO2 meet in liquid form within the reactor, the molecules combine, resulting in the creation of water and methane.
+```
+
+### id 4826
+
+- **matched**: `reactor`
+- **actor**: Allan Olesen
+- **representative of**: GrønGas
+- **date**: 2025-01-13 (year=2025)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/greenhubdenmark_hos-gr%C3%B8ngas-i-hj%C3%B8rring-har-man-skabt-en-lille-activity-7185932442736705536-43HG/?originalSubdomain=dk`
+
+```
+Very practically explained, we take the wind turbine power and direct it into the electrolysis plant, which produces hydrogen. We then feed the hydrogen into the reactor, and when CO2 and hydrogen meet in liquid form, the two molecules bond to form water and methane," explains Allan
+
+This has created one of the most energy-efficient Power-to-X systems possible, as CO2 is converted at the very moment it is produced.
+
+In Hjørring, we save both transport and energy for the cooling process
+```
+
+### id 4876
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vism%C3%A6nd_dumper_energi%C3%B8_projektet_b%C3%B8r_genovervejes/`
+
+```
+Spending 200 billion DKK on the Danish Energy Islands was an absurd decision, especially when the same amount could have funded a project like Hinkley Point C, the most expensive nuclear power plant. Hinkley Point C would produce 3.2 GW of power, compared to the Energy Islands' 3 GW from wind turbines and additional, inefficient hydrogen technology. With further investment, Hinkley Point C could even reach 10 GW of capacity.
+
+Nuclear power offers 90% to 95% uptime, stable electricity, and waste heat that could be used in district heating systems. In contrast, wind turbines only achieve 50% to 65% uptime, with a portion of that uptime wasted on hydrogen production with a 70% energy loss. Furthermore, nuclear plants have a lifespan of 60 to 100 years, while wind turbines last only 20 to 30 years.
+
+It was obvious that the Energy Islands would not be cheaper. I've pointed this out for 10 to 12 years now, so it’s hardly a secret. While interest rates and other factors matter, they are irrelevant when both projects started with the same initial cost.
+```
+
+### id 4881
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vism%C3%A6nd_dumper_energi%C3%B8_projektet_b%C3%B8r_genovervejes/`
+
+```
+Over the next 50 years, we will analyze the advantages and disadvantages of various energy solutions. Ultimately, we will adopt a form of nuclear power that incorporates material recycling, waste incineration, and carbon capture for waste incineration, with the captured carbon stored beneath the seabed or underground on land. We will also likely conclude that it is only sustainable in the long term to cultivate up to 20% of Danish land, thereby minimizing pollution both from agriculture and from solar panels, wind turbines, and other technologies that occupy space and degrade the natural landscape.
+
+If we could adopt a more long-term perspective today, Denmark could surpass other countries and solidify its position as a leading global economy.
+```
+
+### id 4885
+
+- **matched**: `nuclear`
+- **actor**: Claire Coutinho
+- **date**: 2025-01-10 (year=2025)
+- **source**: Daily Mail UK (international newspaper)
+- **url**: `https://www.dailymail.co.uk/news/article-14272429/boss-gas-giant-Centrica-reveals-shivering-Britain.html?fbclid=IwY2xjawHx2vJleHRuA2FlbQIxMAABHUyLJCkCWKW_APYtpQcx3HdeLHpgxfP4tA-pidlR7bHj83kCJA0w1iVUBA_aem_0dNIzLvpq6nFkZKBxvFCKw`
+
+```
+Ed Miliband's obsession with wind and solar, far from giving us energy security, will leave us out of pocket, dependent on foreign imports, and at risk of blackouts.  
+
+'As I said last year, we need to build more gas power plants and nuclear, so we can have cheap, reliable energy.'
+```
+
+### id 4924
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-06 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/WindEnergysAbsurd`
+
+```
+“I like the reliable nuclear powered energy. The coal fired plant near me has been very reliable as well. Neither need additional equipment for a backup at night or when the wind is calm.”
+```
+
+### id 4927
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-07 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php/?story_fbid=1056826663120864&id=100063806191632`
+
+```
+Building a new large nuclear power plant, which costs between 15–20 billion, is a viable solution for providing green energy. This plant could supply electricity to Denmark and its neighbors, especially on windless days. The plan is simple: place the plant in Køge and pull a cable to Bornholm.
+```
+
+### id 4970
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-07 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php/?story_fbid=1056826663120864&id=100063806191632`
+
+```
+The idea of building a large nuclear power plant costing 15–20 billion is impractical. It overlooks the complexities and risks associated with nuclear energy, including safety concerns, waste management, and long-term environmental impact. Additionally, the proposed location in Køge and the plan to pull a cable to Bornholm do not address these critical issues.
+```
+
+### id 4977
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2023-02-21 (year=2023)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10160937167224154/`
+
+```
+The Climate Council talks so much about the cost of nuclear power that I feel compelled to address the issue. I don’t have any particular expertise, but I can find both prices and energy output for the Energy Island Bornholm and Olkiluoto 3, which is operating in Finland. Let's break it down:
+
+Energy Island Bornholm at 3 GW will last around 30 years and can produce about 430 TWh of electricity. With a total cost of approximately 70 billion DKK, that gives a price of 161 million DKK per TWh.
+
+Olkiluoto 3 at 1.6 GW will last at least 60 years and can produce about 750 TWh of electricity. With a total cost of about 82.5 billion DKK, the price per TWh is 109 million DKK.
+
+However, these are only construction costs being compared here—operating and follow-up costs apply to both solutions. My simplified estimates can be found below 👇
+I think we should have some experts do more thorough calculations than what I can do with my pocket calculator... because it certainly looks like the Energy Island is far too expensive to build compared to a nuclear power plant!
+
+Let’s get it clarified with data that can withstand peer review! My napkin calculations have once again been reviewed by Morten Sørensen from REO 🧐
+```
+
+### id 4981
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-09-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK`
+
+```
+I express my disappointment that the Energy Island in the North Sea has not come to fruition. I believed that these so-called “fantasy islands” would be implemented far more quickly and at a lower cost than nuclear power, as Dan Jørgensen once claimed. I argue that Dan Jørgensen should allocate less effort to vanity projects and instead fulfill the commitment to “accelerate nuclear power” as promised at COP28.
+```
+
+### id 5052
+
+- **matched**: `nuclear`
+- **actor**: Thorbjørn Jacobsen
+- **representative of**: Liberal alliance
+- **date**: 2021-09-14 (year=2021)
+- **source**: Holstebro-Struer Dagbladet (National newspaper)
+- **url**: `https://dagbladet-holstebro-struer.dk/debat/liste-s-forklaedt-som-voksen`
+
+```
+We are going to see Central Europe achieve CO2-neutral energy supply with nuclear power long before we are done pouring gravel into the sea for the expensive energy island.
+```
+
+### id 5053
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Holstebro-Struer Dagbladet (National newspaper)
+- **url**: `https://dagbladet-holstebro-struer.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+I understand that it can be difficult. We've had it drilled into our heads how dangerous nuclear power is. But the technology has evolved. And we need to invest in something other than fossil fuels
+If wind and solar are enough, then "bring it on," super duper. But I find it very hard to see the point in simply excluding a specific technology.
+```
+
+### id 5086
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-09 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/tech/comments/lfr6gg/denmark_is_building_an_artificial_island_to_house/gmoc1of/`
+
+```
+The energy island seems like a lot of effort wasted when you could just build a nuclear plant instead.
+```
+
+### id 5126
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-02-05 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/ld3stl/denmark_strikes_deal_on_25bn_artificial_wind/gm66zv9/`
+
+```
+My opinion is that the 25bn$ should be spend on nuclear power, and not shitty publicity eco artificial islands that will cost 50bn before it is done just like any other huge Danish project.
+```
+
+### id 5132
+
+- **matched**: `nuclear;reactor;thorium`
+- **actor**: Private person
+- **representative of**: General public opinion
+- **date**: 2021-02-07 (year=2021)
+- **source**: Stiften (National newspaper)
+- **url**: `https://stiften.dk/danmark/energioe-fup-eller-fakta`
+
+```
+The Danish "Energy Island" project in the North Sea, costing 210 billion DKK, is a completely absurd idea. Initially designed to distribute electricity from 3 GW of wind turbines, expanding to 10 GW later to supply large parts of Europe, it is not economically viable. Selling electricity to Germany will not be profitable due to their fragmented and underpowered grid, owned by private companies unwilling to cooperate with competitors. 
+
+Today, we already lose money exporting electricity during high winds or are forced to shut down turbines. The only potential benefit is a few jobs in Esbjerg. 
+
+This project is driven by fanatical climate activists who spend others' money recklessly. A green transition should be achieved sustainably and naturally. For 210 billion DKK, we could likely build enough nuclear power plants to meet Denmark's energy needs. We cannot save the whole world, and we must face reality.
+
+Modern nuclear power, particularly thorium-based reactors, is CO2 neutral, meltdown-proof, non-weaponizable, and endorsed by the UN as essential for global energy needs. Politicians must educate themselves instead of blindly following climate extremists.
+```
+
+### id 5136
+
+- **matched**: `nuclear`
+- **actor**: Danish Conservative Party
+- **date**: 2024-12-12 (year=2024)
+- **source**: Århus Stiftstidende (National newspaper)
+- **url**: `https://stiften.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+We would like to appeal the nuclear power ban that was introduced in 1985.
+```
+
+### id 5137
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Århus Stiftstidende (National newspaper)
+- **url**: `https://stiften.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft`
+
+```
+It is time to lift the ban on nuclear power in Denmark
+```
+
+### id 5188
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2025-01-10 (year=2025)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Futurology/comments/1hxymwf/is_storing_energy_through_batteries_good_enough/?show=original`
+
+```
+The Danish "Energy Island" projects can successfully run on 100% renewable energy, but this requires overbuilding the renewable energy infrastructure to ensure surplus power can be stored in grid-level storage, such as grid batteries or pumped hydro, for periods of insufficient generation, like nighttime or low wind conditions. In some regions, it may make sense to supplement renewable energy with nuclear power, such as in the northern states of the USA and Canada, where sunlight is limited. However, building nuclear plants in other regions, like Australia, is impractical due to adequate solar resources or a lack of readily available cool fresh water for reactor cooling.
+```
+
+### id 5199
+
+- **matched**: `reactor;smr`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-12-20 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1hi3ysm/dansk_milliardvirksomhed_g%C3%A5r_i/?show=original`
+
+```
+Reddit user: What we are doing is completely foolish. The green transition is displacing people from their homes, shutting down entire communities to make room for wind farms and solar installations that cover massive areas and harm nature—not just visually but also ecologically.  
+
+We then wonder why there are fewer and fewer birds in Denmark, even as we install giant machines that kill 20,000 birds annually and build solar farms that damage biodiversity.  
+
+All of this could be avoided by following the example of Sweden, Poland, Finland, and Estonia, which invest in cheap and green Small Modular Reactors (SMRs).
+```
+
+### id 5204
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vismænd_dumper_energiø_projektet_bør_genovervejes/?show=original`
+
+```
+Spending 200 billion DKK on energy islands is a poor decision because the same amount could have funded a nuclear power plant like Hinkley Point C, which provides 3.2 GW of stable power with 90%-95% uptime, compared to the energy islands' 3 GW (including wind and hydrogen technology) with only 50%-65% uptime. The nuclear option also offers waste heat for district heating and has a lifespan of 60 to 100 years, while the energy islands and wind turbines last only 20 to 30 years. Additionally, using wind power to produce hydrogen involves a 70% energy loss. Even with interest rate considerations, the fact that both projects have the same initial cost makes the energy islands an inferior choice. I've pointed this out for over a decade, and it remains clear that the energy islands are neither cheaper nor more efficient.
+```
+
+### id 5206
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+Reddit user: Of course, the climate is the most important aspect of climate policy, and our protectionism of Denmark's energy industry has nothing to do with this chaotic mess in the ministry.  
+
+It’s just a coincidence that by 2041, when the energy island is nearing completion, people will be able to say, “See, we told you so! We could have built several nuclear power plants for the same cost and in the same timeframe.”  
+
+And the argument against nuclear power will once again be that it takes too long to build, so it’s not feasible now. This has been the argument for decades while both climate and security policies remain a disaster.  
+
+Congratulations to the self-righteous.
+```
+
+### id 5207
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+Reddit user: It’s ironic how nuclear power is deemed too expensive, yet there’s plenty of funding available to support the wind lobby.  
+
+Taxpayers bear the risk, while the wind lobby reaps the profits.
+```
+
+### id 5208
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-12-11 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/2nordic4you/comments/1hbmwsk/can_anyone_help_me_cut_cables_to_lowpowered/?show=original`
+
+```
+The Danish "Energy Island" projects appear to focus solely on expanding wind power. However, Denmark must invest in either nuclear power or a large-scale energy storage solution instead of relying solely on wind power. Depending exclusively on wind power without adequate storage is not a sustainable strategy. 
+
+Southern Sweden is highly frustrated because Denmark's reliance on wind energy negatively affects them as well. Despite this, Denmark seems content with the current situation and appears unaware that relying on pure wind power without storage is flawed. Even Germany has acknowledged this issue, yet Denmark dismisses Germany's failures and acts as though it is handling the situation better.
+```
+
+### id 5209
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vismænd_dumper_energiø_projektet_bør_genovervejes/?show=original`
+
+```
+The Danish "Energy Island" projects are constantly delayed. Initially announced in 2020 with a completion target of 2030, the timeline was then pushed back to 2033, then 2036, and now there's uncertainty about whether these projects will ever be completed. Meanwhile, nuclear power is criticized for taking too long to implement, but the energy islands are clearly suffering from the same issue. My preference is to build nuclear power plants instead; they would be a much more reliable and immediate solution, and I would have no problem with having them in my own backyard.
+```
+
+### id 5210
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-12-12 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/2nordic4you/comments/1hbmwsk/can_anyone_help_me_cut_cables_to_lowpowered/?show=original`
+
+```
+The Danish "Energy Island" projects will negatively impact southern Sweden, at the very least. If Denmark had chosen to build nuclear power plants instead of relying on the proposed 700 MW from wind power, it would have benefited the entire region. However, Denmark is unlikely to make that choice.
+```
+
+### id 5212
+
+- **matched**: `nuclear`
+- **actor**: Morten Messerschmidt
+- **representative of**: Danish Parliament, Dansk Folkeparti
+- **date**: 2022-05-28 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/uzngit/ama_med_morten_messerschmidt/?show=original`
+
+```
+Regarding nuclear power, I believe that we need to move towards the next technology, such as mobile units developed by companies like Seaborg, before nuclear energy becomes relevant for Denmark. However, it is essential that we conduct research into this technology.
+```
+
+### id 5214
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-11-15 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/17vsat5/comment/k9d2ps7/`
+
+```
+Nuclear power is not an obvious complement to renewable energy because the cost of nuclear power increases as it is used less. Unlike fossil power plants, where reducing output can significantly cut costs, the fuel cost for nuclear is a very small part of the total energy price. This makes it harder and more expensive to combine nuclear with renewable energy. A nuclear power plant needs to have enough capacity to provide power when it’s not windy and the sun isn’t shining, but it also needs to be able to reduce output during sunny, windy periods. 
+
+Additionally, traditional nuclear power plants are not designed to rapidly adjust their output, though this is technically feasible in the future, albeit at an additional cost.
+```
+
+### id 5217
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+The cost of the Olkiluoto 3 nuclear plant was 82 billion DKK for a capacity of 1.6 GW, while the estimated cost of the "Energy Island" project is 210 billion DKK for 10 GW (though the final price could be higher as the project is not yet completed). 
+
+On the surface, the math seems favorable, with nuclear power costing 51 billion DKK per GW and wind power costing 21 billion DKK per GW. However, the problem arises when the wind doesn't blow, or when issues such as cable damage occur—such as when Russian fishing activities interfere with the cables. In such cases, wind power provides 0 GW.
+```
+
+### id 5220
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+The real calculations argue against wind energy, especially in a country like Denmark, which has the world's most developed district heating network. The indoctrination against nuclear power is so deeply ingrained that it can nearly be considered religious. This, combined with a generation of politicians influenced by the wind industry, makes nuclear power nearly impossible to implement in Denmark.
+
+The desperation is evident, as solutions are being sought for the questionable energy security. Power-to-X (PTX) is one such technology, but it has never been scaled, and it is unlikely to ever reach the required scale. Hydrogen, in particular, is a challenging element to work with due to its explosive nature and extreme volatility.
+```
+
+### id 5221
+
+- **matched**: `nuclear;reactor`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-05 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+Denmark has some of the best wind resources along its west coast, and if these resources are properly utilized, Denmark could export a significant amount of electricity to southern regions. 
+
+However, if nuclear power were to be used for district heating, nuclear plants would need to be built relatively close to urban areas, meaning a high number of smaller nuclear power plants would be required across the country. There is ongoing development of small nuclear power plants by companies such as Westinghouse and Radiant Industries, with a focus on mass-producing small reactors.
+
+This approach seems very advantageous because, even if an issue were to occur, it would be relatively easy to contain, and lessons could be learned to improve future designs. These plants already feature simple, highly reliable designs that are essentially passive. I believe these systems should be piloted in small towns as a first step, which would also help reduce the amount of gas used. This would make it easier to transition the remaining gas consumption to green alternatives like biogas. If we are to challenge any industries, it should likely be the natural gas companies, as they currently provide much of Denmark's non-green electricity and are highly profitable.
+
+Currently, the shift towards greener district heating seems to be focused on solar, geothermal energy, and reducing district heating temperatures. 
+
+While Power-to-X (PTX) and hydrogen are limited technologies and likely expensive to scale, they have their place, mainly in the short term. They are not suitable for personal cars, but they could be effective for many trucks, ships, and planes. Much of the freight transport should be shifted to rail, and similarly, much of the car traffic could also be converted to rail transport.
+```
+
+### id 5222
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-05-06 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/138d7u0/altid_dejligt_med_en_regering_der_giver_aktindsigt/?show=original`
+
+```
+Why do nuclear power supporters always use ridiculous statistics from countries like India or decades-old projects?
+
+The reality is that Denmark has a large wind industry, is capable of producing wind turbines at competitive prices, and has the necessary infrastructure to support it. Additionally, Denmark can export its wind industry to foreign markets, which is another significant benefit.
+
+Denmark lacks a nuclear energy industry. The country does not have the necessary knowledge, expertise, infrastructure (both for connecting to the power grid and for maintenance), or Danish companies in the sector. Building a nuclear power plant would quickly turn into a nightmare, with costs escalating by a factor of 2-3, delays of over a decade, and political opposition throughout. Furthermore, all the money would go to French or American companies.
+```
+
+### id 5225
+
+- **matched**: `nuclear`
+- **actor**: Brian Vad Mathiesen
+- **representative of**: Aalborg University
+- **date**: 2024-12-06 (year=2024)
+- **source**: TV2 Bornholm (National newspaper)
+- **url**: `https://www.tv2bornholm.dk/artikel/energiprofessor-tror-fortsat-paa-energioe`
+
+```
+I still support the Energy Island Bornholm project, but the lack of income from the North Sea has increased pressure on the project and the need to rethink the entire concept. I do not believe in the current form of the Energy Island Bornholm. Specifically, the 209-kilometer cable to Zealand is too costly and impractical. Instead, the energy island should be connected to Poland and Sweden, where the energy demand is higher.
+
+The failure of the North Sea tender to produce results does not surprise me because there is no real need or space for more renewable energy in that area. Denmark and Northern Germany already generate over 60% of their electricity from wind and solar power, making additional renewable projects unnecessary unless electrification increases or costly and complex export solutions are implemented.
+
+Current economic conditions, including inflation and high interest rates, are putting pressure on the profitability of all energy types, from renewables like wind and solar to nuclear and conventional energy.
+
+One solution is to accelerate the electrification of society to create more space for renewable energy projects.
+```
+
+### id 5322
+
+- **matched**: `nuclear`
+- **actor**: Soren Hermansen
+- **representative of**: Samsø Energy Academy
+- **date**: 2022-04-11 (year=2022)
+- **source**: United Nations Changes (Government website)
+- **url**: `https://unfccc.int/news/green-island?`
+
+```
+Denmark is a small country with limited natural resources but a population known for its independent thinking. Following the oil crisis in the 1970s and No to Nuclear campaign, Denmark made the decision to initiate green innovation. Despite being one of the EU’s largest producers of oil, Denmark committed in 2020 to ending fossil fuel extraction by 2050. While the opposition may not have been a large group, there are always some dissatisfied citizens who resist any change they feel excluded from. These individuals can often be quite aggressive. Additionally, frequent changes in government, with policies shifting every four years, pose another challenge. Keeping pace with such changes and maintaining consistent lobbying efforts can be difficult.'
+```
+
+### id 5407
+
+- **matched**: `nuclear`
+- **actor**: David Munk Bogballe
+- **date**: 2024-10-02 (year=2024)
+- **source**: Information (National newspaper)
+- **url**: `https://www.information.dk/debat/2024/10/vindmoeller-solceller-foerer-moerk-kold-blindgyde`
+
+```
+If Denmark invested in new modular and CO2-neutral nuclear power technology, such as that from Rolls Royce, the island of Livø in Limfjorden could be large enough to meet the entire electricity demand for 2050. It would provide constant energy with minimal fluctuations and increased safety. Measured in fatalities, nuclear power is less dangerous than wind energy and is easier to monitor and protect than undersea cables from offshore wind farms and neighboring countries
+```
+
+### id 5443
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-01-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_niels-bohr-kommission-nu-tak-fra-nobelprisen-activity-7042807541424156672-jrBy`
+
+```
+Europe cannot avoid nuclear power. Many other countries already rely on nuclear power. Many are expanding their nuclear power capacity. Those countries that are reducing their reliance on nuclear power are regretting their decision. Denmark imports nuclear-generated energy but actively keeps the option of developing nuclear power domestically closed.
+```
+
+### id 5445
+
+- **matched**: `nuclear;reactor`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-01-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_niels-bohr-kommission-nu-tak-fra-nobelprisen-activity-7042807541424156672-jrBy`
+
+```
+The Danish Energy Island projects raise important questions that must be addressed. How expensive will these projects actually be? How long will they take to complete? How much green energy will be required by the time they are operational? The electrical grid needs expansion, but that is necessary regardless. Waste must be managed—can it be recycled? Should Denmark invest in large reactors or smaller modular reactors? Wind and solar are primary energy sources, but what is the optimal energy mix? Where should nuclear power plants be located, or should Denmark consider acquiring Barsebäck? How can Denmark meet the 2030 CO2 reduction goals without short-term suboptimization? Should Denmark rely on other countries’ nuclear power, and is such reliance even feasible from a security policy perspective?
+```
+
+### id 5480
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-01-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_niels-bohr-kommission-nu-tak-fra-nobelprisen-activity-7042807541424156672-jrBy/`
+
+```
+If Michael Fihl Nyström had known the costs involved, he would have realized that Denmark could have achieved a nuclear power capacity of 11-13 GW for the same budget as the 210-billion DKK allocated to the Energy Island project. Denmark’s maximum peak energy demand is approximately 7 GW, which makes this comparison particularly relevant.
+```
+
+### id 5511
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-08-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/feed/update/urn:li:activity:7231706153037029377?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7231706153037029377%2C7231746793573629953%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287231746793573629953%2Curn%3Ali%3Aactivity%3A7231706153037029377%29`
+
+```
+The global supply of copper and aluminum, critical for the "Energy Island" project, is severely limited. Currently, 90% of copper mines are operated by seven companies, four of which have significant Chinese ownership. By 2030, copper demand—particularly for cabling—will exceed supply by 30%, even with accelerated mining efforts. Aluminum faces an even worse production deficit and is at the top of the EU's list of critical resources under China's dominance. 
+
+This scarcity will result in supply lines (made from aluminum) becoming significantly more expensive than the production equipment and energy island infrastructure itself. Additionally, energy transmission losses over long distances are a major issue. 
+
+From a logical standpoint, energy should be produced near its point of consumption. Floating nuclear power plants offer a much more flexible and practical solution than the energy islands. They avoid the supply chain and energy loss issues while providing a decentralized energy production model that aligns better with actual needs.
+```
+
+### id 5519
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-08-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/feed/update/urn:li:activity:7231706153037029377?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7231706153037029377%2C7231893849927815168%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287231893849927815168%2Curn%3Ali%3Aactivity%3A7231706153037029377%29`
+
+```
+The decision to halt certain aspects of the Energy Island project is a sensible one given the current geopolitical and energy landscape. Forming a new government in Belgium can take a very long time, and in Germany, with its deeply flawed energy policies, a governmental shift is necessary. The current Danish Vice Chancellor appears disconnected from reality. Germany is Europe’s largest importer of electricity, primarily relying on French nuclear power, while Denmark also imports electricity from countries with reliable green energy sources. 
+
+Denmark’s current approach to projects like the Energy Island, which heavily relies on intermittent renewable sources such as wind and solar, is unsustainable. If all countries adopted similar policies, energy production would halt during periods without sunlight or wind. Investing in battery capacity as an alternative for projects like the Energy Island would be prohibitively expensive, costing approximately Denmark's entire annual GDP (2,800 billion DKK). 
+
+Despite these challenges, organizations like Green Power Denmark remain adamantly opposed to nuclear power. This resistance perpetuates the shortcomings of initiatives like the Energy Island and similar projects. The continuation of these flawed policies is likely until a blue (conservative) government is in place.
+```
+
+### id 5532
+
+- **matched**: `nuclear;reactor;smr`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-07-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK/?originalSubdomain=dk`
+
+```
+What a surprise... the North Sea Energy Island is not happening after all. 🏝️⚡️  
+
+I thought the fantasy islands were supposed to be much faster and cheaper than nuclear power. At least, that’s what Dan Jørgensen said. Perhaps he should spend less energy on vanity projects and more on honoring the commitment to "accelerate nuclear power" that he signed at COP28.  
+
+There are more small modular reactors in operation than energy islands, yet nuclear power has been framed as technologically uncertain. The opposite is true. The Swedes will likely establish their new nuclear power plants long before the Social Democrats’ fantasy island becomes a reality.  
+
+A system based on unstable energy sources is heavily reliant on international trade. The cost of such a system should include the expenses of creating these connections. Energy Island Bornholm will be expensive and lead to societal losses, while the North Sea Energy Island is entirely unprofitable and has been scrapped due to these connections. Yet, these costs are not factored in.  
+
+We await news about Energy Island Bornholm with anticipation, though the outlook, based on current analyses, is bleak. It appears more costly to construct and may yield less revenue from offshore wind tenders to fund it. Taxpayers should not bear the burden.  
+
+Alternatively, we could just lift the ban on nuclear power and calculate its feasibility. But Dan and his friends from the fantasy island don’t want that...
+```
+
+### id 5533
+
+- **matched**: `nuclear;reactor`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-07-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK/?originalSubdomain=dk`
+
+```
+The Swedish government, and thereby taxpayers, must provide a debt guarantee of 300 billion SEK for four nuclear reactors because the companies planning to build them cannot assume the risk or secure financing.  
+
+Nuclear power is historically known for costing 3-4 times more than projected and taking 2-3 times longer to complete. This highlights the significant risks associated with constructing nuclear power facilities.
+```
+
+### id 5534
+
+- **matched**: `nuclear`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-08-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK/?originalSubdomain=dk`
+
+```
+I am still puzzled that Liberal Alliance has chosen to focus so heavily on nuclear power. Nuclear power is a solution that requires enormous amounts of government subsidies.
+```
+
+### id 5535
+
+- **matched**: `nuclear;reactor`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-08-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK/?originalSubdomain=dk`
+
+```
+Taxpayers should not face additional financial pressure, yet nuclear energy is being promoted as a solution? I question how a waste storage facility, requiring ongoing management for 200–1000 years, can compete with the cost of a cross-border electricity grid. Regarding the new reactors mentioned, where are these reactors located, and how much do they actually contribute to the energy production of their respective countries? 
+
+Are we discussing Russia’s floating reactor with 35 MW, one of the two Chinese reactors with 250 MW, or India’s research reactor? These capacities are negligible and do not meaningfully impact the current energy landscape. Claiming that such reactors can significantly lower CO2 emissions is misleading. 
+
+What energy sources would be used in the construction of these reactors, especially if renewables are dismissed? What are the CO2 implications of this? Additionally, these new reactors are less fuel-efficient than traditional designs. What is the real purpose here, other than promoting narrow lobbying interests? 
+
+Renewables eliminate the need for baseload capacity, and baseload capacity is unnecessary. Flexibility is the key to building resilience for the changes ahead.
+```
+
+### id 5536
+
+- **matched**: `reactor;uranium;thorium`
+- **actor**: LinkedIn user
+- **representative of**: General public opinion
+- **date**: 2024-08-20 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://www.linkedin.com/posts/steffenfrolund_sikken-overraskelse-s%C3%A5-blev-energi%C3%B8-nords%C3%B8en-activity-7231714154686910464-RpxK/?originalSubdomain=dk`
+
+```
+The Danish government and civil service should immediately move forward with Seaborg’s thorium solution, which has been known for over eight years. This technology is faster, cheaper, smarter, safer, more compact, capable of utilizing and eliminating uranium waste, and powerful enough to supply energy to a city with a reactor the size of a container. 
+
+This is a brilliant Danish innovation, but it had to relocate to South Korea because the Danish government and bureaucracy failed to act in time. This inaction reflects alarming incompetence.
+```
+
+### id 5563
+
+- **matched**: `nuclear`
+- **actor**: Thomas Birk Kristiansen
+- **representative of**: Ishøjcentrets Læger I/S)
+- **date**: 2024-04-13 (year=2024)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/thomas-birk-kristiansen-12539816_%C3%B8konomer-vil-have-stoppet-energi%C3%B8-der-er-activity-7176453452909219840-tG3_`
+
+```
+Denmark should reconsider the Energy Island projects, which seem like unrealistic ambitions, and instead explore the feasibility of investing in Sweden's expansion of its existing nuclear power industry. Energy Island Bornholm appears to be an economic disaster, as the latest calculations from the Danish Energy Agency estimate it will require a staggering DKK 31.5 billion in state subsidies. Politicians are unwilling to cover this full amount and have agreed to a subsidy cap of DKK 17.6 billion, which is approximately half the projected cost.
+```
+
+### id 5618
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-04-05 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/mkg3s7/comment/gth5q98/`
+
+```
+I also think that since people don't want a wind turbine within their line of sight, it won't be any easier with a nuclear power plant. You can't compare the time or cost it takes to build a nuclear power plant in China with Europe. Hinkley Point C is yet another example that is expensive and takes much longer than the 5-6 years. For the cost of Hinkley Point C, you could have an energy island that produces three times as much energy
+```
+
+### id 5619
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-10-24 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/qerxsp/comment/hhw4pzb/`
+
+```
+Wind turbines and solar energy are probably cheaper, but as I see it, nuclear power solves a problem that the others cannot. When there isn’t enough wind or sun, we are left without clean energy and are forced to buy from abroad or fire up coal plants, emitting a lot of CO2.
+
+The solution is that we need even more wind and solar power so that we always produce more than we need, even on a bad day. However, this leads to a lot of wasted materials and energy.
+```
+
+### id 5626
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-09-27 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fqhjtq/comment/lp5kokv/`
+
+```
+The gaslighting continues. Our electricity bills have become more and more expensive the more "green" energy is connected to the grid. That is a fact so far.  
+
+In addition, despite Denmark's unique geographical position with access to wind, hydroelectric power from Norway, and nuclear power from Sweden, it has still not managed to provide Danes with cheaper electricity bills, even with one of the world's highest renewable energy penetrations. It's a farce: "just one more wind turbine/energy island, and it'll work."
+```
+
+### id 5629
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-10-24 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/qerxsp/atomkraft_i_go_morgen_danmark/`
+
+```
+"Denmark is currently developing an energy island, but it will fall short of producing the electricity needed. I recently worked on the green transition of the shipping sector, and the amount of green islands required to produce sustainable fuel for Maersk alone would necessitate the construction of several more. Solar panels on rooftops cannot sufficiently support the grid to solve the issue, as solar power typically supplements peak demand rather than providing baseload power. Energy infrastructure development takes considerable time, similar to the delays in laying gas pipelines across Europe. Denmark's renewable energy potential is limited compared to neighboring countries like Iceland with geothermal and Norway and Sweden with hydropower. Due to Denmark's location, the country would be well suited for nuclear power, and even the storage of spent fuel has been addressed in Finland.
+```
+
+### id 5636
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-03-03 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+This is more expensive and damaging than nuclear.
+```
+
+### id 5637
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-04-04 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+The is the dumbest expensive idea in the history in the Denmark. Build one or two nuclear powerplants instead, they are reliable and don't care about weather, and they are cheaper too.
+```
+
+### id 5649
+
+- **matched**: `nuclear`
+- **actor**: Youtube user
+- **representative of**: General public opinion
+- **date**: 2021-09-09 (year=2021)
+- **source**: YouTube (Social media)
+- **url**: `https://www.youtube.com/watch?v=UwkVL8A-8t4`
+
+```
+instead of building this they should make nuclear power islands. Less materials, cheaper, more nature friendly and a lot more energy, And of course less damage to the sea
+```
+
+### id 5658
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-09-22 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/xkeyku/comment/ipgzzd9/`
+
+```
+Of course, it costs money to build a nuclear power plant, and of course, it produces waste—that’s an argument often used.  
+
+But the point is that wind turbines do the same. Used wind turbine blades, which take up significantly more space than nuclear waste, are currently just being buried.
+```
+
+### id 5855
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi
+- **date**: 2024-06-21 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10161526531074154/`
+
+```
+The Energy Island Bornholm project is an unnecessary and costly venture. According to the Danish Energy Agency, it will require at least 31.5 billion DKK in state subsidies, equivalent to three times the annual budget of the Danish police. In contrast, nuclear power does not require any state support. The company Kärnfull is ready to build nuclear power plants in Denmark entirely without subsidies. 
+
+Analysis firm Kraka has concluded that establishing Energy Island Bornholm makes no economic sense. Senior economist Frederik Læssøe Nielsen from Kraka has publicly challenged proponents of the project to provide a single strong argument in favor of building the energy island. Key issues identified by Kraka include:  
+- The substantial state subsidy requirement of at least 31.5 billion DKK.  
+- No improvement to energy supply security from adding more wind turbines in the Baltic Sea.  
+- Extremely high costs of producing Power-to-X (PtX) on Bornholm, as it is cheaper to produce PtX using other energy sources than offshore wind.  
+
+Choosing nuclear power over Energy Island Bornholm could save Danish taxpayers a significant amount of money and offer a more viable energy solution.
+```
+
+### id 5951
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2024-10-13 (year=2024)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1fzl7ew/vism%C3%A6nd_dumper_energi%C3%B8_projektet_b%C3%B8r_genovervejes/?sort=top`
+
+```
+Whenever nuclear power is brought up, the counterargument is always that it takes too long to implement. But look at the Energy Island project: announced in 2020, initially planned for 2030, then delayed to 2033, then to 2036, and now it's uncertain if it will even happen. Just build a couple of nuclear power plants already—they can even be in my backyard.
+```
+
+### id 6083
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-12-30 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=1369517203881784`
+
+```
+The Danish “Energy Island” projects will not solve the issue of unreliable energy supply because wind energy depends on weather conditions. Nuclear power is the only clean and reliable solution at this point in time.
+```
+
+### id 6116
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-12-30 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=1369517203881784`
+
+```
+the nuclear power of today is safe and more clean than wind power
+```
+
+### id 6222
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Bornholms Tidende (Local news media)
+- **url**: `https://tidende.dk/ind-og-udland/erhverv-politik/de-konservative-vil-ophaeve-forbud-mod-atomkraft/366128`
+
+```
+The transition to sustainable energy production is moving too slowly. The Conservative Party, led by Mona Juul, supports lifting the ban on nuclear power that was implemented in 1985. Mona Juul argues that wind and solar energy alone cannot meet Denmark’s energy needs, making nuclear power a necessary option. She acknowledges that nuclear power has long been viewed as dangerous, but emphasizes that technological advancements have made it safer. She believes Denmark must move away from fossil fuels and adopt alternative energy sources. 
+
+Mona Juul finds it unreasonable to exclude any specific technology, especially when energy projects like the North Sea Energy Island have been delayed until 2036 and Energiø Bornholm is expected to cost twice as much, at 31 billion kroner. Additionally, the hydrogen pipeline from West Jutland to Germany has been postponed to 2032. 
+
+The wars in Ukraine and the Middle East, alongside the climate crisis, underscore the urgency of finding a rapid and reliable energy solution. While the Danish Climate Council does not consider nuclear power necessary or economically viable, Mona Juul disagrees, stating that the Council has not accounted for the significant transition required in Denmark's industrial and transportation sectors.
+```
+
+### id 6541
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-11-19 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=565762432809881`
+
+```
+Solar and wind energy are too unstable. Denmark should focus on nuclear power instead. Companies like Seaborg or Copenhagen Atomics offer viable solutions. Unfortunately, the wind energy industry's lobbying power is extremely strong, pushing through projects like the Energy Island, even though it is clearly a bad idea.
+```
+
+### id 6543
+
+- **matched**: `nuclear;uranium`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-11-19 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=565762432809881`
+
+```
+Nuclear power is far too expensive. Just look at England as an example. If everyone starts using uranium on a large scale, it will also become a scarce resource. Solar and wind energy are renewable and sustainable. Extracting raw materials, like uranium, will only lead to geopolitical conflicts, just as we have seen with gas and oil. Denmark does not have suitable locations for storing nuclear waste, and we still have unresolved issues with waste from Risø. Even new nuclear power technologies produce waste that requires disposal. Instead, we should focus on utilizing Denmark’s maritime areas to generate energy.
+```
+
+### id 6561
+
+- **matched**: `nuclear`
+- **actor**: Lietuvos Rytas
+- **representative of**: Science Direct
+- **date**: 2022-04-21 (year=2022)
+- **source**: Science Direct (Research paper)
+- **url**: `https://www.sciencedirect.com/science/article/pii/S0962629822000701`
+
+```
+Lithuania's approach to energy security has been remarkably consistent in several ways. The country faces an ongoing supply gap in domestic energy production. Lithuanian policymakers and stakeholders, including myself, have typically viewed energy security through a geopolitical lens. For many years, nuclear power was widely seen as the primary solution to Lithuania's energy supply challenges, while renewable energy was not considered a serious near-term option for achieving energy security. However, I observed a dramatic shift around 2015-2016. At this point, renewable energy suddenly emerged as the main strategy for addressing Lithuania's domestic energy production gap. Meanwhile, support for nuclear power waned significantly, culminating in the new government's quiet decision to freeze the Visaginas nuclear project in 2016.
+```
+
+### id 6636
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-29 (year=2024)
+- **source**: facebook (Social media)
+- **url**: `https://www.facebook.com/story.php?story_fbid=926662189509932&id=100064984770069&_rdr`
+
+```
+We believe it’s just a waste of money for our EU’s pipe dream and obsession with renewables. Their misguided efforts to save the world seem pointless, especially when the big nations outside of the EU do very little for the environment, yet we’re the ones who end up paying for it.
+There’s nothing wrong with nuclear energy. New plants are relatively clean, safe, and affordable.
+```
+
+### id 6657
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-12 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/1698055787360091/posts/1955915294907471/`
+
+```
+I am afraid folks are missing the big picture regarding fiberglass shards in the water. Windmill blades wear out due to the constant abrading of their leading edges. They are filled and repaired until they become beyond repair, creating a constant source of the finest and sharpest form of microplastics. This pollution is much like asbestos in that it never goes away.
+
+I've seen photos and heard conversations about the massive areas of blades being buried in landfills, where the bulldozers look like ants compared to the blades and landfill area. This scale of reality is alarming.
+
+For those who compare this issue to oil, they need to realize that oil is a natural substance consumed by aerobic microbes. It ultimately goes away or settles back into its natural environment. Even nuclear waste has a natural life cycle. However, this glass particulate does not and will destroy the food chain on both farmland and in the ocean.
+
+We need to address this issue urgently to protect our environment and health.
+```
+
+### id 6677
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-06-25 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/6149554153/posts/10161526531074154/?comment_id=10161529890409154`
+
+```
+I often get tired of public projects larger than a sandbox. Multiply the projected cost by 4-5 and add a 10-year delay. Fortunately, energy islands are a long way off, so there is a chance that nuclear power will take over. A small detail: what impact will a "sea" of giant turbines have on wind systems? Energy doesn't come out of thin air; it is taken from something else. We must be extremely careful about tampering with the weather. Winds determine cloud formation and movement. No one has investigated this. I asked Wind Energy Denmark—no response. Vestas won't say anything either. Bjørn Lomborg thought it was worth investigating but hasn't made progress. I prefer nuclear power. We should start with the technology available now and improve it when new technology is ready.
+```
+
+### id 6804
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-10-09 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/1698055787360091/posts/1955915294907471/`
+
+```
+I believe the Danish government is fully aware that the Bornholm energy island is a loss-making project, yet it hasn’t been scrapped. So why should the North Sea energy island, or the new 6 GW offshore wind project in the North Sea, be any different? The Bornholm project, which started as a 2 GW offshore wind farm, was initially budgeted at DKK 39.4 billion, but has now ballooned to DKK 70 billion for just 3 GW. The North Sea energy island, originally estimated at DKK 52.8 billion for 3 GW, will likely cost DKK 233.333 billion for 10 GW. And if it's built as a steel platform, the cost could rise to DKK 319.933 billion. With the cost of 1 GW of offshore wind turbines increasing by 5.111 billion kroner, the Bornholm project could end up costing DKK 85.333 billion for 3 GW, while the North Sea energy island as steel platforms could reach DKK 371.004 billion for 10 GW. This brings the total construction budget for both projects to around DKK 456.377 billion, not including additional costs for electrical installations and caisson islands. Over 60 years, the combined investment in these two projects could reach nearly 913 billion kroner, but it’s unclear if they will ever be profitable. Compared to nuclear power, which may have lower overall costs, particularly with the economies of scale it could achieve, I wonder if these wind projects are really the best option. Wind and solar power come with high costs for additional capacity and grid changes, while nuclear power, which is similar to today’s thermal plants, could end up being more cost-effective in the long run.
+```
+
+### id 6845
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-09-12 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/groups/820666631776123?hoisted_section_header_type=recently_seen&multi_permalinks=2013525895823518`
+
+```
+Wind energy has never been world-class, while nuclear energy is world-class.
+```
+
+### id 6846
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-09-15 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/16jddwu/hundreder_i_protest_mod_gr%C3%B8n_str%C3%B8m_det_har_taget/`
+
+```
+Nuclear power, nuclear power, nuclear power!
+
+Context: The protests by hundreds of people against green energy highlight that the push for renewable energy has gone too far in some people's opinions. This suggests that nuclear power might be a more stable and less controversial alternative to green energy projects like the Danish Energy Islands.
+```
+
+### id 6860
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2023-09-15 (year=2023)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/16jddwu/hundreder_i_protest_mod_gr%C3%B8n_str%C3%B8m_det_har_taget/`
+
+```
+I want Nuclear power, I want nuclear power, I want nuclear power! Not energy Island"
+```
+
+### id 6868
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2022-01-13 (year=2022)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/ryunof/denmarks_34bn_energy_islands_could_solve_europes/`
+
+```
+That sounds expensive, foolish, and not particularly green, actually.
+
+What happens when the wind doesn’t blow?
+
+How does a nuclear power plant compare to the promised 12 GW here? It’s likely both faster and cheaper.
+
+Also, what a nice fact—timestamp 3:48, Denmark, Europe’s largest oil producer. Sure, but that’s only because Norway and the UK aren’t part of the EU. We don’t actually produce anything compared to Norway.
+```
+
+### id 6917
+
+- **matched**: `nuclear`
+- **actor**: Sairoel Amertet Finecomess
+- **representative of**: Mizan Tepi University
+- **date**: 2024-05-20 (year=2024)
+- **source**: MDPI (Research paper)
+- **url**: `https://www.mdpi.com/1996-1073/17/12/3039`
+
+```
+The energy island system was initially developed as a technology to improve the integration of large-scale power and enable long-distance transmission with significantly higher efficiency due to reduced energy losses. However, as more systems are integrated, the complexity of the entire energy system increases. To accommodate the next 20–30% of electric vehicles within the electricity system, it will be necessary to integrate up to 60 GW of offshore wind capacity, equivalent to approximately 40 nuclear power plants. Therefore, planning and investments must commence immediately to ensure the timely deployment of the required grid technology.
+```
+
+### id 6981
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, Danish parliament, det konservative folkeparti
+- **date**: 2024-12-12 (year=2024)
+- **source**: Bornholms Tidende (Local news media)
+- **url**: `https://tidende.dk/ind-og-udland/erhverv-politik/de-konservative-vil-ophaeve-forbud-mod-atomkraft/366128`
+
+```
+I believe that Denmark's energy transition is progressing too slowly. Therefore I advocate for repealing the 1985 nuclear power ban, stating that sustainable energy sources like wind and solar cannot meet the demand alone. Technological advancements in nuclear energy make it a viable and necessary alternative to fossil fuels.
+
+I will acknowledge the historical fear of nuclear power but argue that it is time to consider all available technologies. Delays in key green energy projects, such as the North Sea Energy Island (postponed to 2036), the Energy Island Bornholm (now costing 31 billion kroner), and hydrogen pipelines from West Jutland to Germany (delayed to 2032), highlight the urgency of diversifying Denmark's energy strategy. Combined pressures of the wars in Ukraine and the Middle East and the escalating climate crisis as reasons to act swiftly and explore nuclear energy as part of a sustainable solution.
+```
+
+### id 7111
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2022-12-06 (year=2022)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/watch/?v=422404646407953`
+
+```
+I wonder if anyone has noticed that a huge concentration of energy supply creates an obvious target in a conflict, which could be even worse than the present dependence on gas. I also wonder why nuclear power is never considered, even though it is cleaner, cheaper, quicker, and can be built in many places
+```
+
+### id 7116
+
+- **matched**: `nuclear`
+- **actor**: Kärnfull Energi (DK)
+- **representative of**: General public opinion
+- **date**: 2025-01-15 (year=2025)
+- **source**: LinkedIn (Social media)
+- **url**: `https://dk.linkedin.com/posts/k%C3%A4rnfull-energi-dk_atomkraft-fremfor-energi%C3%B8-bornholm-activity-7211289052749172737-85N5`
+
+```
+Nuclear power rather than Energiø Bornholm. Can save the Danes at least 31.5 billion
+```
+
+### id 7128
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Energy islands are sustainable as long as the wind blows... Sigh sigh sigh... It's a scandal that no one dares to talk about nuclear power... It's incredible that a party like NB is the only one with some brains in the energy sector.
+```
+
+### id 7131
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+And then the wind turbines have to be replaced every 25 years. A nuclear power plant easily produces stable electricity for 80 years. The Energy Islands are a completely crazy project.
+```
+
+### id 7137
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+A lot of negativity here in this Reddit thread. Either it's too expensive, or it's not nuclear power or high-speed trains.
+I think the energy island seems like a good idea. If we are to reduce our dependence on fossil fuels, wind power is one of the solutions that Denmark has here and now.
+It's expensive, yes. But that's just how it is. Nuclear power (which I personally advocate for) is not a realistic option for Denmark. We lack the knowledge, public will, and regulation/legislation.
+```
+
+### id 7141
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+We’re only making ourselves more dependent on burning fossil fuels and biomass with unreliable energy sources like the energy island.
+Nuclear power, yes please!
+```
+
+### id 7148
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2021-02-04 (year=2021)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/lcdy1k/pris_p%C3%A5_210_milliarder_kroner_ny_energi%C3%B8_skal/`
+
+```
+Screw wind turbines, nuclear power is even greener.
+There’s also nuclear fusion. If this becomes a success in France, there will be plenty of green energy without waste.
+It’s called the ITER project, where many countries have contributed financially for years.
+They expect to test the first plasma in 2025 and achieve full fusion by 2035!
+```
+
+### id 7152
+
+- **matched**: `nuclear`
+- **actor**: Steffen W. Frølund
+- **representative of**: Danish parliament, liberal alliance
+- **date**: 2024-10-18 (year=2024)
+- **source**: Liberal Alliance (Government website)
+- **url**: `https://www.liberalalliance.dk/blog/skandalen-om-energioeerne-er-et-symptom-paa-et-generelt-problem/`
+
+```
+The Energy Islands are a failed flagship project that should be abandoned. The North Sea Energy Island has already been indefinitely postponed due to projected losses of 50 billion kroner, and the Bornholm Energy Island is not economically viable according to the Economic Council. 
+
+This failure exemplifies a broader problem in Danish climate policy where we bet everything on grand-scale projects that might generate press coverage for ministers but aren't the most effective solutions for green transition.
+
+There's a better alternative that Denmark is ignoring. Sweden has chosen to invest in nuclear power, which has been recognized as a green energy source by the EU, the UN's climate panel, many of Denmark's neighboring countries, and numerous independent experts. Yet the Danish left wing and government continue to block nuclear power, claiming it's unsafe, expensive, and slow to implement. 
+
+Ironically, these same issues - high costs and slow implementation - are exactly what caused the Energy Islands to fail. It's time for Denmark to try something new and embrace nuclear power - the world's safest, most stable, and greenest energy source.
+```
+
+### id 7193
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2024-12-07 (year=2024)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/story.php/?story_fbid=1056826663120864&id=100063806191632`
+
+```
+A new large nuclear power plant costs 15-20 billion. It provides good green energy that can supply Denmark and neighboring countries with electricity on windless days. Place the plant in Køge, lay a cable to Bornholm, and the problem is solved.
+```
+
+### id 7298
+
+- **matched**: `nuclear`
+- **actor**: Mona Juul
+- **representative of**: Danish parliament, det konservative folkeparti; Danish pariliament
+- **date**: 2024-12-12 (year=2024)
+- **source**: Jyske Vestkysten (National newspaper)
+- **url**: `https://jv.dk/danmark/de-konservative-vil-ophaeve-forbud-mod-atomkraft?fbclid=IwY2xjawHx9odleHRuA2FlbQIxMAABHYTgHFFqtZqOv_moSh3LWl2OKQs5u7bBp4dgU0mwWx7K4LAR8FXrsbDrfw_aem_sVRo1YgzDLW_b50rklLEsg`
+
+```
+I think the decision made by the Danish Parliament in 1985 to ban nuclear power plants for electricity production in Denmark should be reconsidered. The technology has advanced since then, and I am eager to find a sustainable energy solution. I also point out that the North Sea energy island was delayed in August and won't be ready until 2036 at the earliest. Additionally, the Bornholm Energy Island is now expected to cost twice as much as initially planned, amounting to 31 billion DKK. The establishment of the hydrogen pipeline to transport hydrogen from West Jutland to Germany has also been postponed, from 2028 to 2032.
+```
+
+### id 7314
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-25 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/3953591188051193`
+
+```
+How many nuclear power plants have been shut down, decommissioned, and completely removed from the face of the Earth? Do we know the total cost of a nuclear power plant over its entire lifespan and after its closure?
+```
+
+### id 7318
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-25 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/3953591188051193`
+
+```
+Isn’t there some truth in the idea that Denmark should capitalize on its leading position in wind power and leave nuclear power to other countries?
+```
+
+### id 7320
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2021-02-25 (year=2021)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/denuafhaengige.dk/videos/3953591188051193`
+
+```
+I think a mixed solution is best. Wind turbines and solar panels are cheaper and quicker to build, but they aren't stable. Nuclear power is stable, but it's expensive and slow to develop. This is mostly the case in Europe, though things are different in China.
+```
+
+### id 7367
+
+- **matched**: `nuclear`
+- **actor**: Lena Kitzing
+- **representative of**: Technical University of Denmark (DTU)
+- **date**: 2025-01-31 (year=2025)
+- **source**: DR (National Newspaper)
+- **url**: `https://www.dr.dk/nyheder/viden/klima/statsstoette-til-havvind-derfor-ender-regningen-ikke-noedvendigvis-hos-dig`
+
+```
+The same model is used in the Netherlands and the United Kingdom, and also in existing Danish offshore wind farms like Anholt and Krieger's Flak. 
+
+The price depends on electricity consumption. If consumption rises with the adoption of electric cars, Power-to-X, and electrification, the price of electricity will increase. However, if consumption does not rise or if it takes too long for this to happen, the price may not increase, and we might end up with a net payment for offshore wind.
+
+Renewable energy is the cheapest technology we can expect to come to the market. Offshore wind is more expensive than onshore wind and solar, but it is still far, far cheaper than gas plants and nuclear power.
+```
+
+### id 7419
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/bornholmstidende/posts/energi%C3%B8-bornholm-er-udskudt-men-det-er-ikke-en-aflysning-siger-ministeren/1097571932379670/`
+
+```
+Excellent news for the people of Bornholm's wallets. Let this insane project remain postponed indefinitely. The Germans will most likely restart their nuclear power plants after the German election in February, and hopefully, they will focus less on unstable wind/solar energy.
+```
+
+### id 7420
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/bornholmstidende/posts/energi%C3%B8-bornholm-er-udskudt-men-det-er-ikke-en-aflysning-siger-ministeren/1097571932379670/`
+
+```
+The plans for Energy Island Bornholm have been postponed until a new German government, following the election on February 23, is ready to negotiate potential co-financing for the energy island. Bornholm's politicians expect this will only lead to a minor delay in the project. However, this might be somewhat naive. Friedrich Merz is the most likely chancellor after the election, and his view on wind power differs significantly from most Danish politicians. He prefers to focus on nuclear power instead. If Energy Island Bornholm is to be realized, it will likely be funded by Danish taxpayers. The Danish government has made a U-turn and is opening up for state subsidies for offshore wind. Initially, this will only cover new tenders for 2-3 gigawatts of offshore wind, while a large ongoing tender for areas in Denmark's internal waters is canceled. The climate minister has stated that political support for this will be sought, and hopes that there will also be public backing. State subsidies can only come from one source: the Danish people. Personally, I believe many Danes would prioritize many other things over the construction of offshore wind turbines.
+```
+
+### id 7422
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/bornholmstidende/posts/energi%C3%B8-bornholm-er-udskudt-men-det-er-ikke-en-aflysning-siger-ministeren/1097571932379670/`
+
+```
+After the election in Germany, nuclear power plants will be restarted. Nuclear power is more stable, and then in Denmark, the crazy plans for Energy Island Bornholm can be dropped. Maybe it's time to also consider nuclear power.
+```
+
+### id 7427
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-22 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/tv2bornholm/posts/pfbid022BNsNHRE6UXwbq8voPEsPVcNUyYoANd1fBYixJC6q9nCvPGp67mQWfazisszD28Wl/`
+
+```
+Germany already has many wind turbines, so it doesn’t make sense to have a cable from Danish/Bornholm wind turbines. If it’s very windy in Denmark, it’s also windy in Germany, so Germany doesn’t need Danish wind power when their own turbines produce more than enough. And when it’s not windy, and Germany needs to import Danish electricity, Energy Island Bornholm can’t help because it’s also not windy in Denmark. Drop this project and invest the billions in Swedish nuclear power, and lay an additional cable to Sweden.
+```
+
+### id 7434
+
+- **matched**: `nuclear`
+- **actor**: Peter Kofod
+- **representative of**: Danish parliament, dansk Folkeparti
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/peterkofodEU/photos/regeringens-energipolitik-er-ved-at-kollapse-ingen-vil-bygge-deres-havvind-der-s/1177926280356875/`
+
+```
+The government’s energy policy is collapsing. No one wants to build the offshore wind farms that are supposed to power everything. The Energy Island Bornholm project is hanging by a thread. The hydrogen infrastructure can only work if it receives massive state subsidies. The uncertainties are enormous, and the financial risk for the Danish people is huge. Now, the state wants to take on some of the risk for the companies that have so far been unwilling to bid on the project. This means that the state will let you – the taxpayers – bear the risk… But why don’t private companies want to take on these tasks if they are such a good business opportunity? You can think about that.
+
+The whole green climate circus just doesn’t work. We don’t need more uncertain energy sources like solar panels or wind turbines. 
+
+We need reliable, stable, and efficient nuclear power. We need lower energy taxes. In short, we need a completely new energy and climate policy based on climate realism and common sense.
+
+Do you agree?
+```
+
+### id 7441
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ekstrabladet/posts/1045073150990374/`
+
+```
+Bribery is happening again. 🤬
+"If wind energy is a Christmas tree, then it was a Christmas tree where all the parties expected to pick banknotes, but now we have to hang some notes on the tree," says Lars Aagaard.
+Oh, that's right, we have no corruption in Denmark...
+Stop the environmental destruction with wind turbines and solar panels, which is also a bad business, and switch to clean and stable nuclear power instead.
+```
+
+### id 7442
+
+- **matched**: `nuclear`
+- **actor**: Facebook user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/ekstrabladet/posts/1045073150990374/`
+
+```
+Nuclear power should be off the table for discussion. Preserve Danish nature and produce energy that can be controlled according to needs.
+```
+
+### id 7449
+
+- **matched**: `nuclear`
+- **actor**: Morten Messerschmidt
+- **representative of**: Danish Parliament, Dansk Folkeparti
+- **date**: 2025-01-31 (year=2025)
+- **source**: Facebook (Social media)
+- **url**: `https://www.facebook.com/photo.php?fbid=1244922226997079&id=100044379401397&set=a.263201358502509`
+
+```
+STOP the renewable energy madness – the energy policy is a farce!
+
+Danes are paying the highest electricity prices in the EU. Higher than Germany. Higher than France. Higher than any other country in the EU. And this is not a coincidence – it is a direct result of the government's catastrophic energy policy.
+
+The government has pumped billions of taxpayer money into wind turbines and solar panels, but what have we received? Unstable energy, sky-high prices, and a food sector suffering under electricity bills that have spiraled out of control. When electricity fluctuates up and down like a rollercoaster at Tivoli, the bill is directly passed on to consumers and businesses. The result? More expensive food, more expensive goods, and higher inflation.
+
+It is time to stop the expansion of renewable energy. The latest fiascos with the Energy Island Bornholm and the three failed tender rounds highlight that urgent action is needed.
+
+The good news is that there is an alternative – nuclear power!
+
+While the government insists on continuing its green puppet show, Dansk Folkeparti has long proposed a real solution: Let us try to buy the Brokdorf plant in northern Germany – one of the safest and most efficient nuclear power plants in Europe, which the Germans have decided to shut down, but which we could easily reopen and operate until fourth-generation nuclear power is ready.
+
+Instead, Mette Frederiksen and Lars Løkke are pouring billions into projects that don’t work. They live in the illusion that we can close stable energy sources and replace them with solar and wind, which only work when the weather allows. This is not energy policy – it is an expensive and dangerous game with the economy and future of Denmark.
+
+Let us be clear:
+❌ STOP wasting taxpayer money on renewable energy!
+❌ STOP the insane electricity prices that are ruining the Danish economy!
+✅ START a serious push for nuclear power – the only solution that can ensure cheap, stable, and CO2-free energy for Denmark!
+
+Denmark deserves better.
+```
+
+### id 7455
+
+- **matched**: `nuclear`
+- **actor**: Reddit user
+- **representative of**: General public opinion
+- **date**: 2025-01-31 (year=2025)
+- **source**: Reddit (Social media)
+- **url**: `https://www.reddit.com/r/Denmark/comments/1ieb6jd/comment/ma67um6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button`
+
+```
+If we've discovered that wind energy is not as cheap as we all thought and still requires government subsidies, then there’s really no good argument left for not using nuclear power.
+
+It’s completely stupid to throw billions at a hydrogen pipeline to Germany, which no one knows will ever become a profitable market. Why not use that money on something that stabilizes electricity prices in Denmark?
+```
+

@@ -1,0 +1,19 @@
+Nuclear/atomic mentions — summary
+Input: C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\Actor statement corpus - dataset.csv
+Searched columns: Statement
+Total rows: 6061
+Rows matching ANY keyword: 319
+
+Per-keyword: (count = rows that match that keyword; rows can count for multiple keywords)
+- nuclear: 297
+- reactor: 43
+- thorium: 9
+- uranium: 6
+- atomkraft: 5
+- smr: 3
+- fission: 2
+
+Files written:
+- nuclear_mentions_summary.txt
+- nuclear_mentions_matches.csv
+- nuclear_mentions_matches.md
