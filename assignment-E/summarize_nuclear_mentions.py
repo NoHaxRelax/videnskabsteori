@@ -61,12 +61,47 @@ def _choose_md_fence(text: str) -> str:
     return "````" if "```" in text else "```"
 
 
+def _parse_sentiments_md(md_path: Path) -> list[int]:
+    """
+    Parse sentiment file lines like:
+      0: 1 (positive, ...)
+      1: 0 (neutral, ...)
+      2: -1 (negative, ...)
+
+    Returns a list of ints in index order.
+    """
+    if not md_path.exists():
+        return []
+
+    sentiments_by_idx: dict[int, int] = {}
+    line_re = re.compile(r"^\s*(\d+)\s*:\s*(-?1|0|1)\b")
+    for line in md_path.read_text(encoding="utf-8").splitlines():
+        m = line_re.match(line)
+        if not m:
+            continue
+        sentiments_by_idx[int(m.group(1))] = int(m.group(2))
+
+    if not sentiments_by_idx:
+        return []
+
+    max_idx = max(sentiments_by_idx)
+    missing = [i for i in range(max_idx + 1) if i not in sentiments_by_idx]
+    if missing:
+        raise SystemExit(
+            f"ERROR: Missing sentiment indices in {md_path}: "
+            f"{missing[:20]}{'...' if len(missing) > 20 else ''}"
+        )
+
+    return [sentiments_by_idx[i] for i in range(max_idx + 1)]
+
+
 def summarize(
     input_csv: Path,
     out_dir: Path,
     patterns: dict[str, str],
     search_columns: list[str],
     snippet_len: int,
+    sentiments_md: Path | None = None,
 ) -> tuple[Path, Path, Path]:
     if not input_csv.exists():
         raise SystemExit(f"ERROR: Input CSV not found: {input_csv}")
@@ -82,8 +117,15 @@ def summarize(
     matched_rows = 0
     per_keyword = Counter[str]()
 
+    sentiment_values: list[int] = []
+    if sentiments_md is not None:
+        sentiment_values = _parse_sentiments_md(sentiments_md)
+    sentiment_i = 0
+
     with input_csv.open("r", encoding="utf-8", errors="replace", newline="") as f:
         reader = csv.DictReader(f)
+        if not reader.fieldnames:
+            raise SystemExit("ERROR: CSV has no header row / no fieldnames detected.")
 
         # Resolve columns (case-insensitive exact match)
         resolved_cols = [_find_column(reader.fieldnames, c) for c in search_columns]
@@ -106,15 +148,13 @@ def summarize(
         year_col = try_find("Year")
 
         with matches_path.open("w", encoding="utf-8", newline="") as out:
-            writer = csv.writer(out)
-            writer.writerow(
-                [
-                    "id",
-                    "matched_keywords",
-                    "matched_in_columns",
-                    "statement",
-                ]
-            )
+            # Keep original dataset columns, then append our derived columns.
+            base_fields = list(reader.fieldnames)
+            extra_fields = ["matched_keywords", "matched_in_columns", "nuclear_sentiment"]
+            fieldnames = base_fields + [c for c in extra_fields if c not in base_fields]
+
+            writer = csv.DictWriter(out, fieldnames=fieldnames, quoting=csv.QUOTE_MINIMAL)
+            writer.writeheader()
 
             md_rows: list[dict[str, str]] = []
 
@@ -146,19 +186,22 @@ def summarize(
 
                 if matched_keys:
                     matched_rows += 1
-                    rid = (row.get(id_col) or "").strip()
-                    # Use full statement text (no snippet / truncation)
-                    statement_full = (row.get(statement_col) or "").strip()
-                    writer.writerow(
-                        [
-                            rid,
-                            ";".join(matched_keys),
-                            ";".join(sorted(matched_cols)),
-                            statement_full,
-                        ]
-                    )
+                    # Add derived columns while keeping original row content.
+                    out_row = dict(row)
+                    out_row["matched_keywords"] = ";".join(matched_keys)
+                    out_row["matched_in_columns"] = ";".join(sorted(matched_cols))
+
+                    # Prefer filling sentiment if we have an aligned sentiment file; otherwise blank.
+                    if sentiment_values and sentiment_i < len(sentiment_values):
+                        out_row["nuclear_sentiment"] = str(sentiment_values[sentiment_i])
+                    else:
+                        out_row["nuclear_sentiment"] = ""
+                    sentiment_i += 1
+
+                    writer.writerow(out_row)
 
                     # Store full row for markdown output (keep minimal, but readable)
+                    rid = (row.get(id_col) or "").strip()
                     md_rows.append(
                         {
                             "id": rid,
@@ -181,6 +224,16 @@ def summarize(
                             "statement": (row.get(statement_col) or "").strip(),
                         }
                     )
+
+    if sentiment_values and sentiment_i != len(sentiment_values):
+        # Non-fatal warning: keep output, but tell the user the sentiment alignment is off.
+        print(
+            "WARNING: results_sentiment.md count does not match matched rows.\n"
+            f"- sentiments in md: {len(sentiment_values)}\n"
+            f"- matched rows written: {sentiment_i}\n"
+            "Wrote output anyway; nuclear_sentiment may be incomplete/misaligned.\n"
+            "Tip: re-run sentiment classification for the current matches file."
+        )
 
     with summary_path.open("w", encoding="utf-8", newline="") as out:
         out.write("Nuclear/atomic mentions — summary\n")
@@ -265,6 +318,12 @@ def main() -> None:
         default=220,
         help="(Deprecated) Previously controlled CSV snippet length. CSV now contains full statements.",
     )
+    parser.add_argument(
+        "--sentiments-md",
+        type=Path,
+        default=Path(__file__).parent / "data" / "results_sentiment.md",
+        help="Optional sentiment file to merge into matches (default: assignment-E/data/results_sentiment.md).",
+    )
     args = parser.parse_args()
 
     summary_path, matches_path, matches_md_path = summarize(
@@ -273,6 +332,7 @@ def main() -> None:
         patterns=DEFAULT_PATTERNS,
         search_columns=args.columns,
         snippet_len=args.snippet_len,
+        sentiments_md=args.sentiments_md if args.sentiments_md.exists() else None,
     )
     print(f"Wrote: {summary_path}")
     print(f"Wrote: {matches_path}")

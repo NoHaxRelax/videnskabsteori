@@ -1,5 +1,5 @@
 Nuclear/atomic mentions — summary
-Input: C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\Actor statement corpus - dataset.csv
+Input: C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\data\Actor statement corpus - dataset.csv
 Searched columns: Statement
 Total rows: 6061
 Rows matching ANY keyword: 319

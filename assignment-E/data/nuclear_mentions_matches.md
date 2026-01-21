@@ -1,6 +1,6 @@
 # Nuclear/atomic mentions — matches
 
-- **Input**: `C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\Actor statement corpus - dataset.csv`
+- **Input**: `C:\Users\Elias\Desktop\DTU BCs\videnskabsteori\assignment-E\data\Actor statement corpus - dataset.csv`
 - **Searched columns**: `Statement`
 - **Rows matched**: 319
 
