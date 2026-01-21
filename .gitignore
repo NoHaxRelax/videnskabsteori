@@ -1,0 +1,8 @@
+﻿# Local secrets
+.env
+assignment-E/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
