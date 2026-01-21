@@ -244,14 +244,14 @@ def main() -> None:
     parser.add_argument(
         "--input",
         type=Path,
-        default=Path(__file__).parent / "Actor statement corpus - dataset.csv",
-        help="Path to the CSV file (default: dataset next to this script).",
+        default=Path(__file__).parent / "data" / "Actor statement corpus - dataset.csv",
+        help="Path to the CSV file (default: assignment-E/data/Actor statement corpus - dataset.csv).",
     )
     parser.add_argument(
         "--outdir",
         type=Path,
-        default=Path(__file__).parent,
-        help="Directory to write output files to (default: same folder as script).",
+        default=Path(__file__).parent / "data",
+        help="Directory to write output files to (default: assignment-E/data).",
     )
     parser.add_argument(
         "--columns",
