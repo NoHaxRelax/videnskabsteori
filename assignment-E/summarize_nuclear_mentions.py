@@ -112,7 +112,7 @@ def summarize(
                     "id",
                     "matched_keywords",
                     "matched_in_columns",
-                    "statement_snippet",
+                    "statement",
                 ]
             )
 
@@ -147,13 +147,14 @@ def summarize(
                 if matched_keys:
                     matched_rows += 1
                     rid = (row.get(id_col) or "").strip()
-                    snippet = combined_for_snippet[:snippet_len]
+                    # Use full statement text (no snippet / truncation)
+                    statement_full = (row.get(statement_col) or "").strip()
                     writer.writerow(
                         [
                             rid,
                             ";".join(matched_keys),
                             ";".join(sorted(matched_cols)),
-                            snippet,
+                            statement_full,
                         ]
                     )
 
@@ -262,7 +263,7 @@ def main() -> None:
         "--snippet-len",
         type=int,
         default=220,
-        help="How many characters of the combined text to keep in the output CSV snippet.",
+        help="(Deprecated) Previously controlled CSV snippet length. CSV now contains full statements.",
     )
     args = parser.parse_args()
 
